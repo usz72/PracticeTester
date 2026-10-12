@@ -1,0 +1,3462 @@
+[
+    {
+        "question": "What is the primary goal of customer service in the hospitality industry?",
+        "options": [
+            "Increase employee workloads",
+            "Meet customer needs and create positive experiences",
+            "Reduce communication with customers",
+            "Eliminate all operating expenses"
+        ],
+        "answer": "Meet customer needs and create positive experiences"
+    },
+    {
+        "question": "Which department is primarily responsible for checking guests into a hotel?",
+        "options": [
+            "Housekeeping",
+            "Food and beverage",
+            "Front office",
+            "Maintenance"
+        ],
+        "answer": "Front office"
+    },
+    {
+        "question": "What does ADR stand for in the hotel industry?",
+        "options": [
+            "Average Daily Rate",
+            "Annual Department Revenue",
+            "Adjusted Dining Revenue",
+            "Average Demand Ratio"
+        ],
+        "answer": "Average Daily Rate"
+    },
+    {
+        "question": "How is hotel occupancy rate calculated?",
+        "options": [
+            "Total revenue divided by total expenses",
+            "Rooms occupied divided by rooms available, multiplied by 100",
+            "Guests served divided by employees scheduled",
+            "Rooms available divided by rooms occupied, multiplied by 100"
+        ],
+        "answer": "Rooms occupied divided by rooms available, multiplied by 100"
+    },
+    {
+        "question": "What is the main responsibility of a hotel concierge?",
+        "options": [
+            "Prepare employee payroll",
+            "Clean guest rooms",
+            "Assist guests with recommendations, reservations, and arrangements",
+            "Manage the hotel's accounting records"
+        ],
+        "answer": "Assist guests with recommendations, reservations, and arrangements"
+    },
+    {
+        "question": "What does RevPAR measure?",
+        "options": [
+            "Revenue per available room",
+            "Reservations per average restaurant",
+            "Revenue per annual reservation",
+            "Room expenses per average rate"
+        ],
+        "answer": "Revenue per available room"
+    },
+    {
+        "question": "Which action best demonstrates active listening?",
+        "options": [
+            "Interrupting customers to offer solutions",
+            "Ignoring customers while preparing a response",
+            "Repeating key concerns to confirm understanding",
+            "Changing the subject when customers complain"
+        ],
+        "answer": "Repeating key concerns to confirm understanding"
+    },
+    {
+        "question": "What is the purpose of a hotel reservation system?",
+        "options": [
+            "Track room availability and bookings",
+            "Replace every front desk employee",
+            "Determine employee vacation policies",
+            "Manage restaurant recipes exclusively"
+        ],
+        "answer": "Track room availability and bookings"
+    },
+    {
+        "question": "A guest complains that a hotel room is dirty. What should the employee do first?",
+        "options": [
+            "Explain that housekeeping is busy",
+            "Listen, apologize, and acknowledge the concern",
+            "Tell the guest to clean the room themselves",
+            "Ignore the complaint until checkout"
+        ],
+        "answer": "Listen, apologize, and acknowledge the concern"
+    },
+    {
+        "question": "What is the primary purpose of housekeeping in a hotel?",
+        "options": [
+            "Set room prices",
+            "Negotiate contracts with travel agencies",
+            "Maintain clean, sanitary, and comfortable guest areas",
+            "Prepare financial statements"
+        ],
+        "answer": "Maintain clean, sanitary, and comfortable guest areas"
+    },
+    {
+        "question": "Which pricing strategy involves charging higher prices during periods of strong demand?",
+        "options": [
+            "Penetration pricing",
+            "Dynamic pricing",
+            "Cost-free pricing",
+            "Uniform pricing"
+        ],
+        "answer": "Dynamic pricing"
+    },
+    {
+        "question": "What is a hotel's target market?",
+        "options": [
+            "All competitors in the area",
+            "Only the hotel's employees",
+            "The specific group of customers the hotel aims to attract",
+            "The hotel's list of suppliers"
+        ],
+        "answer": "The specific group of customers the hotel aims to attract"
+    },
+    {
+        "question": "What is the purpose of a customer satisfaction survey?",
+        "options": [
+            "Identify customer opinions and areas for improvement",
+            "Eliminate the need for employee training",
+            "Guarantee higher prices",
+            "Replace the hotel's booking system"
+        ],
+        "answer": "Identify customer opinions and areas for improvement"
+    },
+    {
+        "question": "Which is an example of an intangible hospitality product?",
+        "options": [
+            "A hotel key card",
+            "A restaurant table",
+            "A guest's service experience",
+            "A suitcase"
+        ],
+        "answer": "A guest's service experience"
+    },
+    {
+        "question": "What is the main purpose of a standard operating procedure?",
+        "options": [
+            "Encourage employees to work without guidelines",
+            "Establish consistent procedures for completing tasks",
+            "Eliminate management responsibilities",
+            "Allow employees to ignore safety requirements"
+        ],
+        "answer": "Establish consistent procedures for completing tasks"
+    },
+    {
+        "question": "What does a hotel's no-show refer to?",
+        "options": [
+            "A guest who arrives before check-in",
+            "A guest who cancels a restaurant reservation",
+            "A guest with an unpaid minibar charge",
+            "A guest who fails to arrive for a reservation without canceling"
+        ],
+        "answer": "A guest who fails to arrive for a reservation without canceling"
+    },
+    {
+        "question": "Which is the best example of cross-selling in a hotel?",
+        "options": [
+            "Offering a guest a spa reservation after booking a room",
+            "Reducing housekeeping inspections",
+            "Canceling a guest's reservation",
+            "Refusing to provide local recommendations"
+        ],
+        "answer": "Offering a guest a spa reservation after booking a room"
+    },
+    {
+        "question": "What is upselling?",
+        "options": [
+            "Selling products below their cost",
+            "Encouraging customers to purchase a higher-value option",
+            "Removing optional services from a reservation",
+            "Selling products exclusively to employees"
+        ],
+        "answer": "Encouraging customers to purchase a higher-value option"
+    },
+    {
+        "question": "What should an employee do if a guest requests information they do not know?",
+        "options": [
+            "Invent an answer",
+            "Ignore the question",
+            "Politely find a reliable source or knowledgeable colleague",
+            "Tell the guest the information is unimportant"
+        ],
+        "answer": "Politely find a reliable source or knowledgeable colleague"
+    },
+    {
+        "question": "Which metric measures the percentage of available hotel rooms that are occupied?",
+        "options": [
+            "Gross profit margin",
+            "Customer acquisition cost",
+            "Average check",
+            "Occupancy rate"
+        ],
+        "answer": "Occupancy rate"
+    },
+    {
+        "question": "What is the main purpose of a hotel loyalty program?",
+        "options": [
+            "Encourage repeat business and reward returning guests",
+            "Prevent customers from comparing prices",
+            "Eliminate customer feedback",
+            "Reduce all services offered to members"
+        ],
+        "answer": "Encourage repeat business and reward returning guests"
+    },
+    {
+        "question": "Which action is most appropriate when a guest has a mobility disability?",
+        "options": [
+            "Assume the guest needs no assistance",
+            "Ask about their needs and provide appropriate accessible accommodations",
+            "Refuse to make accessibility arrangements",
+            "Require the guest to bring their own accessible equipment in every situation"
+        ],
+        "answer": "Ask about their needs and provide appropriate accessible accommodations"
+    },
+    {
+        "question": "What is the primary purpose of a property management system in a hotel?",
+        "options": [
+            "Design hotel advertisements exclusively",
+            "Manufacture hotel furniture",
+            "Manage reservations, room status, and guest accounts",
+            "Replace every hotel department"
+        ],
+        "answer": "Manage reservations, room status, and guest accounts"
+    },
+    {
+        "question": "What is a walk-in guest?",
+        "options": [
+            "A guest who arrives without a prior reservation",
+            "A guest who books a room six months ahead",
+            "A guest who cancels a reservation",
+            "A guest who works at the hotel"
+        ],
+        "answer": "A guest who arrives without a prior reservation"
+    },
+    {
+        "question": "Which practice best protects guest privacy?",
+        "options": [
+            "Discussing guest room numbers publicly",
+            "Sharing guest payment details with other customers",
+            "Posting guest information on social media",
+            "Verifying authorization before disclosing guest information"
+        ],
+        "answer": "Verifying authorization before disclosing guest information"
+    },
+    {
+        "question": "What is the purpose of a guest folio?",
+        "options": [
+            "Record hotel employee evaluations",
+            "Summarize a guest's charges, payments, and account activity",
+            "List restaurant recipes",
+            "Document hotel construction plans"
+        ],
+        "answer": "Summarize a guest's charges, payments, and account activity"
+    },
+    {
+        "question": "Which is the best response when a guest praises an employee?",
+        "options": [
+            "Disregard the compliment",
+            "Tell the guest that praise is unnecessary",
+            "Thank the guest and acknowledge the feedback professionally",
+            "Ask the guest to complain instead"
+        ],
+        "answer": "Thank the guest and acknowledge the feedback professionally"
+    },
+    {
+        "question": "What does overbooking mean in the hotel industry?",
+        "options": [
+            "Accepting more reservations than the property's available capacity",
+            "Closing every room for maintenance",
+            "Offering discounts on all reservations",
+            "Allowing guests to stay without registering"
+        ],
+        "answer": "Accepting more reservations than the property's available capacity"
+    },
+    {
+        "question": "What should a hotel do when overbooking prevents a confirmed guest from receiving a room?",
+        "options": [
+            "Blame the guest for arriving",
+            "Refuse to discuss alternatives",
+            "Ignore the reservation record",
+            "Follow its relocation policy and assist the guest with suitable alternatives"
+        ],
+        "answer": "Follow its relocation policy and assist the guest with suitable alternatives"
+    },
+    {
+        "question": "What is the purpose of a hotel's emergency evacuation plan?",
+        "options": [
+            "Increase room revenue",
+            "Help occupants leave the building safely during an emergency",
+            "Reduce the number of guest services",
+            "Replace routine housekeeping procedures"
+        ],
+        "answer": "Help occupants leave the building safely during an emergency"
+    },
+    {
+        "question": "What is the primary responsibility of a food and beverage manager?",
+        "options": [
+            "Inspect guest passports",
+            "Schedule airline flights",
+            "Oversee restaurant or beverage operations and service quality",
+            "Manage a hotel's electrical system exclusively"
+        ],
+        "answer": "Oversee restaurant or beverage operations and service quality"
+    },
+    {
+        "question": "What is a menu engineering strategy designed to do?",
+        "options": [
+            "Evaluate menu item popularity and profitability",
+            "Eliminate all customer choices",
+            "Increase ingredient waste",
+            "Determine hotel room availability"
+        ],
+        "answer": "Evaluate menu item popularity and profitability"
+    },
+    {
+        "question": "What is food cost percentage?",
+        "options": [
+            "Employee wages divided by total sales",
+            "Total rent divided by food inventory",
+            "Marketing expenses divided by customer count",
+            "Food cost divided by food sales, multiplied by 100"
+        ],
+        "answer": "Food cost divided by food sales, multiplied by 100"
+    },
+    {
+        "question": "A restaurant has food costs of $3,000 and food sales of $10,000. What is its food cost percentage?",
+        "options": [
+            "10%",
+            "20%",
+            "30%",
+            "40%"
+        ],
+        "answer": "30%"
+    },
+    {
+        "question": "What is the primary purpose of FIFO in food storage?",
+        "options": [
+            "Store the newest food at the front indefinitely",
+            "Use older stock before newer stock",
+            "Eliminate food safety inspections",
+            "Purchase only frozen products"
+        ],
+        "answer": "Use older stock before newer stock"
+    },
+    {
+        "question": "What does FIFO stand for?",
+        "options": [
+            "First In, First Out",
+            "Food Inspection, Food Ordering",
+            "Final Inventory, Final Output",
+            "First Inspection, Final Order"
+        ],
+        "answer": "First In, First Out"
+    },
+    {
+        "question": "Which practice best prevents cross-contamination in a kitchen?",
+        "options": [
+            "Using the same cutting board for raw chicken and vegetables without cleaning",
+            "Storing raw meat above ready-to-eat food",
+            "Washing hands only at the end of a shift",
+            "Separating raw and ready-to-eat foods and sanitizing equipment"
+        ],
+        "answer": "Separating raw and ready-to-eat foods and sanitizing equipment"
+    },
+    {
+        "question": "What is the main purpose of a food safety temperature log?",
+        "options": [
+            "Measure employee satisfaction",
+            "Track food temperatures to help verify safe storage and handling",
+            "Calculate restaurant advertising costs",
+            "Record guest birthdays"
+        ],
+        "answer": "Track food temperatures to help verify safe storage and handling"
+    },
+    {
+        "question": "What should a server do if a customer reports a food allergy?",
+        "options": [
+            "Guarantee safety without checking ingredients",
+            "Remove the ingredient after the dish is prepared",
+            "Communicate the allergy to the kitchen and verify safe preparation procedures",
+            "Recommend that the customer ignore the allergy"
+        ],
+        "answer": "Communicate the allergy to the kitchen and verify safe preparation procedures"
+    },
+    {
+        "question": "Which action is most appropriate when a restaurant receives a complaint about an incorrect order?",
+        "options": [
+            "Acknowledge the mistake and arrange a correction promptly",
+            "Tell the customer the kitchen never makes mistakes",
+            "Charge for the incorrect dish without explanation",
+            "Ask the customer to prepare the correct meal"
+        ],
+        "answer": "Acknowledge the mistake and arrange a correction promptly"
+    },
+    {
+        "question": "What is a restaurant's average check?",
+        "options": [
+            "The number of employees on duty",
+            "The number of tables in the restaurant",
+            "The total amount spent on food inventory",
+            "Average customer spending per transaction or guest, based on the chosen measure"
+        ],
+        "answer": "Average customer spending per transaction or guest, based on the chosen measure"
+    },
+    {
+        "question": "Which is an example of suggestive selling in a restaurant?",
+        "options": [
+            "Refusing to describe menu items",
+            "Recommending a suitable dessert or beverage to a customer",
+            "Removing popular items from the menu",
+            "Ignoring a customer's preferences"
+        ],
+        "answer": "Recommending a suitable dessert or beverage to a customer"
+    },
+    {
+        "question": "What is the primary purpose of inventory control in a restaurant?",
+        "options": [
+            "Increase spoilage",
+            "Eliminate purchasing records",
+            "Maintain appropriate stock levels and reduce waste",
+            "Prevent staff from accessing ingredients"
+        ],
+        "answer": "Maintain appropriate stock levels and reduce waste"
+    },
+    {
+        "question": "What does perishable inventory include?",
+        "options": [
+            "Foods that spoil relatively quickly",
+            "Permanent building fixtures",
+            "Reusable metal shelving only",
+            "Restaurant trademarks"
+        ],
+        "answer": "Foods that spoil relatively quickly"
+    },
+    {
+        "question": "Which is an example of a fixed cost for a restaurant?",
+        "options": [
+            "Ingredients used for each meal",
+            "Disposable napkins used per customer",
+            "Credit card fees that vary with sales",
+            "Monthly rent under a fixed lease"
+        ],
+        "answer": "Monthly rent under a fixed lease"
+    },
+    {
+        "question": "Which is an example of a variable cost in a restaurant?",
+        "options": [
+            "A fixed monthly insurance premium",
+            "Food ingredients used to prepare meals",
+            "Annual business registration fees",
+            "A fixed monthly lease payment"
+        ],
+        "answer": "Food ingredients used to prepare meals"
+    },
+    {
+        "question": "What is the break-even point?",
+        "options": [
+            "The point at which revenue equals total costs",
+            "The point at which expenses always exceed revenue",
+            "The highest possible sales level",
+            "The number of employees who arrive late"
+        ],
+        "answer": "The point at which revenue equals total costs"
+    },
+    {
+        "question": "A restaurant has fixed costs of $6,000, sells meals for $20 each, and has variable costs of $8 per meal. How many meals must it sell to break even?",
+        "options": [
+            "300 meals",
+            "400 meals",
+            "500 meals",
+            "750 meals"
+        ],
+        "answer": "500 meals"
+    },
+    {
+        "question": "What is a restaurant's gross profit?",
+        "options": [
+            "Total sales minus cost of goods sold",
+            "Total sales minus employee headcount",
+            "Total assets plus liabilities",
+            "Total inventory multiplied by rent"
+        ],
+        "answer": "Total sales minus cost of goods sold"
+    },
+    {
+        "question": "What is the primary purpose of a restaurant reservation policy?",
+        "options": [
+            "Prevent customers from dining",
+            "Eliminate communication with guests",
+            "Make table management and customer expectations more consistent",
+            "Guarantee that every table remains empty"
+        ],
+        "answer": "Make table management and customer expectations more consistent"
+    },
+    {
+        "question": "Which action best supports an efficient restaurant workflow?",
+        "options": [
+            "Allowing each employee to use unrelated procedures",
+            "Coordinating communication between the kitchen and service staff",
+            "Ignoring delays in food preparation",
+            "Changing orders without informing the kitchen"
+        ],
+        "answer": "Coordinating communication between the kitchen and service staff"
+    },
+    {
+        "question": "What is the purpose of a restaurant sanitation schedule?",
+        "options": [
+            "Set menu prices",
+            "Track customer loyalty points",
+            "Calculate room occupancy",
+            "Specify cleaning tasks and when they must be completed"
+        ],
+        "answer": "Specify cleaning tasks and when they must be completed"
+    },
+    {
+        "question": "What is the best way to respond to a customer who says their meal is taking too long?",
+        "options": [
+            "Acknowledge the delay, apologize, and check the order status",
+            "Tell the customer to stop asking questions",
+            "Pretend the order has already been served",
+            "Blame another customer"
+        ],
+        "answer": "Acknowledge the delay, apologize, and check the order status"
+    },
+    {
+        "question": "Which metric measures how efficiently a restaurant uses its available tables over time?",
+        "options": [
+            "Employee turnover",
+            "Food cost percentage",
+            "Table turnover rate",
+            "Hotel occupancy rate"
+        ],
+        "answer": "Table turnover rate"
+    },
+    {
+        "question": "What is the primary purpose of a catering contract?",
+        "options": [
+            "Replace the event schedule",
+            "Document the agreed services, prices, and responsibilities",
+            "Eliminate the need to communicate with clients",
+            "Guarantee that event attendance never changes"
+        ],
+        "answer": "Document the agreed services, prices, and responsibilities"
+    },
+    {
+        "question": "What should a restaurant manager do when food waste increases significantly?",
+        "options": [
+            "Ignore waste records",
+            "Increase orders without reviewing demand",
+            "Stop inspecting food inventory",
+            "Analyze waste patterns and adjust purchasing, storage, or portioning"
+        ],
+        "answer": "Analyze waste patterns and adjust purchasing, storage, or portioning"
+    },
+    {
+        "question": "Which is the best example of professional table service?",
+        "options": [
+            "Following service standards while respecting guests' preferences",
+            "Interrupting every conversation",
+            "Ignoring requests for assistance",
+            "Serving dishes without checking order accuracy"
+        ],
+        "answer": "Following service standards while respecting guests' preferences"
+    },
+    {
+        "question": "What does a point-of-sale system primarily do in a restaurant?",
+        "options": [
+            "Control the weather",
+            "Determine employee citizenship",
+            "Process transactions and record sales",
+            "Replace all food safety procedures"
+        ],
+        "answer": "Process transactions and record sales"
+    },
+    {
+        "question": "What is the purpose of portion control?",
+        "options": [
+            "Make every serving inconsistent",
+            "Maintain consistent serving sizes and help manage costs",
+            "Increase unnecessary food waste",
+            "Prevent menu planning"
+        ],
+        "answer": "Maintain consistent serving sizes and help manage costs"
+    },
+    {
+        "question": "Which action is appropriate when a restaurant employee notices a wet floor?",
+        "options": [
+            "Leave it unmarked",
+            "Wait until the end of the shift",
+            "Ask customers to avoid noticing it",
+            "Secure the area, use appropriate warning signs, and arrange cleanup"
+        ],
+        "answer": "Secure the area, use appropriate warning signs, and arrange cleanup"
+    },
+    {
+        "question": "What is the purpose of a restaurant's daily sales report?",
+        "options": [
+            "Summarize sales activity and support operational decisions",
+            "Record guest medical histories",
+            "Replace employee training",
+            "Determine the weather forecast"
+        ],
+        "answer": "Summarize sales activity and support operational decisions"
+    },
+    {
+        "question": "What is a banquet event order used for?",
+        "options": [
+            "Record hotel room maintenance only",
+            "Set employee vacation dates",
+            "Communicate event details such as timing, setup, menu, and service requirements",
+            "Replace the client's event agreement"
+        ],
+        "answer": "Communicate event details such as timing, setup, menu, and service requirements"
+    },
+    {
+        "question": "Which is the best way to accommodate a guest's dietary restriction?",
+        "options": [
+            "Assume every menu item is suitable",
+            "Verify ingredients and communicate requirements to food preparation staff",
+            "Remove the restriction from the reservation",
+            "Serve an alternative without informing the guest"
+        ],
+        "answer": "Verify ingredients and communicate requirements to food preparation staff"
+    },
+    {
+        "question": "What is the primary goal of tourism marketing?",
+        "options": [
+            "Prevent travelers from researching destinations",
+            "Eliminate destination services",
+            "Discourage repeat visits",
+            "Attract travelers and encourage them to choose a destination or service"
+        ],
+        "answer": "Attract travelers and encourage them to choose a destination or service"
+    },
+    {
+        "question": "What does a destination marketing organization generally do?",
+        "options": [
+            "Promote a destination to potential visitors",
+            "Operate every hotel in a destination",
+            "Issue passports to travelers",
+            "Set every airline's ticket prices"
+        ],
+        "answer": "Promote a destination to potential visitors"
+    },
+    {
+        "question": "What is sustainable tourism?",
+        "options": [
+            "Tourism that focuses exclusively on maximizing visitor numbers",
+            "Tourism that avoids all local businesses",
+            "Tourism that considers environmental, social, and economic impacts",
+            "Tourism that prohibits cultural activities"
+        ],
+        "answer": "Tourism that considers environmental, social, and economic impacts"
+    },
+    {
+        "question": "Which is an example of ecotourism?",
+        "options": [
+            "Travel focused on damaging natural habitats",
+            "A guided nature trip that supports conservation and local communities",
+            "A trip that disregards wildlife protection",
+            "A vacation that prohibits learning about nature"
+        ],
+        "answer": "A guided nature trip that supports conservation and local communities"
+    },
+    {
+        "question": "What is seasonality in tourism?",
+        "options": [
+            "The process of hiring seasonal employees only",
+            "The practice of changing hotel room numbers",
+            "The elimination of travel during holidays",
+            "Predictable changes in travel demand during different times of the year"
+        ],
+        "answer": "Predictable changes in travel demand during different times of the year"
+    },
+    {
+        "question": "Which strategy can help a destination attract visitors during its off-season?",
+        "options": [
+            "Offer targeted promotions and develop seasonal events",
+            "Close all visitor information centers",
+            "Eliminate advertising during slow periods",
+            "Remove transportation options"
+        ],
+        "answer": "Offer targeted promotions and develop seasonal events"
+    },
+    {
+        "question": "What is a travel itinerary?",
+        "options": [
+            "A hotel's employee handbook",
+            "A restaurant inventory report",
+            "A schedule of planned travel activities, transportation, and accommodations",
+            "A list of hotel maintenance expenses"
+        ],
+        "answer": "A schedule of planned travel activities, transportation, and accommodations"
+    },
+    {
+        "question": "What is the main function of a travel agency?",
+        "options": [
+            "Build airports",
+            "Help customers research, plan, and book travel arrangements",
+            "Operate every tourist attraction",
+            "Determine international immigration laws"
+        ],
+        "answer": "Help customers research, plan, and book travel arrangements"
+    },
+    {
+        "question": "What does an all-inclusive resort typically offer?",
+        "options": [
+            "Accommodation only, with no other services",
+            "Free international transportation in every case",
+            "Unlimited access to every local business",
+            "Accommodation and a package of meals, drinks, or activities under specified terms"
+        ],
+        "answer": "Accommodation and a package of meals, drinks, or activities under specified terms"
+    },
+    {
+        "question": "Which factor is most important when recommending a destination to a traveler?",
+        "options": [
+            "The traveler's budget, interests, needs, and preferences",
+            "The agent's personal preference alone",
+            "The destination's distance from the travel agent's home",
+            "The number of advertisements the destination displays"
+        ],
+        "answer": "The traveler's budget, interests, needs, and preferences"
+    },
+    {
+        "question": "What is cultural tourism?",
+        "options": [
+            "Travel exclusively for shopping",
+            "Travel that avoids interactions with local communities",
+            "Travel focused on experiencing a destination's culture, history, and heritage",
+            "Travel that prohibits museum visits"
+        ],
+        "answer": "Travel focused on experiencing a destination's culture, history, and heritage"
+    },
+    {
+        "question": "What is the purpose of a visitor information center?",
+        "options": [
+            "Sell hotel employee uniforms",
+            "Provide visitors with information about attractions, transportation, and local services",
+            "Manage international border inspections",
+            "Set the exchange rates for every currency"
+        ],
+        "answer": "Provide visitors with information about attractions, transportation, and local services"
+    },
+    {
+        "question": "Which is an example of a tourism multiplier effect?",
+        "options": [
+            "Visitors avoid all local spending",
+            "A destination stops hiring local workers",
+            "Hotels eliminate purchases from suppliers",
+            "Tourist spending supports local businesses, employees, and suppliers"
+        ],
+        "answer": "Tourist spending supports local businesses, employees, and suppliers"
+    },
+    {
+        "question": "What is the purpose of travel insurance?",
+        "options": [
+            "Provide specified financial protection against covered travel-related risks",
+            "Guarantee that a trip will never be delayed",
+            "Eliminate all immigration requirements",
+            "Guarantee free upgrades at every hotel"
+        ],
+        "answer": "Provide specified financial protection against covered travel-related risks"
+    },
+    {
+        "question": "Which document is commonly required for international air travel, depending on the destination?",
+        "options": [
+            "A restaurant menu",
+            "A hotel loyalty card",
+            "A valid passport and any required visas",
+            "A local gym membership"
+        ],
+        "answer": "A valid passport and any required visas"
+    },
+    {
+        "question": "What is the primary purpose of a tour guide?",
+        "options": [
+            "Set airline security rules",
+            "Provide information, direction, and assistance to tour participants",
+            "Manage hotel payroll",
+            "Approve every international visa"
+        ],
+        "answer": "Provide information, direction, and assistance to tour participants"
+    },
+    {
+        "question": "What is a package tour?",
+        "options": [
+            "A hotel room sold without any booking conditions",
+            "A tour that only includes a map",
+            "A trip without a planned destination",
+            "A travel product combining services such as transportation, lodging, or activities"
+        ],
+        "answer": "A travel product combining services such as transportation, lodging, or activities"
+    },
+    {
+        "question": "Which strategy can help reduce overtourism at a popular destination?",
+        "options": [
+            "Encourage visits to alternative areas and manage visitor flows",
+            "Concentrate every visitor at one attraction",
+            "Ignore environmental carrying capacity",
+            "Remove all public transportation"
+        ],
+        "answer": "Encourage visits to alternative areas and manage visitor flows"
+    },
+    {
+        "question": "What does accessibility in tourism mean?",
+        "options": [
+            "Offering services exclusively online",
+            "Limiting visitors to a single entrance",
+            "Designing travel services and experiences to be usable by people with different abilities and needs",
+            "Restricting travel information to one language"
+        ],
+        "answer": "Designing travel services and experiences to be usable by people with different abilities and needs"
+    },
+    {
+        "question": "Which is an example of adventure tourism?",
+        "options": [
+            "Completing routine office paperwork",
+            "Participating in a guided mountain hiking experience",
+            "Attending an online meeting",
+            "Checking a hotel invoice"
+        ],
+        "answer": "Participating in a guided mountain hiking experience"
+    },
+    {
+        "question": "What is the main purpose of a destination's brand?",
+        "options": [
+            "Replace every visitor service",
+            "Guarantee that every visitor spends the same amount",
+            "Prevent destinations from competing",
+            "Create a recognizable identity and communicate the destination's appeal"
+        ],
+        "answer": "Create a recognizable identity and communicate the destination's appeal"
+    },
+    {
+        "question": "What is a tourism market segment?",
+        "options": [
+            "A group of travelers sharing relevant characteristics or needs",
+            "A physical section of a hotel lobby",
+            "A type of restaurant kitchen",
+            "A list of airport maintenance tasks"
+        ],
+        "answer": "A group of travelers sharing relevant characteristics or needs"
+    },
+    {
+        "question": "Which is an example of demographic segmentation?",
+        "options": [
+            "Grouping travelers by preferred climate",
+            "Grouping travelers by favorite activities",
+            "Grouping travelers by age group",
+            "Grouping travelers by preferred booking website"
+        ],
+        "answer": "Grouping travelers by age group"
+    },
+    {
+        "question": "Which is an example of psychographic segmentation?",
+        "options": [
+            "Grouping travelers by postal code",
+            "Grouping travelers by lifestyle and interests",
+            "Grouping travelers by passport number",
+            "Grouping travelers by hotel room number"
+        ],
+        "answer": "Grouping travelers by lifestyle and interests"
+    },
+    {
+        "question": "What is the primary purpose of a tourism trade show?",
+        "options": [
+            "Replace all destination websites",
+            "Eliminate relationships between tourism businesses",
+            "Prevent travel professionals from sharing information",
+            "Connect tourism businesses with potential customers and industry partners"
+        ],
+        "answer": "Connect tourism businesses with potential customers and industry partners"
+    },
+    {
+        "question": "What is a cruise ship's shore excursion?",
+        "options": [
+            "An organized activity or trip passengers take while visiting a port",
+            "A ship's engine inspection",
+            "A hotel room cleaning procedure",
+            "A passenger's onboard dining receipt"
+        ],
+        "answer": "An organized activity or trip passengers take while visiting a port"
+    },
+    {
+        "question": "Which factor can significantly affect tourism demand?",
+        "options": [
+            "The color of a hotel's office supplies",
+            "The number of internal staff meetings",
+            "Economic conditions, transportation costs, and traveler confidence",
+            "The font used in a restaurant's staff handbook"
+        ],
+        "answer": "Economic conditions, transportation costs, and traveler confidence"
+    },
+    {
+        "question": "What is the primary purpose of a tourism risk management plan?",
+        "options": [
+            "Eliminate all visitor activities",
+            "Identify risks and establish procedures to reduce harm and respond to incidents",
+            "Guarantee that natural disasters cannot occur",
+            "Replace employee safety training"
+        ],
+        "answer": "Identify risks and establish procedures to reduce harm and respond to incidents"
+    },
+    {
+        "question": "Which is an example of responsible wildlife tourism?",
+        "options": [
+            "Encouraging visitors to disturb nesting animals",
+            "Allowing visitors to feed all wild animals",
+            "Removing wildlife from protected habitats for entertainment",
+            "Observing animals under guidelines that protect their welfare and habitat"
+        ],
+        "answer": "Observing animals under guidelines that protect their welfare and habitat"
+    },
+    {
+        "question": "What is the primary role of a convention and visitors bureau?",
+        "options": [
+            "Promote a destination to leisure travelers and meetings or event planners",
+            "Issue airline pilot licenses",
+            "Operate all restaurants in the city",
+            "Determine hotel employees' wages nationwide"
+        ],
+        "answer": "Promote a destination to leisure travelers and meetings or event planners"
+    },
+    {
+        "question": "Which is a common benefit of tourism for local communities?",
+        "options": [
+            "Guaranteed elimination of traffic",
+            "Guaranteed absence of environmental impacts",
+            "Employment opportunities and income for local businesses",
+            "Elimination of the need for public services"
+        ],
+        "answer": "Employment opportunities and income for local businesses"
+    },
+    {
+        "question": "Which is a potential negative impact of poorly managed tourism?",
+        "options": [
+            "Improved visitor information",
+            "Environmental damage and pressure on local infrastructure",
+            "More opportunities for cultural exchange in every case",
+            "Guaranteed increases in local biodiversity"
+        ],
+        "answer": "Environmental damage and pressure on local infrastructure"
+    },
+    {
+        "question": "What is the purpose of an airline's boarding pass?",
+        "options": [
+            "Guarantee free hotel accommodation",
+            "Replace a passport in every international situation",
+            "Serve as a travel insurance policy",
+            "Provide flight and boarding information and authorize boarding under applicable procedures"
+        ],
+        "answer": "Provide flight and boarding information and authorize boarding under applicable procedures"
+    },
+    {
+        "question": "What does a travel supplier provide?",
+        "options": [
+            "Travel-related products or services such as lodging, transportation, or activities",
+            "Only government tax assessments",
+            "Only hotel employee evaluations",
+            "Only restaurant customer complaints"
+        ],
+        "answer": "Travel-related products or services such as lodging, transportation, or activities"
+    },
+    {
+        "question": "What is the primary purpose of destination visitor statistics?",
+        "options": [
+            "Determine the personal preferences of every individual visitor",
+            "Guarantee future tourism growth",
+            "Understand visitor volume, spending, and travel patterns",
+            "Replace all customer research"
+        ],
+        "answer": "Understand visitor volume, spending, and travel patterns"
+    },
+    {
+        "question": "Which marketing method is most appropriate for promoting a destination to younger travelers who frequently use social platforms?",
+        "options": [
+            "Avoid all digital communication",
+            "Create engaging social content tailored to the target audience",
+            "Use only printed internal employee reports",
+            "Remove destination images from advertisements"
+        ],
+        "answer": "Create engaging social content tailored to the target audience"
+    },
+    {
+        "question": "What is the main purpose of a hotel marketing plan?",
+        "options": [
+            "Eliminate competition",
+            "Prevent customers from making reservations",
+            "Replace financial management",
+            "Identify target markets, objectives, strategies, and performance measures"
+        ],
+        "answer": "Identify target markets, objectives, strategies, and performance measures"
+    },
+    {
+        "question": "What are the four Ps of marketing?",
+        "options": [
+            "Product, Price, Place, Promotion",
+            "People, Payroll, Planning, Profit",
+            "Productivity, Policy, Personnel, Purchasing",
+            "Price, Performance, Profit, Payroll"
+        ],
+        "answer": "Product, Price, Place, Promotion"
+    },
+    {
+        "question": "What is a unique selling proposition?",
+        "options": [
+            "A list of all employee job titles",
+            "A property's monthly expense report",
+            "A distinctive benefit that differentiates a product or service from competitors",
+            "A mandatory government tax form"
+        ],
+        "answer": "A distinctive benefit that differentiates a product or service from competitors"
+    },
+    {
+        "question": "Which is an example of public relations for a hotel?",
+        "options": [
+            "Changing room numbers without a reason",
+            "Issuing a news release about a community partnership",
+            "Removing every customer review",
+            "Keeping all business activities confidential from customers"
+        ],
+        "answer": "Issuing a news release about a community partnership"
+    },
+    {
+        "question": "What is the purpose of competitive analysis?",
+        "options": [
+            "Copy every competitor's decision without evaluation",
+            "Eliminate the need to understand customers",
+            "Guarantee that competitors will close",
+            "Evaluate competitors' strengths, weaknesses, offerings, and market positions"
+        ],
+        "answer": "Evaluate competitors' strengths, weaknesses, offerings, and market positions"
+    },
+    {
+        "question": "What does SWOT analysis stand for?",
+        "options": [
+            "Strengths, Weaknesses, Opportunities, Threats",
+            "Sales, Wages, Operations, Taxes",
+            "Services, Workflows, Objectives, Targets",
+            "Strategy, Workforce, Output, Timing"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, Threats"
+    },
+    {
+        "question": "Which is an example of a strength in a hotel's SWOT analysis?",
+        "options": [
+            "A new competitor opening nearby",
+            "A decline in the regional economy",
+            "A highly rated location and consistently strong guest reviews",
+            "A shortage of available skilled employees"
+        ],
+        "answer": "A highly rated location and consistently strong guest reviews"
+    },
+    {
+        "question": "Which is an example of an external threat to a restaurant?",
+        "options": [
+            "A well-trained service team",
+            "A new competing restaurant opening nearby",
+            "An effective food safety program",
+            "A popular signature dish"
+        ],
+        "answer": "A new competing restaurant opening nearby"
+    },
+    {
+        "question": "What is market research?",
+        "options": [
+            "A process used only to decorate hotel rooms",
+            "A method of replacing customer service",
+            "A way to guarantee that every product succeeds",
+            "The collection and analysis of information about customers and markets"
+        ],
+        "answer": "The collection and analysis of information about customers and markets"
+    },
+    {
+        "question": "What is a primary source of market research?",
+        "options": [
+            "Survey responses collected directly from customers",
+            "A competitor's published annual report",
+            "A previously published industry study",
+            "A government tourism report published last year"
+        ],
+        "answer": "Survey responses collected directly from customers"
+    },
+    {
+        "question": "What is a secondary source of market research?",
+        "options": [
+            "An original interview conducted by the researcher",
+            "A newly administered customer survey",
+            "An existing government report about tourism trends",
+            "An experiment conducted by the business"
+        ],
+        "answer": "An existing government report about tourism trends"
+    },
+    {
+        "question": "What is a key performance indicator?",
+        "options": [
+            "An informal opinion without a measurement",
+            "A measurable value used to evaluate progress toward an objective",
+            "A list of employee hobbies",
+            "A mandatory menu item"
+        ],
+        "answer": "A measurable value used to evaluate progress toward an objective"
+    },
+    {
+        "question": "Which is a useful KPI for measuring a hotel's online reputation?",
+        "options": [
+            "The number of kitchen utensils purchased",
+            "The number of internal staff meetings",
+            "The size of the hotel parking signs",
+            "Guest review ratings and review trends"
+        ],
+        "answer": "Guest review ratings and review trends"
+    },
+    {
+        "question": "What is the purpose of search engine optimization for a tourism business?",
+        "options": [
+            "Improve the visibility of relevant website content in organic search results",
+            "Guarantee the first position in every search result",
+            "Eliminate the need for a website",
+            "Prevent travelers from comparing destinations"
+        ],
+        "answer": "Improve the visibility of relevant website content in organic search results"
+    },
+    {
+        "question": "What is the main purpose of email marketing for a hotel?",
+        "options": [
+            "Send every message to people who did not consent",
+            "Replace every guest interaction",
+            "Communicate relevant offers and information to an appropriate subscriber audience",
+            "Guarantee that every recipient makes a purchase"
+        ],
+        "answer": "Communicate relevant offers and information to an appropriate subscriber audience"
+    },
+    {
+        "question": "Which is an example of a measurable marketing objective?",
+        "options": [
+            "Make the hotel more famous someday",
+            "Increase direct bookings by 10% over the next quarter",
+            "Have the best customer service in the world",
+            "Make every visitor completely satisfied"
+        ],
+        "answer": "Increase direct bookings by 10% over the next quarter"
+    },
+    {
+        "question": "What does a customer relationship management system help a hospitality business do?",
+        "options": [
+            "Replace every hotel department",
+            "Eliminate customer preferences from records",
+            "Prevent communication with repeat guests",
+            "Organize customer information and support personalized communication"
+        ],
+        "answer": "Organize customer information and support personalized communication"
+    },
+    {
+        "question": "Which practice is most appropriate when collecting guest data for marketing?",
+        "options": [
+            "Explain relevant data practices and follow applicable privacy laws",
+            "Collect sensitive information without a business reason",
+            "Share guest details publicly",
+            "Ignore consent requirements"
+        ],
+        "answer": "Explain relevant data practices and follow applicable privacy laws"
+    },
+    {
+        "question": "What is brand loyalty?",
+        "options": [
+            "A customer's inability to choose another business",
+            "A business's refusal to improve its products",
+            "A customer's tendency to repeatedly choose and recommend a brand",
+            "A company's practice of changing its name each month"
+        ],
+        "answer": "A customer's tendency to repeatedly choose and recommend a brand"
+    },
+    {
+        "question": "What is a conversion rate in digital marketing?",
+        "options": [
+            "The total number of employees in a business",
+            "The percentage of relevant users who complete a desired action",
+            "The total number of rooms in a hotel",
+            "The amount of inventory lost each month"
+        ],
+        "answer": "The percentage of relevant users who complete a desired action"
+    },
+    {
+        "question": "A hotel's website receives 2,000 visits and 100 completed bookings. What is its booking conversion rate?",
+        "options": [
+            "2%",
+            "4%",
+            "10%",
+            "5%"
+        ],
+        "answer": "5%"
+    },
+    {
+        "question": "What is the purpose of a promotional campaign?",
+        "options": [
+            "Communicate an offer or message to influence a target audience",
+            "Prevent customers from learning about a business",
+            "Eliminate the need for customer research",
+            "Guarantee that operating costs will disappear"
+        ],
+        "answer": "Communicate an offer or message to influence a target audience"
+    },
+    {
+        "question": "Which advertising message is most appropriate for a family-oriented resort?",
+        "options": [
+            "A message focused exclusively on corporate boardrooms",
+            "A message emphasizing features that are irrelevant to families",
+            "A message highlighting family activities, suitable accommodations, and convenience",
+            "A message that hides prices and important restrictions"
+        ],
+        "answer": "A message highlighting family activities, suitable accommodations, and convenience"
+    },
+    {
+        "question": "What is the main purpose of a customer persona?",
+        "options": [
+            "Record every employee's work schedule",
+            "Represent a typical target customer using relevant research and characteristics",
+            "Replace all customer data analysis",
+            "Set the property's building maintenance budget"
+        ],
+        "answer": "Represent a typical target customer using relevant research and characteristics"
+    },
+    {
+        "question": "What is price elasticity of demand?",
+        "options": [
+            "The number of employees who work during a shift",
+            "The amount of money a hotel spends on advertising",
+            "The percentage of customers who leave reviews",
+            "How responsive quantity demanded is to a change in price"
+        ],
+        "answer": "How responsive quantity demanded is to a change in price"
+    },
+    {
+        "question": "What is penetration pricing?",
+        "options": [
+            "Setting a relatively low initial price to attract customers and gain market share",
+            "Setting the highest possible price permanently",
+            "Changing prices randomly without a strategy",
+            "Charging every customer a different price without justification"
+        ],
+        "answer": "Setting a relatively low initial price to attract customers and gain market share"
+    },
+    {
+        "question": "What is premium pricing?",
+        "options": [
+            "Setting prices below variable costs indefinitely",
+            "Offering every service for free",
+            "Charging a relatively high price to reflect positioning, value, or exclusivity",
+            "Eliminating all price differences between products"
+        ],
+        "answer": "Charging a relatively high price to reflect positioning, value, or exclusivity"
+    },
+    {
+        "question": "What is a distribution channel in hospitality marketing?",
+        "options": [
+            "A hotel's emergency exit",
+            "A path through which customers discover, book, or purchase a service",
+            "A restaurant's food storage refrigerator",
+            "An employee's training checklist"
+        ],
+        "answer": "A path through which customers discover, book, or purchase a service"
+    },
+    {
+        "question": "Which is an example of a direct booking channel for a hotel?",
+        "options": [
+            "A travel agency booking on behalf of a customer",
+            "An independent booking intermediary",
+            "A third-party travel marketplace",
+            "The hotel's own reservation website"
+        ],
+        "answer": "The hotel's own reservation website"
+    },
+    {
+        "question": "What is one potential advantage of direct hotel bookings?",
+        "options": [
+            "Greater control over the customer relationship and potentially lower distribution costs",
+            "Guaranteed elimination of all marketing costs",
+            "Automatic increases in occupancy regardless of demand",
+            "Guaranteed absence of booking cancellations"
+        ],
+        "answer": "Greater control over the customer relationship and potentially lower distribution costs"
+    },
+    {
+        "question": "What is the main purpose of reputation management?",
+        "options": [
+            "Prevent all guests from leaving feedback",
+            "Delete every negative review regardless of validity",
+            "Monitor feedback and respond appropriately to protect trust and improve service",
+            "Replace employee performance evaluations"
+        ],
+        "answer": "Monitor feedback and respond appropriately to protect trust and improve service"
+    },
+    {
+        "question": "How should a hotel respond to a negative online review?",
+        "options": [
+            "Publish the guest's private information",
+            "Respond professionally, acknowledge the concern, and offer an appropriate resolution",
+            "Insult the reviewer",
+            "Claim that negative experiences are impossible"
+        ],
+        "answer": "Respond professionally, acknowledge the concern, and offer an appropriate resolution"
+    },
+    {
+        "question": "What is integrated marketing communication?",
+        "options": [
+            "Using unrelated messages across every communication channel",
+            "Avoiding customer communication",
+            "Using only internal accounting reports",
+            "Coordinating marketing channels to deliver a consistent brand message"
+        ],
+        "answer": "Coordinating marketing channels to deliver a consistent brand message"
+    },
+    {
+        "question": "Which is the best way to evaluate whether a marketing campaign succeeded?",
+        "options": [
+            "Compare its results with predefined objectives and relevant KPIs",
+            "Count only the number of meetings held",
+            "Ignore the campaign's costs",
+            "Assume that every advertisement generated sales"
+        ],
+        "answer": "Compare its results with predefined objectives and relevant KPIs"
+    },
+    {
+        "question": "What is the primary purpose of a hospitality budget?",
+        "options": [
+            "Guarantee that expenses never occur",
+            "Replace financial records",
+            "Plan expected revenue and expenses and support financial control",
+            "Eliminate the need to monitor business performance"
+        ],
+        "answer": "Plan expected revenue and expenses and support financial control"
+    },
+    {
+        "question": "What is revenue?",
+        "options": [
+            "The total amount of money a business owes",
+            "Income earned from selling goods or services before deducting expenses",
+            "The total value of employee vacation days",
+            "The number of customers served"
+        ],
+        "answer": "Income earned from selling goods or services before deducting expenses"
+    },
+    {
+        "question": "What is net profit?",
+        "options": [
+            "Total revenue before any expenses",
+            "The amount of cash in a register at opening",
+            "The number of rooms sold",
+            "The amount remaining after applicable expenses are deducted from revenue"
+        ],
+        "answer": "The amount remaining after applicable expenses are deducted from revenue"
+    },
+    {
+        "question": "A hotel earns $50,000 in revenue and has $38,000 in total expenses. What is its net profit?",
+        "options": [
+            "$12,000",
+            "$18,000",
+            "$38,000",
+            "$88,000"
+        ],
+        "answer": "$12,000"
+    },
+    {
+        "question": "A restaurant earns $80,000 in sales and has $20,000 in cost of goods sold. What is its gross profit?",
+        "options": [
+            "$20,000",
+            "$40,000",
+            "$60,000",
+            "$100,000"
+        ],
+        "answer": "$60,000"
+    },
+    {
+        "question": "A hotel generates $24,000 in room revenue from 120 occupied room nights. What is its average daily rate?",
+        "options": [
+            "$120",
+            "$200",
+            "$240",
+            "$288"
+        ],
+        "answer": "$200"
+    },
+    {
+        "question": "A hotel has 200 available rooms and sells 150 of them on a particular night. What is its occupancy rate?",
+        "options": [
+            "25%",
+            "50%",
+            "60%",
+            "75%"
+        ],
+        "answer": "75%"
+    },
+    {
+        "question": "A hotel earns $18,000 in room revenue and has 150 available rooms. What is its RevPAR?",
+        "options": [
+            "$120",
+            "$150",
+            "$180",
+            "$270"
+        ],
+        "answer": "$120"
+    },
+    {
+        "question": "What is a cash flow statement used to show?",
+        "options": [
+            "Only customer satisfaction ratings",
+            "Only the number of employees hired",
+            "Cash entering and leaving a business over a period",
+            "Only the property's market share"
+        ],
+        "answer": "Cash entering and leaving a business over a period"
+    },
+    {
+        "question": "What is the purpose of accounts payable?",
+        "options": [
+            "Record money owed to the business by customers",
+            "Record amounts the business owes to suppliers or other creditors",
+            "Record employee satisfaction",
+            "Record the number of hotel reservations"
+        ],
+        "answer": "Record amounts the business owes to suppliers or other creditors"
+    },
+    {
+        "question": "What are accounts receivable?",
+        "options": [
+            "Money the business owes to suppliers",
+            "The property's annual utility expenses",
+            "The value of unused employee vacation days",
+            "Amounts customers or other parties owe the business"
+        ],
+        "answer": "Amounts customers or other parties owe the business"
+    },
+    {
+        "question": "What is the primary purpose of internal financial controls?",
+        "options": [
+            "Reduce errors, deter fraud, and protect business assets",
+            "Allow unrestricted access to every financial account",
+            "Eliminate all financial documentation",
+            "Prevent managers from reviewing transactions"
+        ],
+        "answer": "Reduce errors, deter fraud, and protect business assets"
+    },
+    {
+        "question": "Which practice helps prevent employee theft in a hospitality business?",
+        "options": [
+            "Allow one person to approve and conceal every transaction",
+            "Avoid inventory counts",
+            "Separate key financial responsibilities and review transactions",
+            "Share register passwords among all employees"
+        ],
+        "answer": "Separate key financial responsibilities and review transactions"
+    },
+    {
+        "question": "What is return on investment (ROI)?",
+        "options": [
+            "The total number of customer complaints",
+            "A measure comparing the return from an investment with its cost",
+            "The total number of hotel rooms available",
+            "The amount of inventory purchased each day"
+        ],
+        "answer": "A measure comparing the return from an investment with its cost"
+    },
+    {
+        "question": "A hotel spends $5,000 on a marketing campaign and generates $7,000 in additional profit attributable to it. Using net profit divided by investment cost, what is the campaign's ROI?",
+        "options": [
+            "20%",
+            "40%",
+            "100%",
+            "140%"
+        ],
+        "answer": "140%"
+    },
+    {
+        "question": "What is depreciation in accounting?",
+        "options": [
+            "The systematic allocation of a tangible asset's depreciable cost over its useful life",
+            "An increase in customer satisfaction",
+            "A refund issued to a guest",
+            "The total amount of cash received from sales"
+        ],
+        "answer": "The systematic allocation of a tangible asset's depreciable cost over its useful life"
+    },
+    {
+        "question": "What is a forecast in hospitality management?",
+        "options": [
+            "A record of only past employee absences",
+            "A guaranteed statement of future results",
+            "An estimate of future business conditions or performance",
+            "A list of completed maintenance tasks"
+        ],
+        "answer": "An estimate of future business conditions or performance"
+    },
+    {
+        "question": "Why is demand forecasting important for a hotel?",
+        "options": [
+            "It guarantees that every room will be occupied",
+            "It helps plan staffing, inventory, pricing, and capacity",
+            "It eliminates seasonal changes",
+            "It removes the need to monitor reservations"
+        ],
+        "answer": "It helps plan staffing, inventory, pricing, and capacity"
+    },
+    {
+        "question": "What is labor cost percentage?",
+        "options": [
+            "Food purchases divided by room revenue",
+            "Total assets divided by total liabilities",
+            "Room revenue divided by room inventory",
+            "Labor costs divided by the selected revenue measure, multiplied by 100"
+        ],
+        "answer": "Labor costs divided by the selected revenue measure, multiplied by 100"
+    },
+    {
+        "question": "A restaurant has labor costs of $12,000 and sales of $60,000. What is its labor cost percentage?",
+        "options": [
+            "20%",
+            "25%",
+            "30%",
+            "50%"
+        ],
+        "answer": "20%"
+    },
+    {
+        "question": "What is the main purpose of procurement in a hotel?",
+        "options": [
+            "Provide entertainment to guests",
+            "Set the weather forecast",
+            "Acquire the goods and services needed for operations",
+            "Replace the housekeeping department"
+        ],
+        "answer": "Acquire the goods and services needed for operations"
+    },
+    {
+        "question": "Which factor should be considered when selecting a hospitality supplier?",
+        "options": [
+            "Price alone, regardless of quality",
+            "Quality, reliability, cost, service, and relevant sustainability requirements",
+            "The supplier's logo color alone",
+            "The number of advertisements the supplier purchases"
+        ],
+        "answer": "Quality, reliability, cost, service, and relevant sustainability requirements"
+    },
+    {
+        "question": "What is a purchase order?",
+        "options": [
+            "A guest's online review",
+            "A record of employee training",
+            "A restaurant's promotional flyer",
+            "A document authorizing or detailing a purchase from a supplier"
+        ],
+        "answer": "A document authorizing or detailing a purchase from a supplier"
+    },
+    {
+        "question": "What is the purpose of a contingency fund?",
+        "options": [
+            "Provide money for unexpected expenses or emergencies",
+            "Pay for every planned expense without limits",
+            "Replace all operating revenue",
+            "Eliminate the need for financial planning"
+        ],
+        "answer": "Provide money for unexpected expenses or emergencies"
+    },
+    {
+        "question": "What is a balance sheet?",
+        "options": [
+            "A daily list of restaurant orders",
+            "A report of only customer complaints",
+            "A financial statement showing assets, liabilities, and equity at a point in time",
+            "A schedule of employee shifts"
+        ],
+        "answer": "A financial statement showing assets, liabilities, and equity at a point in time"
+    },
+    {
+        "question": "Which accounting equation is correct?",
+        "options": [
+            "Revenue = Assets + Expenses",
+            "Assets = Liabilities + Equity",
+            "Profit = Assets + Liabilities",
+            "Expenses = Equity + Revenue"
+        ],
+        "answer": "Assets = Liabilities + Equity"
+    },
+    {
+        "question": "What is working capital commonly calculated as?",
+        "options": [
+            "Total revenue minus total employees",
+            "Fixed assets minus depreciation",
+            "Gross profit minus marketing expenses",
+            "Current assets minus current liabilities"
+        ],
+        "answer": "Current assets minus current liabilities"
+    },
+    {
+        "question": "What is the primary purpose of a performance appraisal?",
+        "options": [
+            "Evaluate employee performance and identify development opportunities",
+            "Guarantee every employee receives the same promotion",
+            "Eliminate all employee feedback",
+            "Replace every training program"
+        ],
+        "answer": "Evaluate employee performance and identify development opportunities"
+    },
+    {
+        "question": "Which is the best example of effective delegation?",
+        "options": [
+            "Assigning a task without explaining expectations",
+            "Giving every task to the busiest employee",
+            "Assigning responsibilities based on skills and clarifying expectations",
+            "Avoiding follow-up on important assignments"
+        ],
+        "answer": "Assigning responsibilities based on skills and clarifying expectations"
+    },
+    {
+        "question": "What is the primary purpose of employee onboarding?",
+        "options": [
+            "Replace all future training",
+            "Help new employees understand their roles, policies, and workplace procedures",
+            "Prevent new employees from asking questions",
+            "Eliminate the need for supervisors"
+        ],
+        "answer": "Help new employees understand their roles, policies, and workplace procedures"
+    },
+    {
+        "question": "What is employee turnover?",
+        "options": [
+            "The number of guests who check out daily",
+            "The percentage of occupied hotel rooms",
+            "The rate at which inventory is used",
+            "The rate at which employees leave and are replaced by an organization"
+        ],
+        "answer": "The rate at which employees leave and are replaced by an organization"
+    },
+    {
+        "question": "Which action can help reduce employee turnover?",
+        "options": [
+            "Provide fair treatment, development opportunities, and supportive management",
+            "Ignore employee concerns",
+            "Change schedules without communication whenever possible",
+            "Eliminate recognition for strong performance"
+        ],
+        "answer": "Provide fair treatment, development opportunities, and supportive management"
+    },
+    {
+        "question": "What is the best approach to resolving a disagreement between two hospitality employees?",
+        "options": [
+            "Publicly embarrass both employees",
+            "Ignore the issue until it affects guests",
+            "Listen impartially, identify the issue, and work toward a fair solution",
+            "Automatically blame the newest employee"
+        ],
+        "answer": "Listen impartially, identify the issue, and work toward a fair solution"
+    },
+    {
+        "question": "What is emotional intelligence in the workplace?",
+        "options": [
+            "Avoiding all emotional responses",
+            "Recognizing and managing emotions while understanding others' feelings",
+            "Making decisions based only on personal feelings",
+            "Refusing to communicate with coworkers"
+        ],
+        "answer": "Recognizing and managing emotions while understanding others' feelings"
+    },
+    {
+        "question": "Which leadership style involves seeking employee input before making decisions?",
+        "options": [
+            "Autocratic leadership in every situation",
+            "Laissez-faire leadership without any involvement",
+            "Punitive leadership",
+            "Democratic or participative leadership"
+        ],
+        "answer": "Democratic or participative leadership"
+    },
+    {
+        "question": "What is the purpose of cross-training hospitality employees?",
+        "options": [
+            "Teach employees skills for multiple roles or tasks",
+            "Prevent employees from learning new skills",
+            "Eliminate all job responsibilities",
+            "Guarantee that staffing needs never change"
+        ],
+        "answer": "Teach employees skills for multiple roles or tasks"
+    },
+    {
+        "question": "What is workforce scheduling designed to accomplish?",
+        "options": [
+            "Give every employee identical hours regardless of demand",
+            "Eliminate the need for labor forecasting",
+            "Match staffing levels with expected operational needs and applicable requirements",
+            "Schedule employees without considering availability"
+        ],
+        "answer": "Match staffing levels with expected operational needs and applicable requirements"
+    },
+    {
+        "question": "Which is an example of workplace discrimination?",
+        "options": [
+            "Evaluating employees using relevant job performance criteria",
+            "Treating an employee unfairly because of a legally protected characteristic",
+            "Providing job-related training to employees",
+            "Applying reasonable performance standards consistently"
+        ],
+        "answer": "Treating an employee unfairly because of a legally protected characteristic"
+    },
+    {
+        "question": "What should a manager do after receiving a credible report of workplace harassment?",
+        "options": [
+            "Dismiss the report without review",
+            "Publicly reveal the reporting employee's private information",
+            "Automatically punish the reporting employee",
+            "Follow workplace policy, take the report seriously, and arrange an appropriate investigation"
+        ],
+        "answer": "Follow workplace policy, take the report seriously, and arrange an appropriate investigation"
+    },
+    {
+        "question": "What is the purpose of occupational health and safety training?",
+        "options": [
+            "Help employees recognize hazards and follow safe work procedures",
+            "Encourage employees to ignore warning signs",
+            "Eliminate all emergency procedures",
+            "Replace required protective equipment"
+        ],
+        "answer": "Help employees recognize hazards and follow safe work procedures"
+    },
+    {
+        "question": "Which is the best example of constructive feedback?",
+        "options": [
+            "You are always terrible at your job",
+            "Everyone dislikes working with you",
+            "Your check-in process missed two verification steps; let's review the procedure together",
+            "Do better, but I will not explain how"
+        ],
+        "answer": "Your check-in process missed two verification steps; let's review the procedure together"
+    },
+    {
+        "question": "What is a SMART goal?",
+        "options": [
+            "A goal that is secret, manual, and temporary",
+            "A goal that is specific, measurable, achievable, relevant, and time-bound",
+            "A goal that has no deadline or measurement",
+            "A goal based only on personal opinions"
+        ],
+        "answer": "A goal that is specific, measurable, achievable, relevant, and time-bound"
+    },
+    {
+        "question": "Which is an example of a SMART employee development goal?",
+        "options": [
+            "Become better at customer service someday",
+            "Try to improve communication whenever possible",
+            "Make every customer happy all the time",
+            "Complete customer service training and improve the satisfaction score by five percentage points within three months"
+        ],
+        "answer": "Complete customer service training and improve the satisfaction score by five percentage points within three months"
+    },
+    {
+        "question": "What is succession planning?",
+        "options": [
+            "Preparing employees to fill important roles when vacancies arise",
+            "Changing every employee's job title weekly",
+            "Eliminating leadership development",
+            "Replacing all managers with external contractors"
+        ],
+        "answer": "Preparing employees to fill important roles when vacancies arise"
+    },
+    {
+        "question": "Which is the best way to motivate a hospitality team during a busy shift?",
+        "options": [
+            "Criticize employees publicly for every delay",
+            "Avoid providing clear priorities",
+            "Communicate priorities, offer support, and recognize effective teamwork",
+            "Change procedures repeatedly without explanation"
+        ],
+        "answer": "Communicate priorities, offer support, and recognize effective teamwork"
+    },
+    {
+        "question": "What is the purpose of a job description?",
+        "options": [
+            "Record every guest complaint",
+            "Explain the role's duties, responsibilities, and relevant qualifications",
+            "Replace the employment agreement in every situation",
+            "Guarantee an employee's promotion"
+        ],
+        "answer": "Explain the role's duties, responsibilities, and relevant qualifications"
+    },
+    {
+        "question": "What is a common benefit of employee recognition programs?",
+        "options": [
+            "They eliminate all operating costs",
+            "They guarantee that no employee will resign",
+            "They remove the need for performance standards",
+            "They can improve morale and reinforce desired workplace behaviors"
+        ],
+        "answer": "They can improve morale and reinforce desired workplace behaviors"
+    },
+    {
+        "question": "Which is the best approach when a manager introduces a new operating procedure?",
+        "options": [
+            "Explain the reasons, train employees, and monitor implementation",
+            "Provide no explanation or training",
+            "Punish employees for asking questions",
+            "Allow every employee to interpret the procedure differently"
+        ],
+        "answer": "Explain the reasons, train employees, and monitor implementation"
+    },
+    {
+        "question": "What is the primary purpose of a team briefing before a hotel shift?",
+        "options": [
+            "Discuss unrelated personal matters",
+            "Replace all written records",
+            "Share priorities, important updates, and operational responsibilities",
+            "Prevent employees from coordinating with other departments"
+        ],
+        "answer": "Share priorities, important updates, and operational responsibilities"
+    },
+    {
+        "question": "What is a hotel's chain of command?",
+        "options": [
+            "A list of guest meal preferences",
+            "The formal structure identifying authority and reporting relationships",
+            "A list of available hotel rooms",
+            "A record of supplier invoices"
+        ],
+        "answer": "The formal structure identifying authority and reporting relationships"
+    },
+    {
+        "question": "Which practice best supports inclusive leadership?",
+        "options": [
+            "Allow only the most senior employee to contribute ideas",
+            "Ignore different employee perspectives",
+            "Make assumptions about employees based on stereotypes",
+            "Encourage respectful participation and fair opportunities"
+        ],
+        "answer": "Encourage respectful participation and fair opportunities"
+    },
+    {
+        "question": "What is the purpose of a workplace code of conduct?",
+        "options": [
+            "Set expectations for ethical and professional behavior",
+            "Replace all applicable laws",
+            "Guarantee that conflicts will never happen",
+            "Allow employees to disregard safety rules"
+        ],
+        "answer": "Set expectations for ethical and professional behavior"
+    },
+    {
+        "question": "What is the primary purpose of a hotel's maintenance department?",
+        "options": [
+            "Create advertising campaigns exclusively",
+            "Process all guest payments",
+            "Maintain facilities and equipment in safe working condition",
+            "Determine destination tourism policies"
+        ],
+        "answer": "Maintain facilities and equipment in safe working condition"
+    },
+    {
+        "question": "What is preventive maintenance?",
+        "options": [
+            "Repairing equipment only after serious failure",
+            "Performing scheduled inspections and maintenance to reduce breakdown risks",
+            "Replacing equipment every day",
+            "Avoiding equipment inspection to save time"
+        ],
+        "answer": "Performing scheduled inspections and maintenance to reduce breakdown risks"
+    },
+    {
+        "question": "Which action best supports energy conservation in a hotel?",
+        "options": [
+            "Leave unnecessary lighting on in unoccupied areas",
+            "Ignore leaking faucets",
+            "Run heating and cooling systems with doors and windows open unnecessarily",
+            "Use efficient equipment and reduce unnecessary energy consumption"
+        ],
+        "answer": "Use efficient equipment and reduce unnecessary energy consumption"
+    },
+    {
+        "question": "What is the purpose of a hotel's preventive maintenance schedule?",
+        "options": [
+            "Reduce unexpected equipment failures and support safe operations",
+            "Increase emergency repair expenses",
+            "Eliminate the need to document maintenance",
+            "Replace every employee training program"
+        ],
+        "answer": "Reduce unexpected equipment failures and support safe operations"
+    },
+    {
+        "question": "Which is an example of a hotel capital expenditure?",
+        "options": [
+            "Buying a small quantity of daily cleaning supplies",
+            "Paying a routine monthly telephone bill",
+            "Undertaking a major renovation to improve the property's facilities",
+            "Purchasing ingredients for tonight's dinner service"
+        ],
+        "answer": "Undertaking a major renovation to improve the property's facilities"
+    },
+    {
+        "question": "What is the purpose of a hotel's waste management program?",
+        "options": [
+            "Increase the amount of waste sent to landfills",
+            "Reduce waste and manage disposal, recycling, and reuse appropriately",
+            "Eliminate all cleaning procedures",
+            "Prevent staff from separating recyclable materials"
+        ],
+        "answer": "Reduce waste and manage disposal, recycling, and reuse appropriately"
+    },
+    {
+        "question": "What should an employee do after discovering a suspected gas leak in a hotel?",
+        "options": [
+            "Ignore the odor until the next shift",
+            "Use equipment that may create an ignition source",
+            "Attempt an untrained repair",
+            "Follow emergency procedures, alert appropriate responders, and keep people away from danger"
+        ],
+        "answer": "Follow emergency procedures, alert appropriate responders, and keep people away from danger"
+    },
+    {
+        "question": "What is the purpose of an incident report?",
+        "options": [
+            "Document relevant facts about an accident, injury, or unusual event",
+            "Promote a restaurant's new menu",
+            "Calculate room service prices",
+            "Replace every emergency response"
+        ],
+        "answer": "Document relevant facts about an accident, injury, or unusual event"
+    },
+    {
+        "question": "Which information should generally be included in an incident report?",
+        "options": [
+            "Rumors about unrelated employees",
+            "Personal opinions presented as verified facts",
+            "Relevant facts, time, location, people involved, and actions taken",
+            "Unverified accusations against customers"
+        ],
+        "answer": "Relevant facts, time, location, people involved, and actions taken"
+    },
+    {
+        "question": "What is the primary purpose of risk assessment?",
+        "options": [
+            "Guarantee that accidents can never happen",
+            "Identify hazards and evaluate the likelihood and severity of potential harm",
+            "Eliminate all business activities",
+            "Replace every emergency plan"
+        ],
+        "answer": "Identify hazards and evaluate the likelihood and severity of potential harm"
+    },
+    {
+        "question": "Which is an example of a cybersecurity risk in hospitality?",
+        "options": [
+            "A clean restaurant floor",
+            "A correctly labeled food container",
+            "A regularly inspected fire alarm",
+            "Unauthorized access to guest payment or reservation data"
+        ],
+        "answer": "Unauthorized access to guest payment or reservation data"
+    },
+    {
+        "question": "Which practice helps protect customer payment information?",
+        "options": [
+            "Use secure payment systems and restrict access to sensitive information",
+            "Write payment card details on publicly visible paper",
+            "Share account passwords with every visitor",
+            "Store unnecessary payment information indefinitely without safeguards"
+        ],
+        "answer": "Use secure payment systems and restrict access to sensitive information"
+    },
+    {
+        "question": "What is business continuity planning?",
+        "options": [
+            "Planning only for routine staff meetings",
+            "Eliminating every alternative supplier",
+            "Preparing to maintain or restore essential operations during disruptions",
+            "Replacing all customer service procedures"
+        ],
+        "answer": "Preparing to maintain or restore essential operations during disruptions"
+    },
+    {
+        "question": "What should a hotel do when a major power outage disrupts operations?",
+        "options": [
+            "Continue every operation regardless of safety",
+            "Activate relevant emergency procedures and communicate with guests and staff",
+            "Hide the outage from emergency responders",
+            "Ignore critical systems that depend on electricity"
+        ],
+        "answer": "Activate relevant emergency procedures and communicate with guests and staff"
+    },
+    {
+        "question": "Which is an example of a sustainable hospitality practice?",
+        "options": [
+            "Dispose of reusable materials after every shift",
+            "Leave water running when it is not needed",
+            "Purchase supplies without considering waste",
+            "Reduce water consumption and select appropriate resource-efficient equipment"
+        ],
+        "answer": "Reduce water consumption and select appropriate resource-efficient equipment"
+    },
+    {
+        "question": "What is greenwashing?",
+        "options": [
+            "Making misleading or unsupported claims about environmental benefits",
+            "Installing an energy-efficient lighting system",
+            "Measuring water use accurately",
+            "Reducing unnecessary packaging"
+        ],
+        "answer": "Making misleading or unsupported claims about environmental benefits"
+    },
+    {
+        "question": "Which is the best example of ethical business conduct?",
+        "options": [
+            "Misrepresenting room features to increase sales",
+            "Hiding mandatory fees until after payment",
+            "Providing accurate information and treating customers fairly",
+            "Sharing confidential guest information without authorization"
+        ],
+        "answer": "Providing accurate information and treating customers fairly"
+    },
+    {
+        "question": "What should a hospitality manager do when a supplier offers an expensive personal gift in exchange for selecting the supplier?",
+        "options": [
+            "Accept the gift secretly",
+            "Follow company ethics policies and disclose or decline the inappropriate offer",
+            "Increase the supplier's contract without evaluation",
+            "Hide the offer from the procurement team"
+        ],
+        "answer": "Follow company ethics policies and disclose or decline the inappropriate offer"
+    },
+    {
+        "question": "What is corporate social responsibility?",
+        "options": [
+            "A policy focused exclusively on short-term profits",
+            "A rule that prohibits businesses from supporting communities",
+            "A method of eliminating employee rights",
+            "A business's responsibility to consider its social, environmental, and economic impacts"
+        ],
+        "answer": "A business's responsibility to consider its social, environmental, and economic impacts"
+    },
+    {
+        "question": "Which is an example of community engagement by a hotel?",
+        "options": [
+            "Partnering with local organizations and supporting community initiatives",
+            "Avoiding all local suppliers without evaluation",
+            "Preventing employees from volunteering",
+            "Ignoring the effects of hotel operations on neighbors"
+        ],
+        "answer": "Partnering with local organizations and supporting community initiatives"
+    },
+    {
+        "question": "What is the main purpose of accessibility standards in hospitality?",
+        "options": [
+            "Restrict services to customers without disabilities",
+            "Eliminate the need for clear signage",
+            "Help ensure that facilities and services meet applicable accessibility requirements",
+            "Replace all emergency procedures"
+        ],
+        "answer": "Help ensure that facilities and services meet applicable accessibility requirements"
+    },
+    {
+        "question": "What is a conflict of interest?",
+        "options": [
+            "A normal difference in customer preferences",
+            "A situation in which personal interests could improperly influence professional decisions",
+            "A routine maintenance inspection",
+            "A guest's request for a late checkout"
+        ],
+        "answer": "A situation in which personal interests could improperly influence professional decisions"
+    },
+    {
+        "question": "Which is the best response when a manager discovers that a staff member has falsified a financial record?",
+        "options": [
+            "Ignore the issue because the employee is experienced",
+            "Delete the record without reporting the problem",
+            "Publicly accuse the employee without reviewing evidence",
+            "Preserve relevant records and follow established reporting and investigation procedures"
+        ],
+        "answer": "Preserve relevant records and follow established reporting and investigation procedures"
+    },
+    {
+        "question": "What is the purpose of a hospitality business's refund policy?",
+        "options": [
+            "Explain the conditions and procedures for issuing refunds",
+            "Guarantee that every booking is nonrefundable",
+            "Prevent employees from explaining charges",
+            "Eliminate customer rights under applicable law"
+        ],
+        "answer": "Explain the conditions and procedures for issuing refunds"
+    },
+    {
+        "question": "Which practice best protects a business from misleading advertising claims?",
+        "options": [
+            "Publish claims before checking their accuracy",
+            "Hide important restrictions in confusing language",
+            "Ensure promotional claims are truthful, supportable, and not misleading",
+            "Copy every competitor's advertisement"
+        ],
+        "answer": "Ensure promotional claims are truthful, supportable, and not misleading"
+    },
+    {
+        "question": "What is a service recovery strategy?",
+        "options": [
+            "A strategy for preventing customers from contacting management",
+            "A process for addressing service failures and restoring customer confidence",
+            "A method of eliminating customer feedback",
+            "A policy that requires employees to deny every complaint"
+        ],
+        "answer": "A process for addressing service failures and restoring customer confidence"
+    },
+    {
+        "question": "Which action best demonstrates empowerment in customer service?",
+        "options": [
+            "Require approval for every minor guest request",
+            "Prevent employees from making any service decisions",
+            "Allow employees to ignore company policies",
+            "Authorize trained employees to resolve appropriate problems within defined limits"
+        ],
+        "answer": "Authorize trained employees to resolve appropriate problems within defined limits"
+    },
+    {
+        "question": "What is a moment of truth in hospitality?",
+        "options": [
+            "An interaction that shapes a customer's impression of the service",
+            "A mandatory employee lunch break",
+            "A property's annual tax filing",
+            "A hotel room's scheduled maintenance period"
+        ],
+        "answer": "An interaction that shapes a customer's impression of the service"
+    },
+    {
+        "question": "What is customer lifetime value?",
+        "options": [
+            "The cost of one guest's first meal",
+            "The total number of customers visiting in one day",
+            "The estimated value of the relationship with a customer over its duration",
+            "The number of rooms a hotel owns"
+        ],
+        "answer": "The estimated value of the relationship with a customer over its duration"
+    },
+    {
+        "question": "Which strategy is most likely to increase repeat visits to a restaurant?",
+        "options": [
+            "Ignore returning customers",
+            "Deliver consistent food quality and service while responding to feedback",
+            "Change prices unpredictably without explanation",
+            "Remove popular menu items without evaluating demand"
+        ],
+        "answer": "Deliver consistent food quality and service while responding to feedback"
+    },
+    {
+        "question": "What is service quality?",
+        "options": [
+            "The number of advertisements a business publishes",
+            "The total number of employees hired",
+            "The amount of money spent on decorations",
+            "How well the delivered service meets relevant customer expectations and standards"
+        ],
+        "answer": "How well the delivered service meets relevant customer expectations and standards"
+    },
+    {
+        "question": "What does the reliability dimension of service quality mean?",
+        "options": [
+            "Delivering the promised service dependably and accurately",
+            "Providing the most expensive product available",
+            "Using complicated language with customers",
+            "Avoiding communication when problems arise"
+        ],
+        "answer": "Delivering the promised service dependably and accurately"
+    },
+    {
+        "question": "What does responsiveness mean in customer service?",
+        "options": [
+            "Refusing to answer customer questions",
+            "Providing the same response regardless of the situation",
+            "Willingness to help customers and provide timely service",
+            "Making customers wait without explanation"
+        ],
+        "answer": "Willingness to help customers and provide timely service"
+    },
+    {
+        "question": "What does assurance mean in the context of service quality?",
+        "options": [
+            "Guaranteeing every guest a free upgrade",
+            "Demonstrating competence, courtesy, and the ability to inspire trust",
+            "Eliminating every employee qualification",
+            "Avoiding explanations of service policies"
+        ],
+        "answer": "Demonstrating competence, courtesy, and the ability to inspire trust"
+    },
+    {
+        "question": "What does empathy mean in customer service?",
+        "options": [
+            "Treating every customer concern as unimportant",
+            "Following a script without listening",
+            "Avoiding customers who express frustration",
+            "Understanding and responding thoughtfully to individual customer needs"
+        ],
+        "answer": "Understanding and responding thoughtfully to individual customer needs"
+    },
+    {
+        "question": "What is service consistency?",
+        "options": [
+            "Delivering dependable service quality across different interactions and occasions",
+            "Changing service standards every hour",
+            "Offering different safety standards to different guests",
+            "Avoiding employee training"
+        ],
+        "answer": "Delivering dependable service quality across different interactions and occasions"
+    },
+    {
+        "question": "Which is the most effective way to handle a long line at a hotel front desk?",
+        "options": [
+            "Close the desk without warning",
+            "Tell waiting guests that their time is unimportant",
+            "Communicate expected wait times and arrange additional support when possible",
+            "Allow employees to process reservations randomly"
+        ],
+        "answer": "Communicate expected wait times and arrange additional support when possible"
+    },
+    {
+        "question": "What is the purpose of service standards?",
+        "options": [
+            "Prevent employees from using professional judgment",
+            "Define expected service behaviors and performance levels",
+            "Guarantee that customers never complain",
+            "Eliminate the need for management oversight"
+        ],
+        "answer": "Define expected service behaviors and performance levels"
+    },
+    {
+        "question": "Which action best supports communication between hotel departments?",
+        "options": [
+            "Keep all room-status information private from housekeeping",
+            "Allow maintenance requests to remain undocumented",
+            "Avoid reporting guest complaints to relevant teams",
+            "Use reliable handover procedures and shared operational information"
+        ],
+        "answer": "Use reliable handover procedures and shared operational information"
+    },
+    {
+        "question": "What is the primary purpose of a hotel room inspection?",
+        "options": [
+            "Verify cleanliness, maintenance, and readiness for guest use",
+            "Calculate destination tourism revenue",
+            "Evaluate restaurant menu popularity",
+            "Set airline ticket prices"
+        ],
+        "answer": "Verify cleanliness, maintenance, and readiness for guest use"
+    },
+    {
+        "question": "What is a service blueprint?",
+        "options": [
+            "A building renovation invoice",
+            "A list of employee salaries",
+            "A visual map of customer interactions and the processes supporting service delivery",
+            "A restaurant's inventory count"
+        ],
+        "answer": "A visual map of customer interactions and the processes supporting service delivery"
+    },
+    {
+        "question": "What is the primary purpose of queue management?",
+        "options": [
+            "Increase customer confusion",
+            "Organize waiting customers and improve the flow of service",
+            "Prevent employees from helping waiting guests",
+            "Guarantee that every service takes the same amount of time"
+        ],
+        "answer": "Organize waiting customers and improve the flow of service"
+    },
+    {
+        "question": "Which is an example of personalized hospitality service?",
+        "options": [
+            "Ignoring previously communicated guest preferences",
+            "Sending identical irrelevant offers to every guest",
+            "Refusing to recognize repeat customers",
+            "Using appropriate guest preferences to tailor recommendations or arrangements"
+        ],
+        "answer": "Using appropriate guest preferences to tailor recommendations or arrangements"
+    },
+    {
+        "question": "What is the purpose of mystery shopping?",
+        "options": [
+            "Evaluate service quality by having an evaluator experience the service as a customer",
+            "Replace all financial audits",
+            "Guarantee that every employee makes no mistakes",
+            "Prevent customers from providing feedback"
+        ],
+        "answer": "Evaluate service quality by having an evaluator experience the service as a customer"
+    },
+    {
+        "question": "What is the best way to measure customer satisfaction over time?",
+        "options": [
+            "Rely exclusively on one manager's opinion",
+            "Count only the number of employees on duty",
+            "Use consistent feedback methods and compare results across periods",
+            "Ignore complaints that are difficult to resolve"
+        ],
+        "answer": "Use consistent feedback methods and compare results across periods"
+    },
+    {
+        "question": "What is a customer complaint trend?",
+        "options": [
+            "A single employee's preferred uniform",
+            "A recurring pattern in the types or causes of customer complaints",
+            "A property's daily weather report",
+            "A list of hotel construction materials"
+        ],
+        "answer": "A recurring pattern in the types or causes of customer complaints"
+    },
+    {
+        "question": "A hotel discovers that many guests complain about slow check-in. What is the best first operational improvement?",
+        "options": [
+            "Remove all check-in procedures",
+            "Tell guests to arrive later",
+            "Stop collecting feedback",
+            "Analyze arrival patterns, staffing, and check-in processes to identify bottlenecks"
+        ],
+        "answer": "Analyze arrival patterns, staffing, and check-in processes to identify bottlenecks"
+    },
+    {
+        "question": "What is the primary purpose of quality assurance in hospitality?",
+        "options": [
+            "Monitor and improve processes to maintain expected service standards",
+            "Eliminate every performance measurement",
+            "Allow service quality to vary without review",
+            "Replace all customer interactions with automated messages"
+        ],
+        "answer": "Monitor and improve processes to maintain expected service standards"
+    },
+    {
+        "question": "What is continuous improvement?",
+        "options": [
+            "Changing every procedure daily without evaluation",
+            "Maintaining the same process even when it fails",
+            "Regularly evaluating and improving processes, products, and service delivery",
+            "Eliminating employee suggestions"
+        ],
+        "answer": "Regularly evaluating and improving processes, products, and service delivery"
+    },
+    {
+        "question": "Which is the best example of data-driven decision-making?",
+        "options": [
+            "Selecting a strategy solely because it sounds impressive",
+            "Using reservation trends and financial results to guide staffing decisions",
+            "Ignoring reports because they contain numbers",
+            "Copying a competitor without evaluating its results"
+        ],
+        "answer": "Using reservation trends and financial results to guide staffing decisions"
+    },
+    {
+        "question": "What is a root cause analysis?",
+        "options": [
+            "A method for assigning blame without investigation",
+            "A strategy for increasing advertising frequency",
+            "A method of hiding operational failures",
+            "A process for identifying underlying reasons why a problem occurred"
+        ],
+        "answer": "A process for identifying underlying reasons why a problem occurred"
+    },
+    {
+        "question": "A restaurant repeatedly runs out of a popular menu item. Which action best addresses the root cause?",
+        "options": [
+            "Review demand forecasts, inventory records, and supplier lead times",
+            "Stop recording inventory",
+            "Blame customers for ordering the item",
+            "Remove all purchasing controls"
+        ],
+        "answer": "Review demand forecasts, inventory records, and supplier lead times"
+    },
+    {
+        "question": "What is the purpose of a project timeline?",
+        "options": [
+            "Replace the project budget",
+            "Eliminate task responsibilities",
+            "Organize activities, deadlines, and milestones",
+            "Guarantee that no project risks exist"
+        ],
+        "answer": "Organize activities, deadlines, and milestones"
+    },
+    {
+        "question": "What is a project milestone?",
+        "options": [
+            "An employee's daily meal break",
+            "A significant checkpoint or achievement in a project's progress",
+            "A restaurant's inventory storage area",
+            "A hotel's guest feedback form"
+        ],
+        "answer": "A significant checkpoint or achievement in a project's progress"
+    },
+    {
+        "question": "What is the purpose of a stakeholder analysis?",
+        "options": [
+            "Calculate the average room rate",
+            "Measure only restaurant food waste",
+            "Replace the project schedule",
+            "Identify people or groups affected by a project and understand their interests"
+        ],
+        "answer": "Identify people or groups affected by a project and understand their interests"
+    },
+    {
+        "question": "Which is the best approach when a hospitality project is running behind schedule?",
+        "options": [
+            "Identify the causes, assess priorities, and adjust the plan with stakeholders",
+            "Hide the delay from everyone involved",
+            "Remove all quality checks",
+            "Increase costs without reviewing alternatives"
+        ],
+        "answer": "Identify the causes, assess priorities, and adjust the plan with stakeholders"
+    },
+    {
+        "question": "What is the primary purpose of event risk planning?",
+        "options": [
+            "Guarantee that every attendee arrives early",
+            "Eliminate communication with vendors",
+            "Identify potential disruptions and prepare appropriate response measures",
+            "Prevent organizers from reviewing the venue"
+        ],
+        "answer": "Identify potential disruptions and prepare appropriate response measures"
+    },
+    {
+        "question": "What is a venue capacity limit?",
+        "options": [
+            "The maximum revenue an event can generate",
+            "The maximum number of people the venue may safely or legally accommodate",
+            "The number of event planners hired",
+            "The number of menu items available"
+        ],
+        "answer": "The maximum number of people the venue may safely or legally accommodate"
+    },
+    {
+        "question": "Which is the best first step when planning a corporate hospitality event?",
+        "options": [
+            "Order decorations without a budget",
+            "Book vendors without knowing the event date",
+            "Choose a menu before identifying the audience",
+            "Define the event's objectives, audience, scope, and budget"
+        ],
+        "answer": "Define the event's objectives, audience, scope, and budget"
+    },
+    {
+        "question": "What is a post-event evaluation used for?",
+        "options": [
+            "Assess results, gather feedback, and identify improvements for future events",
+            "Guarantee that all future events will sell out",
+            "Replace vendor agreements",
+            "Eliminate all event documentation"
+        ],
+        "answer": "Assess results, gather feedback, and identify improvements for future events"
+    },
+    {
+        "question": "Which metric can help evaluate a conference's financial performance?",
+        "options": [
+            "The color of the conference room walls",
+            "The number of internal emails sent",
+            "Revenue compared with event costs and budget targets",
+            "The number of hotel elevators"
+        ],
+        "answer": "Revenue compared with event costs and budget targets"
+    },
+    {
+        "question": "What is the purpose of a venue site inspection?",
+        "options": [
+            "Set the hotel's annual tax rate",
+            "Evaluate the venue's suitability, facilities, accessibility, and logistical needs",
+            "Replace the event contract",
+            "Determine the personal preferences of every attendee"
+        ],
+        "answer": "Evaluate the venue's suitability, facilities, accessibility, and logistical needs"
+    },
+    {
+        "question": "What is the primary purpose of a vendor contract for an event?",
+        "options": [
+            "Guarantee that the event will have perfect weather",
+            "Eliminate the need to check vendor performance",
+            "Replace all event schedules",
+            "Document agreed services, payment terms, deadlines, and responsibilities"
+        ],
+        "answer": "Document agreed services, payment terms, deadlines, and responsibilities"
+    },
+    {
+        "question": "Which is an example of effective event communication?",
+        "options": [
+            "Providing vendors with accurate schedules and clear setup requirements",
+            "Changing the event start time without informing attendees",
+            "Giving different vendors conflicting instructions",
+            "Withholding emergency procedures from staff"
+        ],
+        "answer": "Providing vendors with accurate schedules and clear setup requirements"
+    },
+    {
+        "question": "What is a contingency plan for an outdoor event?",
+        "options": [
+            "A plan that assumes nothing can go wrong",
+            "A strategy for eliminating all attendee questions",
+            "An alternative arrangement, such as an indoor location, if weather disrupts the event",
+            "A list of unrelated promotional products"
+        ],
+        "answer": "An alternative arrangement, such as an indoor location, if weather disrupts the event"
+    },
+    {
+        "question": "Which factor is most important when selecting entertainment for a hospitality event?",
+        "options": [
+            "The entertainment's popularity with the organizer alone",
+            "The audience, event objectives, budget, venue, and suitability",
+            "The number of advertisements the entertainer publishes",
+            "The entertainer's distance from the organizer's home alone"
+        ],
+        "answer": "The audience, event objectives, budget, venue, and suitability"
+    },
+    {
+        "question": "What is the primary purpose of an event registration system?",
+        "options": [
+            "Determine hotel housekeeping schedules",
+            "Replace the event's emergency plan",
+            "Guarantee that no attendee cancels",
+            "Collect registrations and manage attendee information and check-in"
+        ],
+        "answer": "Collect registrations and manage attendee information and check-in"
+    },
+    {
+        "question": "What should an event manager do if attendance is lower than expected?",
+        "options": [
+            "Review registration trends, promotion, audience fit, and attendance barriers",
+            "Ignore the attendance data",
+            "Cancel every future event without evaluation",
+            "Assume the venue caused the problem without investigation"
+        ],
+        "answer": "Review registration trends, promotion, audience fit, and attendance barriers"
+    },
+    {
+        "question": "What is the main purpose of a banquet seating plan?",
+        "options": [
+            "Calculate employee wages",
+            "Replace the guest list",
+            "Organize seating according to capacity, accessibility, and event requirements",
+            "Set restaurant inventory levels"
+        ],
+        "answer": "Organize seating according to capacity, accessibility, and event requirements"
+    },
+    {
+        "question": "Which is the best way to manage a last-minute change to an event menu?",
+        "options": [
+            "Make the change without checking dietary restrictions",
+            "Confirm feasibility, communicate with affected teams, and update event documentation",
+            "Ignore the client's request without explanation",
+            "Inform only the decorating team"
+        ],
+        "answer": "Confirm feasibility, communicate with affected teams, and update event documentation"
+    },
+    {
+        "question": "What is the primary purpose of hospitality technology?",
+        "options": [
+            "Eliminate every human interaction",
+            "Guarantee that no system failures occur",
+            "Replace all security controls",
+            "Improve efficiency, information management, communication, or the guest experience"
+        ],
+        "answer": "Improve efficiency, information management, communication, or the guest experience"
+    },
+    {
+        "question": "What is a potential benefit of mobile hotel check-in?",
+        "options": [
+            "Convenience and reduced waiting for eligible guests",
+            "Guaranteed elimination of identity verification",
+            "Automatic prevention of every booking error",
+            "Removal of all guest privacy requirements"
+        ],
+        "answer": "Convenience and reduced waiting for eligible guests"
+    },
+    {
+        "question": "What is an online travel agency?",
+        "options": [
+            "A hotel maintenance department",
+            "A restaurant's internal purchasing office",
+            "A digital intermediary through which travelers can research or book travel services",
+            "A government office that issues every travel document"
+        ],
+        "answer": "A digital intermediary through which travelers can research or book travel services"
+    },
+    {
+        "question": "What is a potential disadvantage of relying heavily on third-party booking platforms?",
+        "options": [
+            "The hotel automatically owns the platform",
+            "Commissions and reduced control over aspects of the customer relationship",
+            "Guaranteed elimination of competition",
+            "The hotel can never receive a reservation"
+        ],
+        "answer": "Commissions and reduced control over aspects of the customer relationship"
+    },
+    {
+        "question": "What is the purpose of data analytics in hotel operations?",
+        "options": [
+            "Replace every management decision with guesswork",
+            "Prevent managers from identifying trends",
+            "Guarantee perfect demand forecasts",
+            "Analyze data to identify patterns and support operational decisions"
+        ],
+        "answer": "Analyze data to identify patterns and support operational decisions"
+    },
+    {
+        "question": "What is artificial intelligence used for in some hospitality businesses?",
+        "options": [
+            "Supporting tasks such as customer inquiries, demand analysis, and personalized recommendations",
+            "Guaranteeing that all guest complaints disappear",
+            "Eliminating every privacy and security risk",
+            "Replacing every employee regardless of the task"
+        ],
+        "answer": "Supporting tasks such as customer inquiries, demand analysis, and personalized recommendations"
+    },
+    {
+        "question": "What should a hotel consider before implementing a guest-facing chatbot?",
+        "options": [
+            "Whether it can replace all emergency responders",
+            "Whether it can collect unlimited personal information",
+            "Accuracy, privacy, accessibility, escalation procedures, and guest needs",
+            "Whether it can prevent every customer from contacting staff"
+        ],
+        "answer": "Accuracy, privacy, accessibility, escalation procedures, and guest needs"
+    },
+    {
+        "question": "What is the primary purpose of cybersecurity awareness training?",
+        "options": [
+            "Encourage employees to share passwords",
+            "Help employees recognize threats and follow secure information-handling practices",
+            "Eliminate all system updates",
+            "Prevent employees from reporting suspicious activity"
+        ],
+        "answer": "Help employees recognize threats and follow secure information-handling practices"
+    },
+    {
+        "question": "What is phishing?",
+        "options": [
+            "A routine hotel inventory count",
+            "A method of measuring customer satisfaction",
+            "A standard food preparation technique",
+            "A deceptive attempt to obtain sensitive information through fraudulent communications"
+        ],
+        "answer": "A deceptive attempt to obtain sensitive information through fraudulent communications"
+    },
+    {
+        "question": "What is the best response to a suspicious email requesting a hotel employee's password?",
+        "options": [
+            "Avoid clicking suspicious links, verify the request through a trusted channel, and report it",
+            "Send the password immediately",
+            "Forward the message to every guest",
+            "Disable all security protections"
+        ],
+        "answer": "Avoid clicking suspicious links, verify the request through a trusted channel, and report it"
+    },
+    {
+        "question": "What is cloud computing?",
+        "options": [
+            "A hotel's system for forecasting rain",
+            "A method of storing every document only on paper",
+            "Using remote computing resources or services accessed over a network",
+            "A restaurant's method of calculating food cost"
+        ],
+        "answer": "Using remote computing resources or services accessed over a network"
+    },
+    {
+        "question": "What is the purpose of backing up hotel reservation data?",
+        "options": [
+            "Increase the risk of losing information",
+            "Help restore important information after accidental loss, damage, or certain cyber incidents",
+            "Eliminate the need for access controls",
+            "Guarantee that no booking errors occur"
+        ],
+        "answer": "Help restore important information after accidental loss, damage, or certain cyber incidents"
+    },
+    {
+        "question": "What is contactless payment?",
+        "options": [
+            "A payment that never requires a financial institution",
+            "A payment made exclusively with cash",
+            "A method that removes the need to verify transactions",
+            "A payment method using technologies such as NFC-enabled cards or devices"
+        ],
+        "answer": "A payment method using technologies such as NFC-enabled cards or devices"
+    },
+    {
+        "question": "What is the primary purpose of an integrated hotel technology system?",
+        "options": [
+            "Allow relevant systems to share information and coordinate operations",
+            "Prevent departments from communicating",
+            "Eliminate all financial reporting",
+            "Guarantee that every system is immune to cyberattacks"
+        ],
+        "answer": "Allow relevant systems to share information and coordinate operations"
+    },
+    {
+        "question": "Which is an example of using technology to improve sustainability in a hotel?",
+        "options": [
+            "Running heating and cooling continuously without monitoring",
+            "Printing every digital record unnecessarily",
+            "Using building controls to monitor and optimize energy consumption",
+            "Disabling all equipment maintenance alerts"
+        ],
+        "answer": "Using building controls to monitor and optimize energy consumption"
+    },
+    {
+        "question": "What is the purpose of an online reputation dashboard?",
+        "options": [
+            "Set restaurant portion sizes",
+            "Monitor reviews, ratings, and relevant reputation trends across selected channels",
+            "Replace the hotel's financial statements",
+            "Determine employee vacation entitlements"
+        ],
+        "answer": "Monitor reviews, ratings, and relevant reputation trends across selected channels"
+    },
+    {
+        "question": "What is a potential risk of using automated pricing systems?",
+        "options": [
+            "They can never process large amounts of data",
+            "They guarantee identical demand every day",
+            "They automatically eliminate all pricing errors",
+            "Poor data, unsuitable rules, or inadequate oversight can lead to inappropriate prices"
+        ],
+        "answer": "Poor data, unsuitable rules, or inadequate oversight can lead to inappropriate prices"
+    },
+    {
+        "question": "What is the main purpose of a guest feedback management system?",
+        "options": [
+            "Collect, organize, and help respond to customer feedback",
+            "Prevent managers from reading complaints",
+            "Eliminate all guest communication",
+            "Replace emergency response systems"
+        ],
+        "answer": "Collect, organize, and help respond to customer feedback"
+    },
+    {
+        "question": "Which is the best way to introduce a new reservation platform?",
+        "options": [
+            "Launch it without testing or staff training",
+            "Remove the old system before confirming the new one works",
+            "Test the system, train employees, protect data, and prepare support procedures",
+            "Ignore feedback during implementation"
+        ],
+        "answer": "Test the system, train employees, protect data, and prepare support procedures"
+    },
+    {
+        "question": "What is the main purpose of accessibility testing for a hospitality website?",
+        "options": [
+            "Guarantee higher room prices",
+            "Identify barriers that may prevent people with disabilities from using the website",
+            "Prevent users from making reservations",
+            "Remove all text from the website"
+        ],
+        "answer": "Identify barriers that may prevent people with disabilities from using the website"
+    },
+    {
+        "question": "Which practice best supports ethical use of customer analytics?",
+        "options": [
+            "Collect every available personal detail regardless of relevance",
+            "Share customer profiles with unauthorized third parties",
+            "Make unsupported assumptions about individual guests",
+            "Use appropriate data for legitimate purposes while following privacy and security requirements"
+        ],
+        "answer": "Use appropriate data for legitimate purposes while following privacy and security requirements"
+    },
+    {
+        "question": "What is the primary purpose of a hospitality business continuity backup system?",
+        "options": [
+            "Help maintain or restore critical operations if the main system fails",
+            "Increase reliance on one vulnerable device",
+            "Eliminate the need for emergency planning",
+            "Prevent all employees from accessing operational information"
+        ],
+        "answer": "Help maintain or restore critical operations if the main system fails"
+    },
+    {
+        "question": "What is the best way for a hospitality manager to decide between two competing improvement projects?",
+        "options": [
+            "Choose whichever project has the longest name",
+            "Select the project with the highest initial cost automatically",
+            "Compare expected benefits, costs, risks, feasibility, and strategic fit",
+            "Ignore customer needs and operational requirements"
+        ],
+        "answer": "Compare expected benefits, costs, risks, feasibility, and strategic fit"
+    },
+    {
+        "question": "What is opportunity cost?",
+        "options": [
+            "The total revenue generated by every option",
+            "The value of the next-best alternative given up when a choice is made",
+            "The amount of tax a hotel pays",
+            "The number of employees scheduled for an event"
+        ],
+        "answer": "The value of the next-best alternative given up when a choice is made"
+    },
+    {
+        "question": "What is a cost-benefit analysis?",
+        "options": [
+            "A review of employee attendance only",
+            "A method for choosing a project based solely on popularity",
+            "A way to eliminate every business risk",
+            "A comparison of a decision's expected costs and benefits"
+        ],
+        "answer": "A comparison of a decision's expected costs and benefits"
+    },
+    {
+        "question": "A hotel is considering an energy-saving upgrade that costs $10,000 and is expected to save $2,500 annually. Ignoring other costs and the time value of money, what is the simple payback period?",
+        "options": [
+            "4 years",
+            "2 years",
+            "5 years",
+            "10 years"
+        ],
+        "answer": "4 years"
+    },
+    {
+        "question": "What is the main purpose of benchmarking in hospitality?",
+        "options": [
+            "Guarantee that every business has identical results",
+            "Replace all internal performance tracking",
+            "Compare performance with relevant standards or other organizations",
+            "Eliminate the need for strategic planning"
+        ],
+        "answer": "Compare performance with relevant standards or other organizations"
+    },
+    {
+        "question": "What is market share?",
+        "options": [
+            "A business's total employee headcount",
+            "The proportion of a defined market's sales or activity attributable to a business",
+            "The number of rooms available in a property",
+            "The total amount spent on staff uniforms"
+        ],
+        "answer": "The proportion of a defined market's sales or activity attributable to a business"
+    },
+    {
+        "question": "What is the main purpose of strategic planning?",
+        "options": [
+            "Focus exclusively on today's tasks",
+            "Eliminate the need to measure results",
+            "Guarantee that external conditions never change",
+            "Establish long-term direction, priorities, and approaches for achieving objectives"
+        ],
+        "answer": "Establish long-term direction, priorities, and approaches for achieving objectives"
+    },
+    {
+        "question": "Which is the best example of a competitive advantage for a boutique hotel?",
+        "options": [
+            "A distinctive guest experience that competitors struggle to match",
+            "A policy of ignoring customer feedback",
+            "A complete absence of staff training",
+            "A decision to stop maintaining guest rooms"
+        ],
+        "answer": "A distinctive guest experience that competitors struggle to match"
+    },
+    {
+        "question": "What is diversification in hospitality?",
+        "options": [
+            "Selling the same service to the same audience without changes",
+            "Eliminating every additional service",
+            "Expanding into different products, services, or markets to broaden business activity",
+            "Reducing all operations to one customer"
+        ],
+        "answer": "Expanding into different products, services, or markets to broaden business activity"
+    },
+    {
+        "question": "What is a strategic partnership between hospitality businesses?",
+        "options": [
+            "A requirement that both businesses have identical ownership",
+            "A cooperative relationship intended to create mutual value or achieve shared goals",
+            "An agreement to hide all financial information from customers",
+            "A policy that prevents the businesses from communicating"
+        ],
+        "answer": "A cooperative relationship intended to create mutual value or achieve shared goals"
+    },
+    {
+        "question": "What is the primary purpose of a loyalty partnership between a hotel and an airline?",
+        "options": [
+            "Prevent travelers from using either service",
+            "Eliminate all customer reward programs",
+            "Guarantee that every flight arrives on time",
+            "Offer coordinated benefits that may encourage customers to use both brands"
+        ],
+        "answer": "Offer coordinated benefits that may encourage customers to use both brands"
+    },
+    {
+        "question": "What is the best approach when a hotel faces a new competitor offering lower prices?",
+        "options": [
+            "Evaluate customer segments, costs, service differentiation, and pricing options",
+            "Immediately reduce every price below cost",
+            "Stop monitoring competitor activity",
+            "Remove all services that customers value"
+        ],
+        "answer": "Evaluate customer segments, costs, service differentiation, and pricing options"
+    },
+    {
+        "question": "What is the main purpose of scenario planning?",
+        "options": [
+            "Predict the future with complete certainty",
+            "Replace every budget with a single guess",
+            "Prepare for several plausible future conditions and consider possible responses",
+            "Eliminate the need to monitor the market"
+        ],
+        "answer": "Prepare for several plausible future conditions and consider possible responses"
+    },
+    {
+        "question": "What is the best first step when a hotel identifies a sudden drop in bookings?",
+        "options": [
+            "Dismiss every employee immediately",
+            "Investigate demand trends, pricing, distribution channels, reputation, and external factors",
+            "Raise all prices without analysis",
+            "Stop accepting all reservations"
+        ],
+        "answer": "Investigate demand trends, pricing, distribution channels, reputation, and external factors"
+    },
+    {
+        "question": "Which is the most appropriate way to allocate a limited marketing budget?",
+        "options": [
+            "Spend the entire budget on the first available advertisement",
+            "Ignore the target audience",
+            "Choose channels without measuring results",
+            "Prioritize channels based on objectives, audience fit, expected return, and available evidence"
+        ],
+        "answer": "Prioritize channels based on objectives, audience fit, expected return, and available evidence"
+    },
+    {
+        "question": "What is the primary purpose of crisis communication?",
+        "options": [
+            "Provide timely, accurate, coordinated information during a significant incident",
+            "Hide relevant safety information from affected people",
+            "Publish unverified rumors immediately",
+            "Prevent employees from following emergency procedures"
+        ],
+        "answer": "Provide timely, accurate, coordinated information during a significant incident"
+    },
+    {
+        "question": "Which is the best response when misinformation about a hotel's safety spreads online?",
+        "options": [
+            "Attack everyone who shares the claim",
+            "Publish guest information to prove a point",
+            "Verify the facts and provide clear, accurate information through appropriate channels",
+            "Ignore legitimate safety concerns"
+        ],
+        "answer": "Verify the facts and provide clear, accurate information through appropriate channels"
+    },
+    {
+        "question": "What is the main purpose of a post-incident review?",
+        "options": [
+            "Guarantee that no incident will ever happen again",
+            "Identify lessons learned and improve procedures based on evidence",
+            "Prevent employees from reporting concerns",
+            "Replace all maintenance inspections"
+        ],
+        "answer": "Identify lessons learned and improve procedures based on evidence"
+    },
+    {
+        "question": "What should a hospitality business prioritize during an emergency?",
+        "options": [
+            "Protecting promotional materials",
+            "Maintaining normal sales targets at all costs",
+            "Avoiding communication with emergency responders",
+            "Protecting human life and following appropriate emergency procedures"
+        ],
+        "answer": "Protecting human life and following appropriate emergency procedures"
+    },
+    {
+        "question": "What is the purpose of an emergency communication tree?",
+        "options": [
+            "Organize how important information is communicated to designated people",
+            "Determine room service menu prices",
+            "Calculate restaurant food costs",
+            "Replace fire detection systems"
+        ],
+        "answer": "Organize how important information is communicated to designated people"
+    },
+    {
+        "question": "What is the most appropriate action if a guest reports a potentially serious safety hazard?",
+        "options": [
+            "Tell the guest that all hazards are harmless",
+            "Wait until a negative review is posted",
+            "Take the report seriously, secure the area when appropriate, and notify responsible personnel",
+            "Ask the guest to investigate the hazard independently"
+        ],
+        "answer": "Take the report seriously, secure the area when appropriate, and notify responsible personnel"
+    },
+    {
+        "question": "What is the primary purpose of a hospitality business's insurance coverage?",
+        "options": [
+            "Guarantee that the business will never lose money",
+            "Transfer specified financial risks to an insurer under the policy's terms",
+            "Eliminate the need for safety procedures",
+            "Guarantee that every customer complaint is resolved in the business's favor"
+        ],
+        "answer": "Transfer specified financial risks to an insurer under the policy's terms"
+    },
+    {
+        "question": "What is the purpose of liability insurance?",
+        "options": [
+            "Pay every routine operating expense",
+            "Guarantee increased customer satisfaction",
+            "Replace all employee wages",
+            "Provide coverage for certain covered legal liabilities under the policy terms"
+        ],
+        "answer": "Provide coverage for certain covered legal liabilities under the policy terms"
+    },
+    {
+        "question": "Which is the best approach to handling a suspected data breach involving guest information?",
+        "options": [
+            "Follow the incident response plan, secure affected systems, and notify appropriate responsible parties",
+            "Delete all evidence immediately",
+            "Post affected guests' details publicly",
+            "Ignore the incident until the next financial audit"
+        ],
+        "answer": "Follow the incident response plan, secure affected systems, and notify appropriate responsible parties"
+    },
+    {
+        "question": "What is the primary purpose of an audit?",
+        "options": [
+            "Guarantee that every employee receives a raise",
+            "Eliminate all financial documentation",
+            "Examine records, controls, or processes to assess accuracy and compliance with applicable criteria",
+            "Replace the organization's entire management team"
+        ],
+        "answer": "Examine records, controls, or processes to assess accuracy and compliance with applicable criteria"
+    },
+    {
+        "question": "Which is the best way to prepare for a health inspection at a restaurant?",
+        "options": [
+            "Clean only the areas visible to customers",
+            "Maintain ongoing sanitation, accurate records, safe food handling, and employee training",
+            "Hide expired ingredients",
+            "Stop documenting food temperatures"
+        ],
+        "answer": "Maintain ongoing sanitation, accurate records, safe food handling, and employee training"
+    },
+    {
+        "question": "What is the primary purpose of hospitality licensing and permits?",
+        "options": [
+            "Guarantee that every business earns a profit",
+            "Replace all safety inspections",
+            "Allow businesses to disregard operating restrictions",
+            "Help ensure that businesses meet applicable legal and regulatory requirements"
+        ],
+        "answer": "Help ensure that businesses meet applicable legal and regulatory requirements"
+    },
+    {
+        "question": "What should a manager do before introducing a new service that may require a permit?",
+        "options": [
+            "Check applicable regulations and confirm the required approvals before operating",
+            "Begin immediately and review the rules later",
+            "Assume existing permits cover every possible service",
+            "Avoid consulting relevant authorities"
+        ],
+        "answer": "Check applicable regulations and confirm the required approvals before operating"
+    },
+    {
+        "question": "Which is an example of ethical pricing in hospitality?",
+        "options": [
+            "Advertise a low price while deliberately concealing mandatory charges",
+            "Change a confirmed price without authorization",
+            "Clearly disclose applicable prices, fees, and material booking conditions",
+            "Charge customers different amounts based on irrelevant personal characteristics"
+        ],
+        "answer": "Clearly disclose applicable prices, fees, and material booking conditions"
+    },
+    {
+        "question": "What is the primary purpose of consumer protection laws?",
+        "options": [
+            "Prevent customers from comparing products",
+            "Protect consumers against certain unfair, deceptive, or unsafe business practices",
+            "Guarantee that every product has the lowest price",
+            "Eliminate every contract between a business and a customer"
+        ],
+        "answer": "Protect consumers against certain unfair, deceptive, or unsafe business practices"
+    },
+    {
+        "question": "What is the best way to ensure that a hospitality advertisement is accessible to more customers?",
+        "options": [
+            "Use only tiny text in images",
+            "Remove captions from promotional videos",
+            "Provide essential information only through color differences",
+            "Use readable text, meaningful alternative text, captions, and accessible design practices"
+        ],
+        "answer": "Use readable text, meaningful alternative text, captions, and accessible design practices"
+    },
+    {
+        "question": "What is the main purpose of a hotel's brand promise?",
+        "options": [
+            "Communicate the experience or value customers can reasonably expect from the brand",
+            "Guarantee that every guest will receive an identical room",
+            "Replace every service standard",
+            "Prevent employees from resolving complaints"
+        ],
+        "answer": "Communicate the experience or value customers can reasonably expect from the brand"
+    },
+    {
+        "question": "What is the best strategy for improving customer retention?",
+        "options": [
+            "Focus exclusively on acquiring new customers",
+            "Stop monitoring satisfaction",
+            "Deliver consistent value, address problems, and build positive customer relationships",
+            "Make loyalty rewards impossible to understand"
+        ],
+        "answer": "Deliver consistent value, address problems, and build positive customer relationships"
+    },
+    {
+        "question": "What is the purpose of an employee handbook?",
+        "options": [
+            "Replace all required training",
+            "Communicate workplace policies, expectations, and relevant procedures",
+            "Guarantee that employment conditions can never change",
+            "Record customers' payment card details"
+        ],
+        "answer": "Communicate workplace policies, expectations, and relevant procedures"
+    },
+    {
+        "question": "What is a key benefit of standardized employee training?",
+        "options": [
+            "Prevent employees from asking questions",
+            "Guarantee that all customers behave identically",
+            "Eliminate the need to evaluate performance",
+            "Help employees learn consistent procedures and expected service standards"
+        ],
+        "answer": "Help employees learn consistent procedures and expected service standards"
+    },
+    {
+        "question": "Which is the best way to evaluate whether employee training was effective?",
+        "options": [
+            "Assess relevant knowledge, observed performance, and operational outcomes",
+            "Count only the number of training slides",
+            "Assume attendance guarantees mastery",
+            "Ignore employee and customer feedback"
+        ],
+        "answer": "Assess relevant knowledge, observed performance, and operational outcomes"
+    },
+    {
+        "question": "What is the purpose of a succession plan in a hotel?",
+        "options": [
+            "Prevent employees from receiving development opportunities",
+            "Replace every employee at the same time",
+            "Prepare for leadership transitions and continuity in important roles",
+            "Eliminate the need for management training"
+        ],
+        "answer": "Prepare for leadership transitions and continuity in important roles"
+    },
+    {
+        "question": "What is the best way to encourage innovation among hospitality employees?",
+        "options": [
+            "Reject every suggestion automatically",
+            "Invite ideas, evaluate them fairly, and test suitable improvements",
+            "Punish employees for identifying inefficient processes",
+            "Require every idea to be implemented immediately"
+        ],
+        "answer": "Invite ideas, evaluate them fairly, and test suitable improvements"
+    },
+    {
+        "question": "What is the primary purpose of an organizational mission statement?",
+        "options": [
+            "List every daily reservation",
+            "Describe only the organization's financial statements",
+            "Replace all operational objectives",
+            "Explain the organization's fundamental purpose and whom it serves"
+        ],
+        "answer": "Explain the organization's fundamental purpose and whom it serves"
+    },
+    {
+        "question": "What is the primary purpose of a vision statement?",
+        "options": [
+            "Describe the desired future state or long-term aspiration of an organization",
+            "Record yesterday's restaurant sales",
+            "Set the temperature of a hotel refrigerator",
+            "List every employee's daily duties"
+        ],
+        "answer": "Describe the desired future state or long-term aspiration of an organization"
+    },
+    {
+        "question": "What is organizational culture?",
+        "options": [
+            "The physical decorations in a hotel lobby only",
+            "The number of guests who visit annually",
+            "Shared values, assumptions, and behavioral norms within an organization",
+            "The organization's monthly utility bill"
+        ],
+        "answer": "Shared values, assumptions, and behavioral norms within an organization"
+    },
+    {
+        "question": "Which is the best way for a manager to support ethical decision-making?",
+        "options": [
+            "Reward results regardless of how they are achieved",
+            "Set clear expectations, model ethical behavior, and provide safe reporting channels",
+            "Ignore conflicts of interest",
+            "Discourage employees from reporting misconduct"
+        ],
+        "answer": "Set clear expectations, model ethical behavior, and provide safe reporting channels"
+    },
+    {
+        "question": "What is the purpose of an employee engagement survey?",
+        "options": [
+            "Determine the destination's weather conditions",
+            "Calculate a restaurant's food cost percentage",
+            "Replace every employee conversation",
+            "Gather information about employees' experiences, attitudes, and workplace concerns"
+        ],
+        "answer": "Gather information about employees' experiences, attitudes, and workplace concerns"
+    },
+    {
+        "question": "Which is the best way to respond when employee survey results reveal low morale?",
+        "options": [
+            "Share appropriate findings, investigate causes, and develop a follow-up action plan",
+            "Ignore the results because they are inconvenient",
+            "Punish employees who provide critical feedback",
+            "Cancel all opportunities for employee discussion"
+        ],
+        "answer": "Share appropriate findings, investigate causes, and develop a follow-up action plan"
+    },
+    {
+        "question": "What is the primary purpose of an employee retention strategy?",
+        "options": [
+            "Prevent employees from changing roles",
+            "Eliminate all external recruitment",
+            "Encourage valued employees to remain with the organization through appropriate workplace practices",
+            "Guarantee that no employee ever resigns"
+        ],
+        "answer": "Encourage valued employees to remain with the organization through appropriate workplace practices"
+    },
+    {
+        "question": "What is the best way to prioritize several urgent operational problems?",
+        "options": [
+            "Address the easiest problem regardless of consequences",
+            "Prioritize immediate safety and critical operational risks, then assess urgency and impact",
+            "Ignore all problems until the end of the month",
+            "Choose a problem randomly"
+        ],
+        "answer": "Prioritize immediate safety and critical operational risks, then assess urgency and impact"
+    },
+    {
+        "question": "What is the purpose of a decision matrix?",
+        "options": [
+            "Replace every form of professional judgment",
+            "Guarantee that a selected option cannot fail",
+            "Measure only employee attendance",
+            "Compare options systematically using relevant criteria and assigned weights when appropriate"
+        ],
+        "answer": "Compare options systematically using relevant criteria and assigned weights when appropriate"
+    },
+    {
+        "question": "What is the best way to evaluate a proposed hotel renovation?",
+        "options": [
+            "Compare costs, expected benefits, guest needs, operational disruption, and risks",
+            "Choose the most expensive design automatically",
+            "Ignore the renovation's impact on guests",
+            "Approve the project without checking the budget"
+        ],
+        "answer": "Compare costs, expected benefits, guest needs, operational disruption, and risks"
+    },
+    {
+        "question": "Which is the strongest example of an effective DECA team decision-making approach?",
+        "options": [
+            "Allow one teammate to make every decision without discussion",
+            "Select the first idea without evaluating alternatives",
+            "Analyze the situation, compare realistic alternatives, justify a recommendation, and plan implementation",
+            "Ignore the business's objectives and constraints"
+        ],
+        "answer": "Analyze the situation, compare realistic alternatives, justify a recommendation, and plan implementation"
+    },
+    {
+        "question": "When presenting a hospitality business recommendation, what should a team do?",
+        "options": [
+            "Focus on opinions without supporting evidence",
+            "Explain the problem, recommend a solution, support it with reasoning, and identify expected outcomes",
+            "Avoid mentioning implementation costs",
+            "Discuss unrelated personal experiences throughout the presentation"
+        ],
+        "answer": "Explain the problem, recommend a solution, support it with reasoning, and identify expected outcomes"
+    },
+    {
+        "question": "What is the best response when a DECA judge challenges a team's recommendation?",
+        "options": [
+            "Argue aggressively with the judge",
+            "Ignore the question and repeat the entire presentation",
+            "Change the recommendation without considering the evidence",
+            "Respond professionally, explain the reasoning, and acknowledge valid limitations"
+        ],
+        "answer": "Respond professionally, explain the reasoning, and acknowledge valid limitations"
+    },
+    {
+        "question": "What is the primary purpose of an implementation plan?",
+        "options": [
+            "Specify actions, responsibilities, resources, timelines, and measures of success",
+            "Describe only the history of the organization",
+            "Eliminate accountability for results",
+            "Guarantee that no changes will be necessary"
+        ],
+        "answer": "Specify actions, responsibilities, resources, timelines, and measures of success"
+    },
+    {
+        "question": "What is the most appropriate way to assess whether a proposed customer service improvement worked?",
+        "options": [
+            "Assume success immediately after implementation",
+            "Measure only the number of meetings held",
+            "Compare relevant performance measures before and after implementation",
+            "Ignore guest feedback and operating costs"
+        ],
+        "answer": "Compare relevant performance measures before and after implementation"
+    },
+    {
+        "question": "What should a hospitality manager do if a proposed promotion is attracting many customers but causing losses?",
+        "options": [
+            "Continue the promotion indefinitely without review",
+            "Analyze its incremental revenue, costs, margins, and strategic value before adjusting it",
+            "Ignore the financial results",
+            "Increase the discount without calculating its effects"
+        ],
+        "answer": "Analyze its incremental revenue, costs, margins, and strategic value before adjusting it"
+    },
+    {
+        "question": "What is the main purpose of a hotel revenue management strategy?",
+        "options": [
+            "Sell every room at the lowest possible price",
+            "Avoid forecasting demand",
+            "Guarantee identical room rates throughout the year",
+            "Optimize revenue by managing pricing, availability, and demand across customer segments and channels"
+        ],
+        "answer": "Optimize revenue by managing pricing, availability, and demand across customer segments and channels"
+    },
+    {
+        "question": "Which is the best example of using dynamic pricing responsibly?",
+        "options": [
+            "Adjust rates according to demand, booking patterns, costs, and applicable pricing rules",
+            "Change confirmed reservation prices without authorization",
+            "Hide mandatory fees from customers",
+            "Set prices without considering demand or market conditions"
+        ],
+        "answer": "Adjust rates according to demand, booking patterns, costs, and applicable pricing rules"
+    },
+    {
+        "question": "A hotel has 100 rooms available, an average daily rate of $150, and an occupancy rate of 80%. What is its RevPAR?",
+        "options": [
+            "$80",
+            "$100",
+            "$120",
+            "$150"
+        ],
+        "answer": "$120"
+    },
+    {
+        "question": "A resort wants to attract more visitors while reducing pressure on its natural environment. Which strategy best supports both objectives?",
+        "options": [
+            "Increase visitor numbers without monitoring environmental effects",
+            "Develop lower-impact experiences, manage visitor capacity, and promote responsible travel",
+            "Remove conservation guidelines",
+            "Concentrate all visitors in the most environmentally sensitive areas"
+        ],
+        "answer": "Develop lower-impact experiences, manage visitor capacity, and promote responsible travel"
+    },
+    {
+        "question": "A hotel receives repeated complaints about poor communication between the front desk and housekeeping. Which solution is most appropriate?",
+        "options": [
+            "Tell each department to work independently",
+            "Increase advertising spending immediately",
+            "Reduce the number of guest room inspections",
+            "Establish a clear room-status communication process, assign responsibilities, and monitor performance"
+        ],
+        "answer": "Establish a clear room-status communication process, assign responsibilities, and monitor performance"
+    },
+    {
+        "question": "A restaurant wants to increase profit without lowering food quality. Which action should management consider first?",
+        "options": [
+            "Analyze menu profitability, purchasing costs, waste, and portion consistency",
+            "Purchase ingredients without comparing suppliers",
+            "Remove every popular menu item",
+            "Reduce food safety training"
+        ],
+        "answer": "Analyze menu profitability, purchasing costs, waste, and portion consistency"
+    },
+    {
+        "question": "A hotel is deciding whether to invest in a guest experience improvement. Which evidence would be most useful?",
+        "options": [
+            "An unrelated competitor's uniform design",
+            "The personal opinion of one employee without further information",
+            "Guest feedback, operational data, estimated costs, and expected business outcomes",
+            "The number of emails received by the accounting department"
+        ],
+        "answer": "Guest feedback, operational data, estimated costs, and expected business outcomes"
+    },
+    {
+        "question": "A tourism business wants to improve its reputation after receiving repeated complaints about misleading descriptions. What should it do?",
+        "options": [
+            "Remove every accurate description from its website",
+            "Correct inaccurate claims, improve information verification, and respond professionally to affected customers",
+            "Blame customers for misunderstanding the advertisements",
+            "Continue using the descriptions until complaints stop"
+        ],
+        "answer": "Correct inaccurate claims, improve information verification, and respond professionally to affected customers"
+    },
+    {
+        "question": "A hotel's occupancy rate increases, but its profit decreases. What should management investigate?",
+        "options": [
+            "Whether more rooms should be closed automatically",
+            "Whether customer feedback should be eliminated",
+            "Whether all room rates should be reduced further",
+            "Changes in room rates, operating costs, customer mix, and distribution expenses"
+        ],
+        "answer": "Changes in room rates, operating costs, customer mix, and distribution expenses"
+    },
+    {
+        "question": "A resort plans to host a large event during peak season. Which planning step is most important for maintaining service quality?",
+        "options": [
+            "Forecast demand, coordinate staffing and suppliers, and plan for guest capacity and contingencies",
+            "Accept unlimited bookings without checking capacity",
+            "Ignore the event's impact on existing guests",
+            "Cancel all routine safety inspections"
+        ],
+        "answer": "Forecast demand, coordinate staffing and suppliers, and plan for guest capacity and contingencies"
+    },
+    {
+        "question": "A hotel is considering replacing some front desk tasks with self-service technology. What is the best decision-making approach?",
+        "options": [
+            "Replace every employee immediately without testing",
+            "Ignore guests who prefer personal assistance",
+            "Evaluate guest needs, accessibility, costs, security, staff roles, and a pilot program's results",
+            "Assume technology will eliminate every service problem"
+        ],
+        "answer": "Evaluate guest needs, accessibility, costs, security, staff roles, and a pilot program's results"
+    },
+    {
+        "question": "A restaurant wants to reduce customer waiting times during busy periods. Which strategy is most effective?",
+        "options": [
+            "Accept more orders without evaluating kitchen capacity",
+            "Analyze demand patterns, streamline workflows, coordinate staffing, and track waiting times",
+            "Stop informing customers about delays",
+            "Remove the reservation system without an alternative"
+        ],
+        "answer": "Analyze demand patterns, streamline workflows, coordinate staffing, and track waiting times"
+    },
+    {
+        "question": "A hotel manager discovers that a promotional campaign increased bookings but also produced many cancellations. What should the manager do?",
+        "options": [
+            "Assume the campaign was completely successful",
+            "Stop tracking cancellation data",
+            "Increase promotional spending without evaluation",
+            "Analyze booking conditions, customer segments, cancellation patterns, and net revenue before revising the campaign"
+        ],
+        "answer": "Analyze booking conditions, customer segments, cancellation patterns, and net revenue before revising the campaign"
+    },
+    {
+        "question": "A destination wants to attract international visitors while respecting local culture. Which approach is most appropriate?",
+        "options": [
+            "Consult local communities, communicate cultural expectations, and develop responsible visitor experiences",
+            "Ignore local concerns about tourism",
+            "Promote activities that disrespect cultural sites",
+            "Prevent local businesses from participating in tourism"
+        ],
+        "answer": "Consult local communities, communicate cultural expectations, and develop responsible visitor experiences"
+    },
+    {
+        "question": "A hotel team must recommend one of three projects with limited funding. Which approach best demonstrates sound managerial judgment?",
+        "options": [
+            "Select the project proposed by the most senior employee automatically",
+            "Choose the project with the most impressive presentation",
+            "Compare each project's costs, benefits, risks, feasibility, and alignment with organizational objectives",
+            "Divide the budget equally without evaluating the projects"
+        ],
+        "answer": "Compare each project's costs, benefits, risks, feasibility, and alignment with organizational objectives"
+    }
+]

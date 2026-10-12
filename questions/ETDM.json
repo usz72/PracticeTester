@@ -1,0 +1,2962 @@
+[
+    {
+        "question": "What is the primary purpose of a business plan?",
+        "options": [
+            "To guarantee that a business will succeed",
+            "To outline business goals and strategies for achieving them",
+            "To eliminate all competition",
+            "To avoid paying business expenses"
+        ],
+        "answer": "To outline business goals and strategies for achieving them"
+    },
+    {
+        "question": "What is an entrepreneur?",
+        "options": [
+            "A person who only works for government agencies",
+            "A person who manages another company's investments exclusively",
+            "A person who starts and operates a business while assuming risk",
+            "A person who purchases products solely for personal use"
+        ],
+        "answer": "A person who starts and operates a business while assuming risk"
+    },
+    {
+        "question": "Which of the following is an example of a target market?",
+        "options": [
+            "Every person living in the world",
+            "A company's entire supply chain",
+            "All businesses in a particular country",
+            "Teenagers interested in affordable athletic clothing"
+        ],
+        "answer": "Teenagers interested in affordable athletic clothing"
+    },
+    {
+        "question": "What does SWOT analysis evaluate?",
+        "options": [
+            "Strengths, weaknesses, opportunities, and threats",
+            "Sales, wages, operations, and taxes",
+            "Strategies, workers, organization, and technology",
+            "Suppliers, wealth, ownership, and trade"
+        ],
+        "answer": "Strengths, weaknesses, opportunities, and threats"
+    },
+    {
+        "question": "Which of the following is an internal strength of a business?",
+        "options": [
+            "A new government regulation affecting the industry",
+            "A competitor lowering its prices",
+            "A highly skilled and experienced workforce",
+            "An economic recession"
+        ],
+        "answer": "A highly skilled and experienced workforce"
+    },
+    {
+        "question": "What is a competitive advantage?",
+        "options": [
+            "A requirement to sell products at the lowest possible price",
+            "A characteristic that helps a business outperform competitors",
+            "A rule preventing businesses from advertising",
+            "A guarantee that competitors will leave the market"
+        ],
+        "answer": "A characteristic that helps a business outperform competitors"
+    },
+    {
+        "question": "What is the purpose of market research?",
+        "options": [
+            "To eliminate the need for financial planning",
+            "To guarantee customer loyalty",
+            "To prevent competitors from entering the market",
+            "To collect information about customers, competitors, and market conditions"
+        ],
+        "answer": "To collect information about customers, competitors, and market conditions"
+    },
+    {
+        "question": "Which of the following is an example of primary market research?",
+        "options": [
+            "Conducting a survey of potential customers",
+            "Reading a published government economic report",
+            "Reviewing an industry report written by another organization",
+            "Examining publicly available census statistics"
+        ],
+        "answer": "Conducting a survey of potential customers"
+    },
+    {
+        "question": "Which of the following is an example of secondary market research?",
+        "options": [
+            "Interviewing customers at a shopping mall",
+            "Conducting a focus group",
+            "Analyzing an existing industry research report",
+            "Testing a new product with volunteers"
+        ],
+        "answer": "Analyzing an existing industry research report"
+    },
+    {
+        "question": "What is a value proposition?",
+        "options": [
+            "The total amount of money a business owes",
+            "A statement explaining the value and benefits a product provides to customers",
+            "A list of employees and their salaries",
+            "A document showing a company's tax payments"
+        ],
+        "answer": "A statement explaining the value and benefits a product provides to customers"
+    },
+    {
+        "question": "What does the term bootstrapping mean in entrepreneurship?",
+        "options": [
+            "Expanding exclusively through government grants",
+            "Selling a business immediately after launching it",
+            "Borrowing as much money as possible from banks",
+            "Building a business primarily using personal resources and internally generated funds"
+        ],
+        "answer": "Building a business primarily using personal resources and internally generated funds"
+    },
+    {
+        "question": "What is a business model?",
+        "options": [
+            "A description of how a business creates, delivers, and captures value",
+            "A list of every employee's daily schedule",
+            "A government document required for every advertisement",
+            "A record of competitors' personal information"
+        ],
+        "answer": "A description of how a business creates, delivers, and captures value"
+    },
+    {
+        "question": "What is a common characteristic of a successful entrepreneur?",
+        "options": [
+            "Avoiding all uncertainty",
+            "Refusing to accept customer feedback",
+            "Recognizing opportunities and adapting to challenges",
+            "Making every business decision without research"
+        ],
+        "answer": "Recognizing opportunities and adapting to challenges"
+    },
+    {
+        "question": "What is a minimum viable product (MVP)?",
+        "options": [
+            "A fully developed product with every possible feature",
+            "A basic version of a product used to test assumptions and gather feedback",
+            "A product that has already dominated the entire market",
+            "A product that cannot be changed after launch"
+        ],
+        "answer": "A basic version of a product used to test assumptions and gather feedback"
+    },
+    {
+        "question": "What is a business's mission statement intended to communicate?",
+        "options": [
+            "Its daily sales totals",
+            "Its competitors' weaknesses",
+            "Its complete financial history",
+            "Its fundamental purpose and reason for existing"
+        ],
+        "answer": "Its fundamental purpose and reason for existing"
+    },
+    {
+        "question": "Which of the following is an example of a SMART goal?",
+        "options": [
+            "Increase monthly sales by 10% within the next six months",
+            "Become successful someday",
+            "Sell more products whenever possible",
+            "Make customers happier eventually"
+        ],
+        "answer": "Increase monthly sales by 10% within the next six months"
+    },
+    {
+        "question": "What is a business opportunity?",
+        "options": [
+            "A situation in which a business is guaranteed to earn a profit",
+            "A requirement to copy an existing competitor",
+            "A favorable situation that a business can use to create value",
+            "A financial statement prepared for investors"
+        ],
+        "answer": "A favorable situation that a business can use to create value"
+    },
+    {
+        "question": "Why is networking valuable to entrepreneurs?",
+        "options": [
+            "It eliminates the need to develop business skills",
+            "It creates opportunities to build relationships and access resources",
+            "It guarantees that investors will provide funding",
+            "It prevents customers from comparing competitors"
+        ],
+        "answer": "It creates opportunities to build relationships and access resources"
+    },
+    {
+        "question": "What is a feasibility study?",
+        "options": [
+            "A record of employee attendance",
+            "A promotional campaign for a new product",
+            "A document containing only a company's mission statement",
+            "An assessment of whether a proposed business idea is practical and viable"
+        ],
+        "answer": "An assessment of whether a proposed business idea is practical and viable"
+    },
+    {
+        "question": "What is the purpose of a business pitch?",
+        "options": [
+            "To persuade an audience that a business idea or opportunity is worth considering",
+            "To explain why market research is unnecessary",
+            "To disclose every customer's private information",
+            "To guarantee a specific investment return"
+        ],
+        "answer": "To persuade an audience that a business idea or opportunity is worth considering"
+    },
+    {
+        "question": "What are the four traditional elements of the marketing mix?",
+        "options": [
+            "People, profit, planning, and productivity",
+            "Production, purchasing, personnel, and payments",
+            "Product, price, place, and promotion",
+            "Planning, positioning, packaging, and payroll"
+        ],
+        "answer": "Product, price, place, and promotion"
+    },
+    {
+        "question": "What is market segmentation?",
+        "options": [
+            "Combining every customer into one group",
+            "Dividing a market into groups with similar characteristics or needs",
+            "Increasing prices for every product",
+            "Removing customer feedback from marketing decisions"
+        ],
+        "answer": "Dividing a market into groups with similar characteristics or needs"
+    },
+    {
+        "question": "What is demographic segmentation?",
+        "options": [
+            "Grouping customers according to weather conditions",
+            "Grouping businesses by their suppliers",
+            "Grouping products according to manufacturing methods",
+            "Grouping customers by characteristics such as age, income, and education"
+        ],
+        "answer": "Grouping customers by characteristics such as age, income, and education"
+    },
+    {
+        "question": "What is psychographic segmentation?",
+        "options": [
+            "Grouping customers by lifestyle, interests, values, and attitudes",
+            "Grouping customers only by postal code",
+            "Grouping products by their production costs",
+            "Grouping businesses by the number of employees"
+        ],
+        "answer": "Grouping customers by lifestyle, interests, values, and attitudes"
+    },
+    {
+        "question": "What is geographic segmentation?",
+        "options": [
+            "Grouping customers by their purchasing frequency",
+            "Grouping customers by their personality traits",
+            "Grouping customers according to location or region",
+            "Grouping customers by their preferred payment methods"
+        ],
+        "answer": "Grouping customers according to location or region"
+    },
+    {
+        "question": "What is behavioral segmentation?",
+        "options": [
+            "Grouping customers according to geographic boundaries only",
+            "Grouping customers by purchasing habits, usage, or brand loyalty",
+            "Grouping businesses according to their tax rates",
+            "Grouping employees according to their education"
+        ],
+        "answer": "Grouping customers by purchasing habits, usage, or brand loyalty"
+    },
+    {
+        "question": "What is a brand?",
+        "options": [
+            "A company's inventory storage system",
+            "A record of all business expenses",
+            "A legal requirement to offer discounts",
+            "A collection of identifiers and associations that distinguish a business or product"
+        ],
+        "answer": "A collection of identifiers and associations that distinguish a business or product"
+    },
+    {
+        "question": "What is brand positioning?",
+        "options": [
+            "Establishing how a brand is perceived relative to competitors",
+            "Deciding where employees sit in an office",
+            "Determining the location of a company's warehouse",
+            "Choosing the accounting method used by a business"
+        ],
+        "answer": "Establishing how a brand is perceived relative to competitors"
+    },
+    {
+        "question": "What is a target audience?",
+        "options": [
+            "Every business in a particular industry",
+            "A company's employees and suppliers exclusively",
+            "The specific group of people a marketing message is intended to reach",
+            "Only customers who have already purchased a product"
+        ],
+        "answer": "The specific group of people a marketing message is intended to reach"
+    },
+    {
+        "question": "What is the main purpose of promotional advertising?",
+        "options": [
+            "To replace the need for a product",
+            "To communicate information and persuade potential customers",
+            "To guarantee a company will dominate the market",
+            "To eliminate operating expenses"
+        ],
+        "answer": "To communicate information and persuade potential customers"
+    },
+    {
+        "question": "What is a call to action in marketing?",
+        "options": [
+            "A report of annual business expenses",
+            "A list of competitor prices",
+            "A statement describing an employee's responsibilities",
+            "A message encouraging an audience to take a specific next step"
+        ],
+        "answer": "A message encouraging an audience to take a specific next step"
+    },
+    {
+        "question": "What does SEO stand for in digital marketing?",
+        "options": [
+            "Search Engine Optimization",
+            "Sales Efficiency Operations",
+            "Strategic Economic Organization",
+            "Standard Expense Overview"
+        ],
+        "answer": "Search Engine Optimization"
+    },
+    {
+        "question": "What is the primary purpose of search engine optimization?",
+        "options": [
+            "To increase the number of employees in a company",
+            "To guarantee that every visitor makes a purchase",
+            "To improve a website's visibility in unpaid search results",
+            "To eliminate the need for useful website content"
+        ],
+        "answer": "To improve a website's visibility in unpaid search results"
+    },
+    {
+        "question": "What is a conversion rate?",
+        "options": [
+            "The percentage of products returned by suppliers",
+            "The percentage of visitors or prospects who complete a desired action",
+            "The total cost of producing one item",
+            "The number of employees promoted each year"
+        ],
+        "answer": "The percentage of visitors or prospects who complete a desired action"
+    },
+    {
+        "question": "A website receives 1,000 visitors, and 50 make a purchase. What is the conversion rate?",
+        "options": [
+            "2%",
+            "10%",
+            "20%",
+            "5%"
+        ],
+        "answer": "5%"
+    },
+    {
+        "question": "What is customer relationship management (CRM)?",
+        "options": [
+            "A system for organizing and managing interactions with customers",
+            "A method of calculating depreciation exclusively",
+            "A legal structure for owning a corporation",
+            "A process for determining national interest rates"
+        ],
+        "answer": "A system for organizing and managing interactions with customers"
+    },
+    {
+        "question": "What is customer retention?",
+        "options": [
+            "Attracting competitors' employees",
+            "Increasing the number of products in inventory",
+            "Encouraging existing customers to continue doing business with a company",
+            "Reducing the number of customer service channels"
+        ],
+        "answer": "Encouraging existing customers to continue doing business with a company"
+    },
+    {
+        "question": "What is customer loyalty?",
+        "options": [
+            "A customer's inability to purchase from other businesses",
+            "A customer's ongoing preference for and commitment to a business or brand",
+            "A company's requirement to sell at a loss",
+            "A temporary increase in product inventory"
+        ],
+        "answer": "A customer's ongoing preference for and commitment to a business or brand"
+    },
+    {
+        "question": "What is a common purpose of a loyalty program?",
+        "options": [
+            "To prevent customers from sharing feedback",
+            "To increase production costs without benefits",
+            "To eliminate the need for customer service",
+            "To encourage repeat purchases by rewarding customer behavior"
+        ],
+        "answer": "To encourage repeat purchases by rewarding customer behavior"
+    },
+    {
+        "question": "What is penetration pricing?",
+        "options": [
+            "Setting a relatively low introductory price to attract customers and gain market share",
+            "Setting the highest possible price permanently",
+            "Charging different employees different wages for the same work",
+            "Pricing a product without considering market conditions"
+        ],
+        "answer": "Setting a relatively low introductory price to attract customers and gain market share"
+    },
+    {
+        "question": "What is price skimming?",
+        "options": [
+            "Setting a price below variable cost in every situation",
+            "Matching every competitor's price exactly",
+            "Introducing a product at a high price and potentially lowering it over time",
+            "Giving away every product without charging customers"
+        ],
+        "answer": "Introducing a product at a high price and potentially lowering it over time"
+    },
+    {
+        "question": "What is psychological pricing?",
+        "options": [
+            "Setting prices solely according to manufacturing equipment",
+            "Using prices designed to influence how customers perceive value",
+            "Charging customers according to their medical history",
+            "Changing prices randomly without a business objective"
+        ],
+        "answer": "Using prices designed to influence how customers perceive value"
+    },
+    {
+        "question": "What is a unique selling proposition (USP)?",
+        "options": [
+            "A list of all company employees",
+            "A record of business tax payments",
+            "A requirement to sell products through wholesalers",
+            "A distinctive benefit that differentiates an offering from competitors"
+        ],
+        "answer": "A distinctive benefit that differentiates an offering from competitors"
+    },
+    {
+        "question": "What is the purpose of public relations?",
+        "options": [
+            "To manage communication and relationships between an organization and its publics",
+            "To determine employee tax deductions",
+            "To calculate inventory turnover exclusively",
+            "To guarantee positive news coverage"
+        ],
+        "answer": "To manage communication and relationships between an organization and its publics"
+    },
+    {
+        "question": "What is a marketing funnel?",
+        "options": [
+            "A tool used only to calculate manufacturing costs",
+            "A list of businesses located in one shopping center",
+            "A model showing the stages potential customers move through toward conversion",
+            "A financial statement showing assets and liabilities"
+        ],
+        "answer": "A model showing the stages potential customers move through toward conversion"
+    },
+    {
+        "question": "Which metric measures how many people recognize or remember a brand?",
+        "options": [
+            "Inventory turnover",
+            "Brand awareness",
+            "Accounts payable",
+            "Contribution margin"
+        ],
+        "answer": "Brand awareness"
+    },
+    {
+        "question": "What is the purpose of an A/B test in marketing?",
+        "options": [
+            "To compare the annual salaries of two employees",
+            "To calculate the book value of a building",
+            "To determine a business's legal structure",
+            "To compare two versions of a marketing element to determine which performs better"
+        ],
+        "answer": "To compare two versions of a marketing element to determine which performs better"
+    },
+    {
+        "question": "What is social media engagement?",
+        "options": [
+            "Interactions such as comments, shares, and likes on social content",
+            "The number of products stored in a warehouse",
+            "The total amount of a company's long-term debt",
+            "The number of suppliers used by a business"
+        ],
+        "answer": "Interactions such as comments, shares, and likes on social content"
+    },
+    {
+        "question": "What is the purpose of a marketing budget?",
+        "options": [
+            "To eliminate the need to measure campaign results",
+            "To guarantee that every advertisement becomes profitable",
+            "To plan and control spending on marketing activities",
+            "To calculate employee vacation days"
+        ],
+        "answer": "To plan and control spending on marketing activities"
+    },
+    {
+        "question": "What does customer lifetime value estimate?",
+        "options": [
+            "The number of employees a customer has supervised",
+            "The total value a customer is expected to generate over the relationship with a business",
+            "The cost of a single advertisement",
+            "The number of products a business manufactures in one hour"
+        ],
+        "answer": "The total value a customer is expected to generate over the relationship with a business"
+    },
+    {
+        "question": "What is a common benefit of market positioning?",
+        "options": [
+            "It removes the need to understand customer preferences",
+            "It guarantees that all competitors will close",
+            "It prevents customers from comparing alternatives",
+            "It helps customers understand how an offering differs from alternatives"
+        ],
+        "answer": "It helps customers understand how an offering differs from alternatives"
+    },
+    {
+        "question": "What is revenue?",
+        "options": [
+            "The income a business earns from its activities before expenses are deducted",
+            "The total value of all business debts",
+            "The amount remaining after every expense has been deducted",
+            "The total amount of cash borrowed from lenders"
+        ],
+        "answer": "The income a business earns from its activities before expenses are deducted"
+    },
+    {
+        "question": "What is profit?",
+        "options": [
+            "The total value of a company's inventory",
+            "The amount of money a company borrows",
+            "The amount remaining when relevant expenses are deducted from revenue",
+            "The total amount of money collected before refunds"
+        ],
+        "answer": "The amount remaining when relevant expenses are deducted from revenue"
+    },
+    {
+        "question": "A business earns $12,000 in revenue and has $8,000 in total expenses. What is its profit?",
+        "options": [
+            "$20,000",
+            "$4,000",
+            "$8,000",
+            "$3,000"
+        ],
+        "answer": "$4,000"
+    },
+    {
+        "question": "What is a fixed cost?",
+        "options": [
+            "A cost that increases with every unit produced",
+            "A cost that changes whenever a customer purchases something",
+            "A cost that is always equal to revenue",
+            "A cost that generally remains constant within a relevant activity range"
+        ],
+        "answer": "A cost that generally remains constant within a relevant activity range"
+    },
+    {
+        "question": "Which of the following is usually a variable cost for a manufacturer?",
+        "options": [
+            "Raw materials used for each unit produced",
+            "Monthly building rent under a fixed lease",
+            "An annual business license fee",
+            "A fixed monthly insurance premium"
+        ],
+        "answer": "Raw materials used for each unit produced"
+    },
+    {
+        "question": "What is a cash flow statement used to track?",
+        "options": [
+            "Only the market value of competitors",
+            "Only the number of employees hired",
+            "Cash entering and leaving a business over a period",
+            "Only the number of products advertised"
+        ],
+        "answer": "Cash entering and leaving a business over a period"
+    },
+    {
+        "question": "What is a balance sheet?",
+        "options": [
+            "A report containing only monthly sales",
+            "A financial statement showing assets, liabilities, and equity at a point in time",
+            "A document listing only advertising expenses",
+            "A report showing only cash received from customers"
+        ],
+        "answer": "A financial statement showing assets, liabilities, and equity at a point in time"
+    },
+    {
+        "question": "What does an income statement show?",
+        "options": [
+            "The physical location of all company equipment",
+            "Only the outstanding loans of a business",
+            "Only the cash available in a bank account",
+            "Revenue, expenses, and resulting profit or loss over a period"
+        ],
+        "answer": "Revenue, expenses, and resulting profit or loss over a period"
+    },
+    {
+        "question": "What are assets?",
+        "options": [
+            "Resources owned or controlled by a business that have economic value",
+            "Amounts a business owes to creditors",
+            "The total amount of advertising a company purchases",
+            "Only the profits distributed to owners"
+        ],
+        "answer": "Resources owned or controlled by a business that have economic value"
+    },
+    {
+        "question": "What are liabilities?",
+        "options": [
+            "Resources available to the company",
+            "Sales earned from customers",
+            "Financial obligations a business owes to others",
+            "The total number of products sold"
+        ],
+        "answer": "Financial obligations a business owes to others"
+    },
+    {
+        "question": "What is owner's equity?",
+        "options": [
+            "The total amount of sales revenue",
+            "The residual interest in a business's assets after liabilities are deducted",
+            "The amount owed exclusively to suppliers",
+            "The total value of advertising campaigns"
+        ],
+        "answer": "The residual interest in a business's assets after liabilities are deducted"
+    },
+    {
+        "question": "Which accounting equation is correct?",
+        "options": [
+            "Revenue = Assets + Expenses",
+            "Liabilities = Assets + Equity",
+            "Profit = Assets - Revenue",
+            "Assets = Liabilities + Equity"
+        ],
+        "answer": "Assets = Liabilities + Equity"
+    },
+    {
+        "question": "What is a budget?",
+        "options": [
+            "A financial plan estimating expected income and expenses",
+            "A document containing only past customer complaints",
+            "A list of competitors' employee names",
+            "A guarantee that expenses will never exceed revenue"
+        ],
+        "answer": "A financial plan estimating expected income and expenses"
+    },
+    {
+        "question": "What is a financial forecast?",
+        "options": [
+            "A record of only the previous day's cash receipts",
+            "A legal document establishing a corporation",
+            "An estimate of future financial performance based on available information",
+            "A marketing message designed to attract customers"
+        ],
+        "answer": "An estimate of future financial performance based on available information"
+    },
+    {
+        "question": "What is working capital?",
+        "options": [
+            "Total revenue minus total advertising expenses",
+            "Current assets minus current liabilities",
+            "Total assets minus total revenue",
+            "Fixed costs minus variable costs"
+        ],
+        "answer": "Current assets minus current liabilities"
+    },
+    {
+        "question": "What is liquidity?",
+        "options": [
+            "The number of employees a business has",
+            "The percentage of customers who return products",
+            "The total annual amount spent on advertising",
+            "The ability to meet short-term financial obligations"
+        ],
+        "answer": "The ability to meet short-term financial obligations"
+    },
+    {
+        "question": "What does the current ratio measure?",
+        "options": [
+            "A company's ability to cover current liabilities with current assets",
+            "The percentage of revenue spent on advertising",
+            "The number of products sold per employee",
+            "The rate at which employees receive promotions"
+        ],
+        "answer": "A company's ability to cover current liabilities with current assets"
+    },
+    {
+        "question": "A business has current assets of $30,000 and current liabilities of $15,000. What is its current ratio?",
+        "options": [
+            "0.5",
+            "3.0",
+            "2.0",
+            "15.0"
+        ],
+        "answer": "2.0"
+    },
+    {
+        "question": "What is gross profit?",
+        "options": [
+            "Revenue minus all operating, financing, and tax expenses",
+            "Revenue minus the cost of goods sold",
+            "Total assets minus total liabilities",
+            "Cash received minus loan repayments"
+        ],
+        "answer": "Revenue minus the cost of goods sold"
+    },
+    {
+        "question": "A company earns $20,000 in sales and has a cost of goods sold of $8,000. What is its gross profit?",
+        "options": [
+            "$8,000",
+            "$28,000",
+            "$20,000",
+            "$12,000"
+        ],
+        "answer": "$12,000"
+    },
+    {
+        "question": "What is the gross profit margin for a business with $50,000 in revenue and $20,000 in cost of goods sold?",
+        "options": [
+            "60%",
+            "40%",
+            "30%",
+            "70%"
+        ],
+        "answer": "60%"
+    },
+    {
+        "question": "How is net profit margin calculated?",
+        "options": [
+            "Total assets divided by total liabilities",
+            "Total expenses divided by inventory",
+            "Net profit divided by revenue, multiplied by 100%",
+            "Gross profit divided by fixed assets"
+        ],
+        "answer": "Net profit divided by revenue, multiplied by 100%"
+    },
+    {
+        "question": "What is the break-even point?",
+        "options": [
+            "The point where revenue is greater than every possible expense",
+            "The point where total revenue equals total costs",
+            "The point where a business has no customers",
+            "The point where fixed costs become zero"
+        ],
+        "answer": "The point where total revenue equals total costs"
+    },
+    {
+        "question": "A business has fixed costs of $2,000, a selling price of $20 per unit, and a variable cost of $10 per unit. How many units must it sell to break even?",
+        "options": [
+            "100 units",
+            "50 units",
+            "200 units",
+            "400 units"
+        ],
+        "answer": "200 units"
+    },
+    {
+        "question": "What is contribution margin per unit?",
+        "options": [
+            "Selling price plus fixed cost per unit",
+            "Total revenue minus total fixed assets",
+            "Total fixed costs divided by revenue",
+            "Selling price per unit minus variable cost per unit"
+        ],
+        "answer": "Selling price per unit minus variable cost per unit"
+    },
+    {
+        "question": "A product sells for $40 and has a variable cost of $25 per unit. What is its contribution margin per unit?",
+        "options": [
+            "$65",
+            "$25",
+            "$15",
+            "$40"
+        ],
+        "answer": "$15"
+    },
+    {
+        "question": "What is return on investment (ROI) generally used to measure?",
+        "options": [
+            "The number of employees who attend meetings",
+            "The profitability of an investment relative to its cost",
+            "The amount of inventory stored in a warehouse",
+            "The percentage of customers who visit a website"
+        ],
+        "answer": "The profitability of an investment relative to its cost"
+    },
+    {
+        "question": "A business invests $5,000 in a campaign and earns $6,500 in revenue attributable to it. If the campaign's only cost is the $5,000 investment, what is the ROI?",
+        "options": [
+            "30%",
+            "130%",
+            "15%",
+            "23.1%"
+        ],
+        "answer": "30%"
+    },
+    {
+        "question": "What is accounts receivable?",
+        "options": [
+            "Money a business owes its suppliers",
+            "Money paid to employees in advance",
+            "The value of unsold inventory only",
+            "Money customers owe a business for credit sales"
+        ],
+        "answer": "Money customers owe a business for credit sales"
+    },
+    {
+        "question": "What is accounts payable?",
+        "options": [
+            "Money customers owe the business",
+            "Revenue earned from cash sales",
+            "Money the business owes suppliers or other creditors",
+            "The total value of company equipment"
+        ],
+        "answer": "Money the business owes suppliers or other creditors"
+    },
+    {
+        "question": "What is depreciation in accounting?",
+        "options": [
+            "An increase in the market value of inventory",
+            "The systematic allocation of a tangible asset's depreciable cost over its useful life",
+            "The total revenue earned from an asset",
+            "The amount of cash customers owe a company"
+        ],
+        "answer": "The systematic allocation of a tangible asset's depreciable cost over its useful life"
+    },
+    {
+        "question": "What is an opportunity cost?",
+        "options": [
+            "The value of the next-best alternative given up when making a choice",
+            "The total amount of cash a business earns",
+            "The interest charged on every business loan",
+            "The amount spent exclusively on advertising"
+        ],
+        "answer": "The value of the next-best alternative given up when making a choice"
+    },
+    {
+        "question": "What is a sunk cost?",
+        "options": [
+            "A cost that has not yet been considered",
+            "A future expense that can always be avoided",
+            "A cost that changes directly with every unit sold",
+            "A cost that has already been incurred and cannot be recovered"
+        ],
+        "answer": "A cost that has already been incurred and cannot be recovered"
+    },
+    {
+        "question": "What is the main purpose of an emergency fund for a business?",
+        "options": [
+            "To finance every expansion regardless of risk",
+            "To replace the need for budgeting",
+            "To help cover unexpected expenses or temporary cash shortfalls",
+            "To eliminate the need for insurance"
+        ],
+        "answer": "To help cover unexpected expenses or temporary cash shortfalls"
+    },
+    {
+        "question": "What is debt financing?",
+        "options": [
+            "Selling ownership shares to investors",
+            "Obtaining borrowed funds that generally must be repaid",
+            "Using only retained business profits",
+            "Receiving customer feedback without payment"
+        ],
+        "answer": "Obtaining borrowed funds that generally must be repaid"
+    },
+    {
+        "question": "What is equity financing?",
+        "options": [
+            "Obtaining funds by selling an ownership interest in a business",
+            "Borrowing money that must always be repaid with interest",
+            "Delaying every supplier payment",
+            "Reducing the amount of inventory held"
+        ],
+        "answer": "Obtaining funds by selling an ownership interest in a business"
+    },
+    {
+        "question": "What is an advantage of debt financing for an owner?",
+        "options": [
+            "It eliminates the requirement to repay borrowed funds",
+            "It guarantees that the business will earn a profit",
+            "It always provides lower costs than equity financing",
+            "It generally allows the owner to retain ownership control if loan obligations are met"
+        ],
+        "answer": "It generally allows the owner to retain ownership control if loan obligations are met"
+    },
+    {
+        "question": "What is one potential disadvantage of equity financing?",
+        "options": [
+            "The business must always make fixed monthly loan payments to shareholders",
+            "It makes raising additional capital impossible",
+            "The original owner may have to share ownership and decision-making authority",
+            "It prevents the business from hiring employees"
+        ],
+        "answer": "The original owner may have to share ownership and decision-making authority"
+    },
+    {
+        "question": "What is an angel investor?",
+        "options": [
+            "A government employee who audits all new businesses",
+            "An individual who invests personal funds in an early-stage business",
+            "A customer who purchases products in large quantities",
+            "A supplier who provides inventory without any agreement"
+        ],
+        "answer": "An individual who invests personal funds in an early-stage business"
+    },
+    {
+        "question": "What is venture capital?",
+        "options": [
+            "A type of short-term customer discount",
+            "A government-mandated employee benefit",
+            "Money reserved exclusively for paying utility bills",
+            "Investment capital provided to businesses with significant growth potential"
+        ],
+        "answer": "Investment capital provided to businesses with significant growth potential"
+    },
+    {
+        "question": "What is a franchise?",
+        "options": [
+            "A business arrangement allowing a franchisee to operate using a franchisor's brand and business system under agreed terms",
+            "A business that must operate without any brand identity",
+            "A government agency that approves every purchase",
+            "A business structure that prevents expansion"
+        ],
+        "answer": "A business arrangement allowing a franchisee to operate using a franchisor's brand and business system under agreed terms"
+    },
+    {
+        "question": "What is a sole proprietorship?",
+        "options": [
+            "A corporation owned by thousands of shareholders",
+            "A business owned by two or more equal partners in every case",
+            "A business owned by one individual",
+            "A government-owned commercial enterprise"
+        ],
+        "answer": "A business owned by one individual"
+    },
+    {
+        "question": "What is a common characteristic of a general partnership?",
+        "options": [
+            "It must be publicly traded on a stock exchange",
+            "Two or more owners operate a business under an agreement and share applicable responsibilities",
+            "It can have only one owner",
+            "All partners are automatically protected from personal liability in every jurisdiction"
+        ],
+        "answer": "Two or more owners operate a business under an agreement and share applicable responsibilities"
+    },
+    {
+        "question": "What is a corporation?",
+        "options": [
+            "A business that cannot own property",
+            "A business with no legal identity separate from its owner",
+            "A temporary marketing campaign",
+            "A legal entity separate from its owners"
+        ],
+        "answer": "A legal entity separate from its owners"
+    },
+    {
+        "question": "What is a common advantage of a limited liability company (LLC)?",
+        "options": [
+            "It can provide owners with limited liability protection, subject to applicable law",
+            "It guarantees that owners will never pay taxes",
+            "It eliminates every business regulation",
+            "It prevents the company from entering contracts"
+        ],
+        "answer": "It can provide owners with limited liability protection, subject to applicable law"
+    },
+    {
+        "question": "What is limited liability?",
+        "options": [
+            "A requirement that owners pay all business debts personally",
+            "A rule that prevents a business from borrowing money",
+            "A legal protection that generally limits an owner's liability for business obligations",
+            "A requirement that all profits be reinvested"
+        ],
+        "answer": "A legal protection that generally limits an owner's liability for business obligations"
+    },
+    {
+        "question": "What is intellectual property?",
+        "options": [
+            "Only physical equipment used by employees",
+            "Creations of the mind that may receive legal protection",
+            "The money a company owes its suppliers",
+            "The total number of customers in a market"
+        ],
+        "answer": "Creations of the mind that may receive legal protection"
+    },
+    {
+        "question": "What does a trademark generally protect?",
+        "options": [
+            "Every business idea regardless of originality",
+            "All financial information held by a company",
+            "An employee's wages and benefits",
+            "Brand identifiers that distinguish goods or services"
+        ],
+        "answer": "Brand identifiers that distinguish goods or services"
+    },
+    {
+        "question": "What does copyright generally protect?",
+        "options": [
+            "Original works of authorship fixed in a tangible medium, subject to applicable law",
+            "Every business method regardless of legal requirements",
+            "A company's unpaid invoices",
+            "A competitor's general business strategy"
+        ],
+        "answer": "Original works of authorship fixed in a tangible medium, subject to applicable law"
+    },
+    {
+        "question": "What is a patent generally intended to protect?",
+        "options": [
+            "A company's customer service policies",
+            "A slogan in every possible context",
+            "A qualifying invention that meets applicable legal requirements",
+            "An employee's personal schedule"
+        ],
+        "answer": "A qualifying invention that meets applicable legal requirements"
+    },
+    {
+        "question": "What is business ethics?",
+        "options": [
+            "A strategy for avoiding all competition",
+            "Principles that guide right and responsible behavior in business",
+            "A method of increasing prices without explanation",
+            "A financial statement prepared at year-end"
+        ],
+        "answer": "Principles that guide right and responsible behavior in business"
+    },
+    {
+        "question": "What is corporate social responsibility (CSR)?",
+        "options": [
+            "A requirement to focus exclusively on short-term profits",
+            "A method of avoiding customer feedback",
+            "A system for calculating employee commissions",
+            "A business's consideration of its social, environmental, and ethical impacts"
+        ],
+        "answer": "A business's consideration of its social, environmental, and ethical impacts"
+    },
+    {
+        "question": "What is a conflict of interest?",
+        "options": [
+            "A situation in which personal interests could improperly influence professional judgment",
+            "A disagreement over the color of a company logo that is resolved through discussion",
+            "A customer's decision to compare two products",
+            "A routine inventory count"
+        ],
+        "answer": "A situation in which personal interests could improperly influence professional judgment"
+    },
+    {
+        "question": "What is insider trading?",
+        "options": [
+            "Buying inventory directly from a manufacturer",
+            "Training new employees in company procedures",
+            "Trading securities in violation of applicable laws using material nonpublic information",
+            "Purchasing office supplies from a wholesaler"
+        ],
+        "answer": "Trading securities in violation of applicable laws using material nonpublic information"
+    },
+    {
+        "question": "Why is accurate financial reporting important?",
+        "options": [
+            "It guarantees that every investor earns a profit",
+            "It supports informed decisions and helps stakeholders assess financial performance",
+            "It removes the need to follow accounting standards",
+            "It allows businesses to hide operating losses"
+        ],
+        "answer": "It supports informed decisions and helps stakeholders assess financial performance"
+    },
+    {
+        "question": "What is a business contingency plan?",
+        "options": [
+            "A document containing only previous sales figures",
+            "A plan to eliminate every competitor",
+            "A schedule of employee birthdays",
+            "A plan for responding to unexpected events or disruptions"
+        ],
+        "answer": "A plan for responding to unexpected events or disruptions"
+    },
+    {
+        "question": "What is risk management?",
+        "options": [
+            "Identifying, assessing, and responding to potential risks",
+            "Avoiding every business decision that involves uncertainty",
+            "Increasing spending without analyzing possible outcomes",
+            "Transferring all responsibilities to customers"
+        ],
+        "answer": "Identifying, assessing, and responding to potential risks"
+    },
+    {
+        "question": "What is a common purpose of business insurance?",
+        "options": [
+            "To guarantee that a business cannot fail",
+            "To eliminate all employee training requirements",
+            "To transfer certain financial risks to an insurer under an insurance policy",
+            "To replace the need for emergency planning"
+        ],
+        "answer": "To transfer certain financial risks to an insurer under an insurance policy"
+    },
+    {
+        "question": "What is data privacy in business?",
+        "options": [
+            "Sharing all customer information publicly",
+            "Handling personal information appropriately and protecting it from unauthorized access or use",
+            "Collecting every possible detail regardless of purpose",
+            "Allowing every employee unrestricted access to customer records"
+        ],
+        "answer": "Handling personal information appropriately and protecting it from unauthorized access or use"
+    },
+    {
+        "question": "What is the purpose of a code of conduct?",
+        "options": [
+            "To replace every employment agreement",
+            "To guarantee that disagreements never occur",
+            "To list only a company's financial assets",
+            "To establish expected standards of behavior and ethical responsibilities"
+        ],
+        "answer": "To establish expected standards of behavior and ethical responsibilities"
+    },
+    {
+        "question": "What is price fixing?",
+        "options": [
+            "An agreement between competitors to set prices rather than compete independently",
+            "A business independently changing its own prices",
+            "A store advertising a seasonal discount",
+            "A supplier negotiating prices with one customer independently"
+        ],
+        "answer": "An agreement between competitors to set prices rather than compete independently"
+    },
+    {
+        "question": "What is deceptive advertising?",
+        "options": [
+            "Advertising a product through social media",
+            "Comparing a product's price with a competitor's price accurately",
+            "Making materially misleading claims about a product or service",
+            "Explaining the terms of a genuine promotional offer"
+        ],
+        "answer": "Making materially misleading claims about a product or service"
+    },
+    {
+        "question": "What is the main purpose of employee training?",
+        "options": [
+            "To increase operating expenses without improving performance",
+            "To develop employees' knowledge, skills, and ability to perform their jobs",
+            "To eliminate the need for performance feedback",
+            "To prevent employees from taking on new responsibilities"
+        ],
+        "answer": "To develop employees' knowledge, skills, and ability to perform their jobs"
+    },
+    {
+        "question": "What is the difference between leadership and management?",
+        "options": [
+            "Leadership and management are always identical in every respect",
+            "Management involves only motivating people, while leadership involves only accounting",
+            "Leadership is unnecessary when a business has employees",
+            "Leadership emphasizes influencing and guiding people, while management also coordinates resources and processes"
+        ],
+        "answer": "Leadership emphasizes influencing and guiding people, while management also coordinates resources and processes"
+    },
+    {
+        "question": "What is delegation?",
+        "options": [
+            "Assigning responsibility and appropriate authority for tasks to others",
+            "Completing every task personally",
+            "Avoiding responsibility for business outcomes",
+            "Removing all decision-making authority from employees"
+        ],
+        "answer": "Assigning responsibility and appropriate authority for tasks to others"
+    },
+    {
+        "question": "What is an organizational chart?",
+        "options": [
+            "A document showing only annual sales",
+            "A graph comparing competitors' prices",
+            "A visual representation of roles and reporting relationships within an organization",
+            "A list of customers' purchasing histories"
+        ],
+        "answer": "A visual representation of roles and reporting relationships within an organization"
+    },
+    {
+        "question": "What is organizational culture?",
+        "options": [
+            "The physical design of a company's warehouse exclusively",
+            "The shared values, beliefs, norms, and behaviors within an organization",
+            "The total amount of money held in a company's bank accounts",
+            "The number of competitors in a local market"
+        ],
+        "answer": "The shared values, beliefs, norms, and behaviors within an organization"
+    },
+    {
+        "question": "What is employee motivation?",
+        "options": [
+            "A method of increasing inventory without demand",
+            "A system for calculating corporate taxes",
+            "A rule requiring every employee to have the same responsibilities",
+            "The factors that influence employees' willingness to work toward goals"
+        ],
+        "answer": "The factors that influence employees' willingness to work toward goals"
+    },
+    {
+        "question": "According to Maslow's hierarchy of needs, which needs are generally foundational?",
+        "options": [
+            "Physiological needs such as food, water, and rest",
+            "Self-actualization needs exclusively",
+            "Recognition needs exclusively",
+            "Social status needs exclusively"
+        ],
+        "answer": "Physiological needs such as food, water, and rest"
+    },
+    {
+        "question": "Which leadership style involves employees in decision-making?",
+        "options": [
+            "Autocratic leadership",
+            "Laissez-faire leadership in every possible situation",
+            "Democratic leadership",
+            "Coercive leadership"
+        ],
+        "answer": "Democratic leadership"
+    },
+    {
+        "question": "What is autocratic leadership?",
+        "options": [
+            "A style in which all employees have equal decision-making authority at all times",
+            "A style in which the leader makes decisions with limited employee participation",
+            "A style in which the leader avoids setting expectations",
+            "A style that requires every decision to be made by customers"
+        ],
+        "answer": "A style in which the leader makes decisions with limited employee participation"
+    },
+    {
+        "question": "What is active listening?",
+        "options": [
+            "Planning a response without considering what the speaker says",
+            "Interrupting frequently to correct minor mistakes",
+            "Ignoring nonverbal communication",
+            "Concentrating on the speaker, clarifying meaning, and responding thoughtfully"
+        ],
+        "answer": "Concentrating on the speaker, clarifying meaning, and responding thoughtfully"
+    },
+    {
+        "question": "What is constructive feedback?",
+        "options": [
+            "Specific, respectful information intended to improve performance",
+            "Personal criticism that offers no suggestions",
+            "A promise that employees will never make mistakes",
+            "A report containing only negative comments"
+        ],
+        "answer": "Specific, respectful information intended to improve performance"
+    },
+    {
+        "question": "What is effective conflict resolution?",
+        "options": [
+            "Ignoring every disagreement until it becomes more serious",
+            "Automatically blaming the newest employee",
+            "Identifying the underlying issue and working toward a fair solution",
+            "Preventing employees from communicating with one another"
+        ],
+        "answer": "Identifying the underlying issue and working toward a fair solution"
+    },
+    {
+        "question": "What is the purpose of performance evaluations?",
+        "options": [
+            "To guarantee every employee receives an identical rating",
+            "To assess performance, provide feedback, and identify development opportunities",
+            "To eliminate the need for job descriptions",
+            "To prevent employees from setting goals"
+        ],
+        "answer": "To assess performance, provide feedback, and identify development opportunities"
+    },
+    {
+        "question": "What is employee turnover?",
+        "options": [
+            "The number of products sold during a shift",
+            "The total number of customers entering a store",
+            "The amount of revenue generated by one employee",
+            "The rate at which employees leave and are replaced within an organization"
+        ],
+        "answer": "The rate at which employees leave and are replaced within an organization"
+    },
+    {
+        "question": "What is a benefit of effective teamwork?",
+        "options": [
+            "Combining different skills and perspectives to accomplish shared goals",
+            "Eliminating the need for communication",
+            "Ensuring that every employee performs exactly the same task",
+            "Preventing employees from sharing ideas"
+        ],
+        "answer": "Combining different skills and perspectives to accomplish shared goals"
+    },
+    {
+        "question": "What is time management?",
+        "options": [
+            "Completing tasks in any order without considering deadlines",
+            "Accepting every task regardless of available resources",
+            "Planning and prioritizing activities to use time effectively",
+            "Avoiding schedules and deadlines"
+        ],
+        "answer": "Planning and prioritizing activities to use time effectively"
+    },
+    {
+        "question": "What is a key benefit of setting priorities?",
+        "options": [
+            "It makes every task equally urgent",
+            "It helps direct attention and resources toward the most important tasks",
+            "It eliminates all unexpected events",
+            "It guarantees that no task will take longer than expected"
+        ],
+        "answer": "It helps direct attention and resources toward the most important tasks"
+    },
+    {
+        "question": "What is the purpose of a standard operating procedure (SOP)?",
+        "options": [
+            "To replace all employee training",
+            "To make every business decision unpredictable",
+            "To eliminate the need for quality checks",
+            "To document consistent steps for completing a routine task"
+        ],
+        "answer": "To document consistent steps for completing a routine task"
+    },
+    {
+        "question": "What is a key performance indicator (KPI)?",
+        "options": [
+            "A measurable indicator used to evaluate progress toward an objective",
+            "A list of every employee's personal interests",
+            "A legal document establishing a business",
+            "A guarantee that a marketing campaign will succeed"
+        ],
+        "answer": "A measurable indicator used to evaluate progress toward an objective"
+    },
+    {
+        "question": "Which of the following is an example of an operational KPI for a retail store?",
+        "options": [
+            "The owner's favorite product color",
+            "The number of ideas discussed at an informal gathering",
+            "Average order fulfillment time",
+            "The number of advertisements a competitor publishes without context"
+        ],
+        "answer": "Average order fulfillment time"
+    },
+    {
+        "question": "What is quality control?",
+        "options": [
+            "A method of increasing prices whenever sales fall",
+            "The process of checking products or services against established quality standards",
+            "A system for assigning employee vacation days",
+            "A strategy for eliminating customer feedback"
+        ],
+        "answer": "The process of checking products or services against established quality standards"
+    },
+    {
+        "question": "What is continuous improvement?",
+        "options": [
+            "Making changes without measuring results",
+            "Keeping every business process unchanged regardless of performance",
+            "Replacing all employees whenever a problem occurs",
+            "Ongoing efforts to improve processes, products, or services"
+        ],
+        "answer": "Ongoing efforts to improve processes, products, or services"
+    },
+    {
+        "question": "What is the purpose of inventory management?",
+        "options": [
+            "To maintain appropriate stock levels while controlling inventory-related costs",
+            "To maximize inventory regardless of demand",
+            "To eliminate all communication with suppliers",
+            "To prevent a business from tracking product movement"
+        ],
+        "answer": "To maintain appropriate stock levels while controlling inventory-related costs"
+    },
+    {
+        "question": "What is a stockout?",
+        "options": [
+            "An increase in the market price of company shares",
+            "A reduction in employee working hours",
+            "A situation in which an item is unavailable when customers need it",
+            "A financial report showing positive net income"
+        ],
+        "answer": "A situation in which an item is unavailable when customers need it"
+    },
+    {
+        "question": "What is safety stock?",
+        "options": [
+            "Inventory that cannot legally be sold",
+            "Extra inventory held to help protect against uncertainty in demand or supply",
+            "Inventory that has already been damaged",
+            "Products reserved exclusively for employees' personal use"
+        ],
+        "answer": "Extra inventory held to help protect against uncertainty in demand or supply"
+    },
+    {
+        "question": "What is supply chain management?",
+        "options": [
+            "Managing only the advertising department",
+            "Tracking employee attendance exclusively",
+            "Setting retail prices without considering suppliers",
+            "Coordinating the flow of goods, services, information, and resources from suppliers to customers"
+        ],
+        "answer": "Coordinating the flow of goods, services, information, and resources from suppliers to customers"
+    },
+    {
+        "question": "What is a benefit of maintaining strong supplier relationships?",
+        "options": [
+            "Potentially improved communication, reliability, and purchasing terms",
+            "Guaranteed elimination of every supply disruption",
+            "The ability to stop monitoring product quality",
+            "A guarantee that every supplier will offer identical prices"
+        ],
+        "answer": "Potentially improved communication, reliability, and purchasing terms"
+    },
+    {
+        "question": "What is outsourcing?",
+        "options": [
+            "Hiring every worker as a company owner",
+            "Eliminating every external business relationship",
+            "Obtaining products or services from an outside organization instead of performing the work internally",
+            "Selling every company asset to employees"
+        ],
+        "answer": "Obtaining products or services from an outside organization instead of performing the work internally"
+    },
+    {
+        "question": "What is economies of scale?",
+        "options": [
+            "An increase in average costs whenever production expands",
+            "A reduction in average cost per unit as output increases over a relevant range",
+            "A guarantee that every new product will succeed",
+            "A method of reducing sales by raising production"
+        ],
+        "answer": "A reduction in average cost per unit as output increases over a relevant range"
+    },
+    {
+        "question": "What is productivity?",
+        "options": [
+            "The total number of meetings held by managers",
+            "The total amount of money borrowed",
+            "The number of competitors in an industry",
+            "The amount of output produced relative to the resources used"
+        ],
+        "answer": "The amount of output produced relative to the resources used"
+    },
+    {
+        "question": "What is capacity planning?",
+        "options": [
+            "Determining the resources and production capability needed to meet expected demand",
+            "Choosing a company slogan",
+            "Calculating only the annual tax rate",
+            "Deciding how often employees receive performance reviews"
+        ],
+        "answer": "Determining the resources and production capability needed to meet expected demand"
+    },
+    {
+        "question": "What is a bottleneck in a business process?",
+        "options": [
+            "A stage that always has unlimited capacity",
+            "A method of increasing customer loyalty",
+            "A constraint that limits the flow or output of the overall process",
+            "A financial statement showing operating income"
+        ],
+        "answer": "A constraint that limits the flow or output of the overall process"
+    },
+    {
+        "question": "What is a project deadline?",
+        "options": [
+            "The amount of revenue generated by a project",
+            "The date or time by which a task or project is expected to be completed",
+            "The number of suppliers used by a project",
+            "The amount of inventory purchased for a project"
+        ],
+        "answer": "The date or time by which a task or project is expected to be completed"
+    },
+    {
+        "question": "What is the purpose of project milestones?",
+        "options": [
+            "To replace the project's main objective",
+            "To guarantee that no delays will occur",
+            "To increase the number of project expenses",
+            "To mark significant stages or achievements in a project's progress"
+        ],
+        "answer": "To mark significant stages or achievements in a project's progress"
+    },
+    {
+        "question": "What is change management?",
+        "options": [
+            "A structured approach to preparing for and implementing organizational changes",
+            "A method of preventing employees from learning new skills",
+            "A process for changing prices without considering customers",
+            "A system that prohibits updates to business procedures"
+        ],
+        "answer": "A structured approach to preparing for and implementing organizational changes"
+    },
+    {
+        "question": "What is a customer service recovery strategy?",
+        "options": [
+            "Refusing to acknowledge customer complaints",
+            "Automatically ending relationships with dissatisfied customers",
+            "Addressing a service failure and working to restore customer confidence",
+            "Eliminating customer service training"
+        ],
+        "answer": "Addressing a service failure and working to restore customer confidence"
+    },
+    {
+        "question": "What is the purpose of an employee handbook?",
+        "options": [
+            "To guarantee that employees will never disagree",
+            "To communicate workplace policies, expectations, and procedures",
+            "To record only the company's annual revenue",
+            "To replace every applicable employment law"
+        ],
+        "answer": "To communicate workplace policies, expectations, and procedures"
+    },
+    {
+        "question": "What is the main purpose of onboarding?",
+        "options": [
+            "To evaluate competitors' advertising",
+            "To calculate product depreciation",
+            "To eliminate the need for employee supervision",
+            "To help new employees understand their roles, workplace, and responsibilities"
+        ],
+        "answer": "To help new employees understand their roles, workplace, and responsibilities"
+    },
+    {
+        "question": "What is a job description?",
+        "options": [
+            "A document outlining a position's duties, responsibilities, and requirements",
+            "A financial statement showing company profit",
+            "A list of customers who have complained",
+            "A report comparing competitors' products"
+        ],
+        "answer": "A document outlining a position's duties, responsibilities, and requirements"
+    },
+    {
+        "question": "What is the purpose of a job interview?",
+        "options": [
+            "To guarantee that a candidate will remain employed permanently",
+            "To determine a candidate's personal shopping preferences",
+            "To assess a candidate's qualifications and suitability for a role",
+            "To replace all reference and background checks where required"
+        ],
+        "answer": "To assess a candidate's qualifications and suitability for a role"
+    },
+    {
+        "question": "What is a common benefit of workplace diversity?",
+        "options": [
+            "It guarantees that all disagreements disappear",
+            "It can introduce different perspectives, experiences, and approaches to problem-solving",
+            "It eliminates the need for clear communication",
+            "It guarantees higher profits in every situation"
+        ],
+        "answer": "It can introduce different perspectives, experiences, and approaches to problem-solving"
+    },
+    {
+        "question": "What is emotional intelligence in leadership?",
+        "options": [
+            "The ability to avoid recognizing personal emotions",
+            "The ability to make every decision without consulting others",
+            "The ability to memorize financial statements",
+            "The ability to recognize and manage emotions and understand others' emotional responses"
+        ],
+        "answer": "The ability to recognize and manage emotions and understand others' emotional responses"
+    },
+    {
+        "question": "What is delegation intended to accomplish?",
+        "options": [
+            "Distribute work appropriately and develop employees' capabilities",
+            "Remove all accountability from managers",
+            "Ensure that only senior executives complete routine tasks",
+            "Prevent employees from gaining experience"
+        ],
+        "answer": "Distribute work appropriately and develop employees' capabilities"
+    },
+    {
+        "question": "What is the first step in a typical rational decision-making process?",
+        "options": [
+            "Immediately implement the first available solution",
+            "Evaluate the outcome before taking action",
+            "Identify and define the problem or decision to be addressed",
+            "Ignore the available evidence"
+        ],
+        "answer": "Identify and define the problem or decision to be addressed"
+    },
+    {
+        "question": "Why should a manager evaluate alternatives before making a major decision?",
+        "options": [
+            "To delay every decision indefinitely",
+            "To compare possible solutions and their likely consequences",
+            "To ensure that all options have identical costs",
+            "To avoid considering business objectives"
+        ],
+        "answer": "To compare possible solutions and their likely consequences"
+    },
+    {
+        "question": "What is data-driven decision-making?",
+        "options": [
+            "Making decisions based exclusively on personal preference",
+            "Selecting the most expensive option automatically",
+            "Avoiding performance measurements",
+            "Using relevant data and evidence to guide decisions"
+        ],
+        "answer": "Using relevant data and evidence to guide decisions"
+    },
+    {
+        "question": "What is a root cause analysis?",
+        "options": [
+            "A process for identifying underlying causes of a problem",
+            "A method of advertising a new product",
+            "A calculation of annual employee bonuses",
+            "A system for determining the color of a company logo"
+        ],
+        "answer": "A process for identifying underlying causes of a problem"
+    },
+    {
+        "question": "What is the purpose of the Five Whys technique?",
+        "options": [
+            "To calculate the average of five financial ratios",
+            "To identify five competitors in a market",
+            "To repeatedly ask why a problem occurred to help uncover its underlying cause",
+            "To require five managers to approve every purchase"
+        ],
+        "answer": "To repeatedly ask why a problem occurred to help uncover its underlying cause"
+    },
+    {
+        "question": "What is brainstorming?",
+        "options": [
+            "A process in which only one predetermined solution may be discussed",
+            "A technique for generating multiple ideas before evaluating them",
+            "A method of recording only financial losses",
+            "A procedure for eliminating all employee suggestions"
+        ],
+        "answer": "A technique for generating multiple ideas before evaluating them"
+    },
+    {
+        "question": "What is a decision matrix?",
+        "options": [
+            "A list of employees' vacation requests",
+            "A record of only past customer transactions",
+            "A diagram showing a company's physical location",
+            "A tool for comparing alternatives using criteria and assigned weights or scores"
+        ],
+        "answer": "A tool for comparing alternatives using criteria and assigned weights or scores"
+    },
+    {
+        "question": "What is a key benefit of scenario planning?",
+        "options": [
+            "It helps a business consider possible future conditions and prepare responses",
+            "It guarantees that future events can be predicted precisely",
+            "It removes the need for financial forecasts",
+            "It ensures that a business will never experience uncertainty"
+        ],
+        "answer": "It helps a business consider possible future conditions and prepare responses"
+    },
+    {
+        "question": "What is a contingency in a business plan?",
+        "options": [
+            "A guarantee that revenue will exceed expenses",
+            "A list of products that must never be changed",
+            "An alternative action or provision prepared for a possible event",
+            "A requirement to hire a specific number of employees"
+        ],
+        "answer": "An alternative action or provision prepared for a possible event"
+    },
+    {
+        "question": "What is an assumption in business forecasting?",
+        "options": [
+            "A verified fact that can never change",
+            "A condition accepted as a basis for an estimate or projection",
+            "A record of actual historical transactions only",
+            "A legal guarantee of future performance"
+        ],
+        "answer": "A condition accepted as a basis for an estimate or projection"
+    },
+    {
+        "question": "What is sensitivity analysis?",
+        "options": [
+            "A method of evaluating employee emotions exclusively",
+            "A technique for selecting brand colors",
+            "A process for eliminating every financial uncertainty",
+            "An analysis of how changes in assumptions or inputs affect outcomes"
+        ],
+        "answer": "An analysis of how changes in assumptions or inputs affect outcomes"
+    },
+    {
+        "question": "What is a stakeholder?",
+        "options": [
+            "A person or group that can affect or be affected by a business's activities",
+            "Only the individual who founded a business",
+            "Only customers who make cash purchases",
+            "A government agency that has no relationship to the business"
+        ],
+        "answer": "A person or group that can affect or be affected by a business's activities"
+    },
+    {
+        "question": "Which of the following is an example of a business stakeholder?",
+        "options": [
+            "Only the company's logo designer, regardless of involvement",
+            "Only a competitor's social media account",
+            "Employees, customers, suppliers, and investors",
+            "Only people who have never interacted with the business"
+        ],
+        "answer": "Employees, customers, suppliers, and investors"
+    },
+    {
+        "question": "What is a business objective?",
+        "options": [
+            "A list of unmeasured personal preferences",
+            "A specific result an organization aims to achieve",
+            "A guarantee that competitors will not change",
+            "A record of every historical transaction"
+        ],
+        "answer": "A specific result an organization aims to achieve"
+    },
+    {
+        "question": "What is strategic planning?",
+        "options": [
+            "A method of assigning daily tasks without considering business goals",
+            "A process for calculating payroll only",
+            "A plan focused exclusively on last week's sales",
+            "A process of defining long-term direction, priorities, and actions"
+        ],
+        "answer": "A process of defining long-term direction, priorities, and actions"
+    },
+    {
+        "question": "What is tactical planning?",
+        "options": [
+            "Developing shorter-term actions that support broader strategic objectives",
+            "Creating a company mission statement without considering execution",
+            "Avoiding responsibility for operational results",
+            "Making decisions without reference to strategic goals"
+        ],
+        "answer": "Developing shorter-term actions that support broader strategic objectives"
+    },
+    {
+        "question": "What is the purpose of benchmarking?",
+        "options": [
+            "To guarantee that competitors will not improve",
+            "To replace all internal performance measurements",
+            "To compare performance or practices against relevant standards or leading organizations",
+            "To eliminate customer satisfaction surveys"
+        ],
+        "answer": "To compare performance or practices against relevant standards or leading organizations"
+    },
+    {
+        "question": "What is a leading indicator?",
+        "options": [
+            "A measurement that only describes events from many years ago",
+            "A measure that may provide an early signal of future performance",
+            "A financial statement prepared only for tax purposes",
+            "A record of employee absences exclusively"
+        ],
+        "answer": "A measure that may provide an early signal of future performance"
+    },
+    {
+        "question": "What is a lagging indicator?",
+        "options": [
+            "A measure that always predicts the future perfectly",
+            "A target that cannot be measured",
+            "A proposed marketing slogan",
+            "A measure reflecting outcomes that have already occurred"
+        ],
+        "answer": "A measure reflecting outcomes that have already occurred"
+    },
+    {
+        "question": "What is the main purpose of a pilot program?",
+        "options": [
+            "To test a proposed initiative on a limited scale before broader implementation",
+            "To immediately expand an untested initiative everywhere",
+            "To replace the need for customer feedback",
+            "To guarantee that an initiative will succeed"
+        ],
+        "answer": "To test a proposed initiative on a limited scale before broader implementation"
+    },
+    {
+        "question": "What is an iterative process?",
+        "options": [
+            "A process that prohibits any changes after the first attempt",
+            "A process in which every task must be completed by a different company",
+            "A process of repeatedly testing, evaluating, and improving an approach",
+            "A process that ignores the results of previous attempts"
+        ],
+        "answer": "A process of repeatedly testing, evaluating, and improving an approach"
+    },
+    {
+        "question": "What is the purpose of a post-project review?",
+        "options": [
+            "To assign blame without examining evidence",
+            "To evaluate results, identify lessons learned, and improve future projects",
+            "To remove all project documentation",
+            "To guarantee that future projects will require no planning"
+        ],
+        "answer": "To evaluate results, identify lessons learned, and improve future projects"
+    },
+    {
+        "question": "What is the law of demand?",
+        "options": [
+            "Demand always increases when price increases",
+            "Demand is unrelated to price under all circumstances",
+            "Businesses must sell every product at the same price",
+            "Other things equal, quantity demanded generally decreases as price increases"
+        ],
+        "answer": "Other things equal, quantity demanded generally decreases as price increases"
+    },
+    {
+        "question": "What is the law of supply?",
+        "options": [
+            "Other things equal, quantity supplied generally increases as price increases",
+            "Quantity supplied always decreases as price increases",
+            "Supply is never affected by production costs",
+            "Businesses must produce the same quantity regardless of price"
+        ],
+        "answer": "Other things equal, quantity supplied generally increases as price increases"
+    },
+    {
+        "question": "What is market equilibrium?",
+        "options": [
+            "A situation in which every business earns the same profit",
+            "A situation in which demand is always greater than supply",
+            "A situation in which quantity supplied equals quantity demanded",
+            "A situation in which prices cannot change"
+        ],
+        "answer": "A situation in which quantity supplied equals quantity demanded"
+    },
+    {
+        "question": "What is a shortage in a market?",
+        "options": [
+            "A situation in which supply exceeds demand at the prevailing price",
+            "A situation in which quantity demanded exceeds quantity supplied at the prevailing price",
+            "A situation in which every business has excess inventory",
+            "A situation in which consumers stop purchasing all products"
+        ],
+        "answer": "A situation in which quantity demanded exceeds quantity supplied at the prevailing price"
+    },
+    {
+        "question": "What is a surplus in a market?",
+        "options": [
+            "A situation in which quantity demanded exceeds quantity supplied",
+            "A situation in which prices always increase",
+            "A situation in which no products are available",
+            "A situation in which quantity supplied exceeds quantity demanded at the prevailing price"
+        ],
+        "answer": "A situation in which quantity supplied exceeds quantity demanded at the prevailing price"
+    },
+    {
+        "question": "What is inflation?",
+        "options": [
+            "A sustained increase in the general price level of goods and services",
+            "A decrease in the overall price level across an economy",
+            "An increase in the number of businesses without any price changes",
+            "A decrease in every employee's productivity"
+        ],
+        "answer": "A sustained increase in the general price level of goods and services"
+    },
+    {
+        "question": "How can high inflation affect a small business?",
+        "options": [
+            "It guarantees that the business's purchasing power increases",
+            "It always reduces every operating expense",
+            "It can increase input costs and reduce customers' purchasing power",
+            "It eliminates the need to adjust prices"
+        ],
+        "answer": "It can increase input costs and reduce customers' purchasing power"
+    },
+    {
+        "question": "What is a recession?",
+        "options": [
+            "A period in which every business experiences rapid growth",
+            "A significant decline in economic activity across an economy",
+            "A situation in which inflation must equal zero",
+            "A period in which unemployment is impossible"
+        ],
+        "answer": "A significant decline in economic activity across an economy"
+    },
+    {
+        "question": "What is opportunity cost in economics?",
+        "options": [
+            "The total money collected from customers",
+            "The amount of tax paid on business income",
+            "The cost of producing all available alternatives simultaneously",
+            "The value of the best alternative forgone when making a choice"
+        ],
+        "answer": "The value of the best alternative forgone when making a choice"
+    },
+    {
+        "question": "What is the basic economic problem of scarcity?",
+        "options": [
+            "Resources are limited relative to people's wants",
+            "Every resource is available in unlimited quantities",
+            "Businesses can satisfy every want without making choices",
+            "Consumers never have to consider trade-offs"
+        ],
+        "answer": "Resources are limited relative to people's wants"
+    },
+    {
+        "question": "What is a market economy?",
+        "options": [
+            "An economy in which the government determines every individual purchase",
+            "An economy in which private businesses cannot operate",
+            "An economic system in which market forces play a major role in allocating resources",
+            "An economy in which prices never change"
+        ],
+        "answer": "An economic system in which market forces play a major role in allocating resources"
+    },
+    {
+        "question": "What is competition in a market?",
+        "options": [
+            "A requirement that every company charge identical prices",
+            "Rivalry among businesses seeking customers and market share",
+            "A rule that prevents businesses from improving products",
+            "A system in which customers cannot choose alternatives"
+        ],
+        "answer": "Rivalry among businesses seeking customers and market share"
+    },
+    {
+        "question": "What is a monopoly?",
+        "options": [
+            "A market with many equally sized sellers",
+            "A market in which every product is identical and sellers are numerous",
+            "A market in which customers have unlimited suppliers",
+            "A market dominated by a single seller without close substitutes, subject to the market definition"
+        ],
+        "answer": "A market dominated by a single seller without close substitutes, subject to the market definition"
+    },
+    {
+        "question": "What is an oligopoly?",
+        "options": [
+            "A market dominated by a small number of major sellers",
+            "A market with only one buyer and no sellers",
+            "A market in which no business can influence conditions",
+            "A market where every seller has an identical product and zero market power by definition"
+        ],
+        "answer": "A market dominated by a small number of major sellers"
+    },
+    {
+        "question": "What is price elasticity of demand?",
+        "options": [
+            "The percentage of revenue paid as tax",
+            "The amount of inventory available at the end of a month",
+            "A measure of how responsive quantity demanded is to a change in price",
+            "The number of competitors entering a market each year"
+        ],
+        "answer": "A measure of how responsive quantity demanded is to a change in price"
+    },
+    {
+        "question": "If demand is price elastic, what generally happens to total revenue when price decreases, assuming other factors remain constant?",
+        "options": [
+            "Total revenue always becomes zero",
+            "Total revenue generally increases",
+            "Total revenue always remains unchanged",
+            "Total revenue must decrease"
+        ],
+        "answer": "Total revenue generally increases"
+    },
+    {
+        "question": "What is gross domestic product (GDP)?",
+        "options": [
+            "The total profit of every privately owned business",
+            "The total amount of money held by consumers",
+            "The total value of every financial asset traded in a country",
+            "The market value of final goods and services produced within a country during a specified period"
+        ],
+        "answer": "The market value of final goods and services produced within a country during a specified period"
+    },
+    {
+        "question": "What is fiscal policy?",
+        "options": [
+            "Government decisions about taxation and spending that influence economic activity",
+            "A company's decision about employee uniforms",
+            "A bank's method of approving customer credit",
+            "A retailer's strategy for selecting product colors"
+        ],
+        "answer": "Government decisions about taxation and spending that influence economic activity"
+    },
+    {
+        "question": "What is monetary policy?",
+        "options": [
+            "A business's method of setting employee schedules",
+            "A manufacturer's process for managing inventory",
+            "Central bank actions that influence monetary conditions and interest rates",
+            "A retailer's strategy for choosing promotional offers"
+        ],
+        "answer": "Central bank actions that influence monetary conditions and interest rates"
+    },
+    {
+        "question": "How can higher interest rates affect a business that wants to borrow money?",
+        "options": [
+            "They guarantee that the business's borrowing costs will fall",
+            "They generally make borrowing more expensive",
+            "They eliminate all loan repayment requirements",
+            "They ensure that banks will approve every application"
+        ],
+        "answer": "They generally make borrowing more expensive"
+    },
+    {
+        "question": "What is unemployment?",
+        "options": [
+            "The condition of every person who chooses not to work, regardless of circumstances",
+            "A situation in which every business has unfilled positions",
+            "A measure of the number of businesses that close each year",
+            "A condition in which people who are available for and seeking work cannot find employment"
+        ],
+        "answer": "A condition in which people who are available for and seeking work cannot find employment"
+    },
+    {
+        "question": "What is a tariff?",
+        "options": [
+            "A tax imposed on certain imported or exported goods, depending on the policy",
+            "A discount offered to loyal customers",
+            "A payment made by an employer to an employee",
+            "A fee charged exclusively for domestic advertising"
+        ],
+        "answer": "A tax imposed on certain imported or exported goods, depending on the policy"
+    },
+    {
+        "question": "What is an exchange rate?",
+        "options": [
+            "The rate at which employees receive annual raises",
+            "The rate at which inventory is sold",
+            "The price of one currency expressed in terms of another currency",
+            "The percentage of customers who recommend a business"
+        ],
+        "answer": "The price of one currency expressed in terms of another currency"
+    },
+    {
+        "question": "What is one possible effect of a domestic currency appreciating against another currency?",
+        "options": [
+            "All imported goods automatically become more expensive",
+            "Imports may become cheaper for domestic buyers, all else equal",
+            "Exports always become more competitive on price",
+            "Exchange rates stop affecting international business"
+        ],
+        "answer": "Imports may become cheaper for domestic buyers, all else equal"
+    },
+    {
+        "question": "What is international trade?",
+        "options": [
+            "The movement of employees between departments",
+            "The purchase of products exclusively within one neighborhood",
+            "The transfer of ownership within one domestic company",
+            "The exchange of goods and services across national borders"
+        ],
+        "answer": "The exchange of goods and services across national borders"
+    },
+    {
+        "question": "What is a business export?",
+        "options": [
+            "A good or service sold to a buyer in another country",
+            "A product purchased from a foreign supplier",
+            "An expense paid to a domestic employee",
+            "A product removed from a company's inventory records without explanation"
+        ],
+        "answer": "A good or service sold to a buyer in another country"
+    },
+    {
+        "question": "What is a business import?",
+        "options": [
+            "A product sold to a foreign customer",
+            "A service delivered exclusively within the domestic market",
+            "A good or service purchased from another country",
+            "An ownership share sold to a local investor"
+        ],
+        "answer": "A good or service purchased from another country"
+    },
+    {
+        "question": "What is comparative advantage?",
+        "options": [
+            "The ability to produce every product using fewer resources than every competitor",
+            "The ability to produce something at a lower opportunity cost than another producer",
+            "The ability to charge the highest possible price",
+            "The ability to avoid every form of international trade"
+        ],
+        "answer": "The ability to produce something at a lower opportunity cost than another producer"
+    },
+    {
+        "question": "What is the main purpose of a business expansion strategy?",
+        "options": [
+            "To eliminate all business objectives",
+            "To prevent a company from reaching new customers",
+            "To reduce every product offering regardless of demand",
+            "To increase a business's reach, capacity, revenue, or market presence"
+        ],
+        "answer": "To increase a business's reach, capacity, revenue, or market presence"
+    },
+    {
+        "question": "What is market penetration as a growth strategy?",
+        "options": [
+            "Increasing sales of existing products in an existing market",
+            "Selling only new products in entirely new markets",
+            "Closing existing locations without a replacement strategy",
+            "Selling the company to its competitors"
+        ],
+        "answer": "Increasing sales of existing products in an existing market"
+    },
+    {
+        "question": "What is product development as a growth strategy?",
+        "options": [
+            "Selling an existing product in the same market without changes",
+            "Leaving every existing market immediately",
+            "Developing new or improved products for an existing market",
+            "Eliminating all research and development"
+        ],
+        "answer": "Developing new or improved products for an existing market"
+    },
+    {
+        "question": "What is market development as a growth strategy?",
+        "options": [
+            "Reducing the number of customers served",
+            "Introducing existing products to new markets or customer segments",
+            "Eliminating a product that customers want",
+            "Reducing the company's geographic reach"
+        ],
+        "answer": "Introducing existing products to new markets or customer segments"
+    },
+    {
+        "question": "What is diversification as a growth strategy?",
+        "options": [
+            "Selling fewer products to the same customers exclusively",
+            "Increasing the price of an existing product without changing its market",
+            "Reducing every business activity to one service",
+            "Entering new markets with new products or services"
+        ],
+        "answer": "Entering new markets with new products or services"
+    },
+    {
+        "question": "What is a merger?",
+        "options": [
+            "The combination of two or more businesses into one business organization",
+            "A short-term discount on a product",
+            "A temporary agreement between two customers",
+            "The closure of a business without transferring assets"
+        ],
+        "answer": "The combination of two or more businesses into one business organization"
+    },
+    {
+        "question": "What is an acquisition?",
+        "options": [
+            "A business's decision to hire its first employee",
+            "A customer purchasing a product at retail",
+            "One business obtaining control of another business or its assets",
+            "A company reducing its advertising budget"
+        ],
+        "answer": "One business obtaining control of another business or its assets"
+    },
+    {
+        "question": "What is a strategic alliance?",
+        "options": [
+            "A legal requirement that all businesses merge",
+            "A cooperative arrangement between organizations to pursue shared objectives while remaining separate entities",
+            "A guarantee that two competitors will have identical profits",
+            "A process of eliminating all suppliers"
+        ],
+        "answer": "A cooperative arrangement between organizations to pursue shared objectives while remaining separate entities"
+    },
+    {
+        "question": "What is a licensing agreement?",
+        "options": [
+            "A requirement that every employee become a business owner",
+            "A loan that never requires repayment",
+            "A plan to eliminate intellectual property rights",
+            "An agreement permitting another party to use specified intellectual property under defined terms"
+        ],
+        "answer": "An agreement permitting another party to use specified intellectual property under defined terms"
+    },
+    {
+        "question": "What is an exit strategy in entrepreneurship?",
+        "options": [
+            "A plan for how an owner may eventually leave, sell, or transfer the business",
+            "A plan to stop tracking business expenses",
+            "A method of avoiding every customer complaint",
+            "A strategy for preventing employees from advancing"
+        ],
+        "answer": "A plan for how an owner may eventually leave, sell, or transfer the business"
+    },
+    {
+        "question": "What is succession planning?",
+        "options": [
+            "A method of setting product prices",
+            "A plan for reducing the number of business customers",
+            "Preparing people to assume important roles when current leaders or owners leave",
+            "A procedure for changing a company's logo"
+        ],
+        "answer": "Preparing people to assume important roles when current leaders or owners leave"
+    },
+    {
+        "question": "What is a value chain?",
+        "options": [
+            "A list of every competitor's retail prices",
+            "The activities a business performs to create and deliver value to customers",
+            "A financial statement showing only outstanding debt",
+            "A system for scheduling employee holidays"
+        ],
+        "answer": "The activities a business performs to create and deliver value to customers"
+    },
+    {
+        "question": "What is a key purpose of a customer satisfaction survey?",
+        "options": [
+            "To guarantee that every customer gives a positive response",
+            "To replace all sales records",
+            "To determine a company's legal structure",
+            "To collect feedback about customer experiences and identify improvement opportunities"
+        ],
+        "answer": "To collect feedback about customer experiences and identify improvement opportunities"
+    },
+    {
+        "question": "What is net promoter score (NPS) designed to assess?",
+        "options": [
+            "Customers' willingness to recommend a business, product, or service",
+            "The total number of products held in inventory",
+            "The percentage of expenses paid in cash",
+            "The average number of hours employees work"
+        ],
+        "answer": "Customers' willingness to recommend a business, product, or service"
+    },
+    {
+        "question": "What is customer acquisition cost (CAC)?",
+        "options": [
+            "The amount a customer owes after a purchase",
+            "The cost of storing unsold products",
+            "The average cost associated with acquiring a new customer",
+            "The amount of revenue earned from every existing customer"
+        ],
+        "answer": "The average cost associated with acquiring a new customer"
+    },
+    {
+        "question": "A business spends $2,400 on sales and marketing and acquires 120 new customers. What is its customer acquisition cost?",
+        "options": [
+            "$12",
+            "$20",
+            "$24",
+            "$28.80"
+        ],
+        "answer": "$20"
+    },
+    {
+        "question": "What is the relationship between customer acquisition cost and customer lifetime value?",
+        "options": [
+            "Customer acquisition cost must always be greater than lifetime value",
+            "The two measurements are always identical",
+            "Customer lifetime value is unrelated to business profitability",
+            "Comparing them helps assess whether customer acquisition is economically sustainable"
+        ],
+        "answer": "Comparing them helps assess whether customer acquisition is economically sustainable"
+    },
+    {
+        "question": "What is market share?",
+        "options": [
+            "A company's sales as a proportion of total sales in a defined market",
+            "The total amount of money a company borrows",
+            "The percentage of employees who receive promotions",
+            "The number of products a company has patented"
+        ],
+        "answer": "A company's sales as a proportion of total sales in a defined market"
+    },
+    {
+        "question": "A business generates $200,000 in sales in a market with total sales of $1,000,000. What is its market share by sales?",
+        "options": [
+            "2%",
+            "10%",
+            "20%",
+            "50%"
+        ],
+        "answer": "20%"
+    },
+    {
+        "question": "What is product differentiation?",
+        "options": [
+            "Making every product identical to competing products",
+            "Creating meaningful distinctions between an offering and competing alternatives",
+            "Eliminating the need to research customer preferences",
+            "Selling every product at the same price as every competitor"
+        ],
+        "answer": "Creating meaningful distinctions between an offering and competing alternatives"
+    },
+    {
+        "question": "What is the product life cycle?",
+        "options": [
+            "The amount of time required to train a new employee",
+            "The process used to calculate corporate taxes",
+            "The time needed to ship one order",
+            "The stages a product may pass through, commonly introduction, growth, maturity, and decline"
+        ],
+        "answer": "The stages a product may pass through, commonly introduction, growth, maturity, and decline"
+    },
+    {
+        "question": "What is a common marketing priority during the introduction stage of a product's life cycle?",
+        "options": [
+            "Building awareness and encouraging initial trial",
+            "Assuming all customers already know the product",
+            "Eliminating product information from advertising",
+            "Stopping all customer research"
+        ],
+        "answer": "Building awareness and encouraging initial trial"
+    },
+    {
+        "question": "What is a common challenge during the maturity stage of a product's life cycle?",
+        "options": [
+            "The complete absence of competitors",
+            "The inability to measure sales",
+            "Intensified competition as sales growth slows",
+            "A guarantee that demand will increase indefinitely"
+        ],
+        "answer": "Intensified competition as sales growth slows"
+    },
+    {
+        "question": "What is a loss leader pricing strategy?",
+        "options": [
+            "Charging the highest price for every product",
+            "Pricing a product very low, sometimes below cost, to attract customers who may buy other products",
+            "Setting prices without considering customer demand",
+            "Charging different prices solely according to employee preferences"
+        ],
+        "answer": "Pricing a product very low, sometimes below cost, to attract customers who may buy other products"
+    },
+    {
+        "question": "What is bundle pricing?",
+        "options": [
+            "Selling every product separately at its highest possible price",
+            "Charging a fee for products that are never delivered",
+            "Changing prices without communicating with customers",
+            "Offering multiple products or services together for one combined price"
+        ],
+        "answer": "Offering multiple products or services together for one combined price"
+    },
+    {
+        "question": "What is a common purpose of promotional discounts?",
+        "options": [
+            "To encourage purchases or trial during a defined period or under specified conditions",
+            "To guarantee permanent customer loyalty",
+            "To eliminate every variable cost",
+            "To prevent customers from comparing prices"
+        ],
+        "answer": "To encourage purchases or trial during a defined period or under specified conditions"
+    },
+    {
+        "question": "What is cross-selling?",
+        "options": [
+            "Selling the same business to several investors",
+            "Reducing the number of products available to customers",
+            "Offering related or complementary products to an existing customer",
+            "Selling products exclusively to competitors"
+        ],
+        "answer": "Offering related or complementary products to an existing customer"
+    },
+    {
+        "question": "What is upselling?",
+        "options": [
+            "Offering customers unrelated products without considering their needs",
+            "Encouraging customers to choose a higher-value or upgraded version of a product",
+            "Reducing the price of every product to zero",
+            "Selling products only to first-time customers"
+        ],
+        "answer": "Encouraging customers to choose a higher-value or upgraded version of a product"
+    },
+    {
+        "question": "What is a common benefit of a customer referral program?",
+        "options": [
+            "It eliminates the need to deliver quality products",
+            "It guarantees that every referral will result in a purchase",
+            "It prevents customers from discussing their experiences",
+            "It encourages existing customers to introduce potential new customers"
+        ],
+        "answer": "It encourages existing customers to introduce potential new customers"
+    },
+    {
+        "question": "What is a distribution channel?",
+        "options": [
+            "The path through which a product or service reaches the end customer",
+            "A company's system for calculating employee bonuses",
+            "A report showing customer satisfaction scores",
+            "A method of measuring employee productivity exclusively"
+        ],
+        "answer": "The path through which a product or service reaches the end customer"
+    },
+    {
+        "question": "What is direct distribution?",
+        "options": [
+            "Selling exclusively through multiple wholesalers",
+            "Selling products only through independent retailers",
+            "Selling directly from the producer to the customer without an independent intermediary",
+            "Selling products only through a competitor's website"
+        ],
+        "answer": "Selling directly from the producer to the customer without an independent intermediary"
+    },
+    {
+        "question": "What is e-commerce?",
+        "options": [
+            "A method of storing physical inventory without records",
+            "Buying and selling goods or services electronically",
+            "A system for conducting only in-person transactions",
+            "A method of calculating employee vacation time"
+        ],
+        "answer": "Buying and selling goods or services electronically"
+    },
+    {
+        "question": "What is omnichannel marketing?",
+        "options": [
+            "Using only one communication channel under all circumstances",
+            "Advertising exclusively to existing employees",
+            "Eliminating online shopping options",
+            "Coordinating customer experiences across multiple connected channels"
+        ],
+        "answer": "Coordinating customer experiences across multiple connected channels"
+    },
+    {
+        "question": "What is a common benefit of an effective customer complaint process?",
+        "options": [
+            "It helps resolve problems, identify recurring issues, and improve customer experiences",
+            "It guarantees that every dissatisfied customer will become loyal",
+            "It eliminates the need for product quality checks",
+            "It prevents customers from contacting the business"
+        ],
+        "answer": "It helps resolve problems, identify recurring issues, and improve customer experiences"
+    },
+    {
+        "question": "What is an example of ethical selling?",
+        "options": [
+            "Exaggerating product capabilities to close a sale",
+            "Hiding important fees until after payment",
+            "Providing accurate product information and recommending solutions that fit customer needs",
+            "Pressuring every customer to purchase the most expensive option"
+        ],
+        "answer": "Providing accurate product information and recommending solutions that fit customer needs"
+    },
+    {
+        "question": "What is the purpose of a business elevator pitch?",
+        "options": [
+            "To provide a complete legal contract in a few seconds",
+            "To communicate the essential idea and value of a business concisely",
+            "To guarantee that investors will immediately provide funding",
+            "To explain every detail of the company's financial history"
+        ],
+        "answer": "To communicate the essential idea and value of a business concisely"
+    },
+    {
+        "question": "What should a business do first when sales fall significantly below forecast?",
+        "options": [
+            "Immediately close the business without investigating",
+            "Increase every expense to stimulate demand",
+            "Assume the decline is caused by employees without gathering evidence",
+            "Analyze sales data, customer feedback, market conditions, and possible causes"
+        ],
+        "answer": "Analyze sales data, customer feedback, market conditions, and possible causes"
+    },
+    {
+        "question": "A business has strong sales but repeatedly runs out of cash. Which issue should it investigate first?",
+        "options": [
+            "Cash flow timing, receivables, expenses, and working capital",
+            "Whether it should stop recording sales",
+            "Whether every product should be given away",
+            "Whether customer service should be eliminated"
+        ],
+        "answer": "Cash flow timing, receivables, expenses, and working capital"
+    },
+    {
+        "question": "A competitor introduces a similar product at a lower price. What is the best initial response?",
+        "options": [
+            "Immediately reduce every price without analyzing profitability",
+            "Spread misleading information about the competitor",
+            "Evaluate customer value, competitor positioning, costs, and possible strategic responses",
+            "Stop collecting information about the market"
+        ],
+        "answer": "Evaluate customer value, competitor positioning, costs, and possible strategic responses"
+    },
+    {
+        "question": "A business receives repeated complaints about late deliveries. Which action is most appropriate?",
+        "options": [
+            "Ignore the complaints if the products are high quality",
+            "Investigate fulfillment and delivery processes, identify causes, and implement corrective actions",
+            "Increase advertising spending without examining delivery performance",
+            "Stop telling customers when orders will arrive"
+        ],
+        "answer": "Investigate fulfillment and delivery processes, identify causes, and implement corrective actions"
+    },
+    {
+        "question": "A new business has a limited marketing budget. Which strategy is most appropriate?",
+        "options": [
+            "Spend the entire budget on the most expensive advertising channel",
+            "Advertise to every possible customer without targeting",
+            "Avoid measuring campaign performance",
+            "Prioritize cost-effective channels that reach the target market and track results"
+        ],
+        "answer": "Prioritize cost-effective channels that reach the target market and track results"
+    },
+    {
+        "question": "A business is considering opening a second location. Which factor should it evaluate most carefully?",
+        "options": [
+            "Local demand, operating costs, available resources, and expected financial performance",
+            "Only the owner's personal preference for the location",
+            "Whether the new location has the same wall color as the first",
+            "Whether competitors will agree to stop advertising"
+        ],
+        "answer": "Local demand, operating costs, available resources, and expected financial performance"
+    },
+    {
+        "question": "A product has high sales but consistently low profit margins. What should management examine?",
+        "options": [
+            "Whether all customer feedback should be deleted",
+            "Whether the company should stop calculating expenses",
+            "Pricing, cost structure, discounts, and product profitability",
+            "Whether the business should increase every expense"
+        ],
+        "answer": "Pricing, cost structure, discounts, and product profitability"
+    },
+    {
+        "question": "A business discovers that a promotional campaign generated many clicks but very few purchases. What should it investigate?",
+        "options": [
+            "Only the number of employees in the company",
+            "Audience targeting, landing-page experience, offer relevance, and conversion barriers",
+            "Whether the company's office furniture should be replaced",
+            "Whether every product should be discontinued immediately"
+        ],
+        "answer": "Audience targeting, landing-page experience, offer relevance, and conversion barriers"
+    },
+    {
+        "question": "A company wants to improve employee productivity without lowering service quality. What is a sensible first step?",
+        "options": [
+            "Require every employee to work without breaks",
+            "Eliminate all employee training",
+            "Increase workloads without examining current processes",
+            "Identify process bottlenecks, gather employee input, and test targeted improvements"
+        ],
+        "answer": "Identify process bottlenecks, gather employee input, and test targeted improvements"
+    },
+    {
+        "question": "A business owner must choose between two suppliers. One offers a lower price, while the other offers greater reliability. What should the owner do?",
+        "options": [
+            "Compare total costs, quality, reliability, delivery performance, and business priorities",
+            "Automatically choose the lowest price in every circumstance",
+            "Choose the supplier with the longest company name",
+            "Ignore the effect of supplier reliability on customers"
+        ],
+        "answer": "Compare total costs, quality, reliability, delivery performance, and business priorities"
+    },
+    {
+        "question": "A company's customer retention rate is falling. What should management do first?",
+        "options": [
+            "Stop tracking customer purchases",
+            "Increase prices without examining customer behavior",
+            "Investigate customer feedback, service issues, product value, and reasons for customer departures",
+            "Focus exclusively on acquiring new customers"
+        ],
+        "answer": "Investigate customer feedback, service issues, product value, and reasons for customer departures"
+    },
+    {
+        "question": "A business is considering a new product that could attract customers but requires substantial investment. Which approach is most prudent?",
+        "options": [
+            "Invest the entire budget without estimating demand",
+            "Conduct market research, estimate costs and benefits, assess risks, and consider a pilot test",
+            "Assume that customer interest guarantees profitability",
+            "Ignore the company's current financial position"
+        ],
+        "answer": "Conduct market research, estimate costs and benefits, assess risks, and consider a pilot test"
+    },
+    {
+        "question": "A manager discovers that two employees disagree about how to complete an important task. What should the manager do?",
+        "options": [
+            "Immediately dismiss both employees",
+            "Ignore the disagreement until the deadline passes",
+            "Allow the disagreement to continue without clarification",
+            "Listen to both perspectives, clarify the objective, and agree on responsibilities and next steps"
+        ],
+        "answer": "Listen to both perspectives, clarify the objective, and agree on responsibilities and next steps"
+    },
+    {
+        "question": "A business's fixed costs increase while its selling price and variable cost per unit remain unchanged. What happens to its break-even quantity?",
+        "options": [
+            "It increases",
+            "It decreases",
+            "It remains unchanged",
+            "It automatically becomes zero"
+        ],
+        "answer": "It increases"
+    },
+    {
+        "question": "A product sells for $50, has a variable cost of $30 per unit, and the business has fixed costs of $10,000. How many units must be sold to break even?",
+        "options": [
+            "200 units",
+            "333 units",
+            "500 units",
+            "1,000 units"
+        ],
+        "answer": "500 units"
+    },
+    {
+        "question": "A business sells 400 units at $25 each. Its variable cost is $15 per unit, and its fixed costs are $2,000. What is its operating profit before other expenses?",
+        "options": [
+            "$10,000",
+            "$2,000",
+            "$6,000",
+            "$4,000"
+        ],
+        "answer": "$2,000"
+    },
+    {
+        "question": "A company has $80,000 in revenue and $60,000 in total expenses. What is its net profit margin?",
+        "options": [
+            "20%",
+            "25%",
+            "33.3%",
+            "75%"
+        ],
+        "answer": "25%"
+    },
+    {
+        "question": "A business increases its price by 10%, and the quantity sold remains unchanged. What happens to sales revenue?",
+        "options": [
+            "Sales revenue increases by 10%",
+            "Sales revenue decreases by 10%",
+            "Sales revenue remains unchanged",
+            "Sales revenue becomes zero"
+        ],
+        "answer": "Sales revenue increases by 10%"
+    },
+    {
+        "question": "A business's monthly revenue is $18,000 and its monthly expenses are $21,000. What is the monthly financial result?",
+        "options": [
+            "A profit of $3,000",
+            "A profit of $39,000",
+            "A break-even result",
+            "A loss of $3,000"
+        ],
+        "answer": "A loss of $3,000"
+    },
+    {
+        "question": "A business begins the month with $7,000 in cash, receives $9,000 in cash, and pays $11,000 in cash expenses. What is its ending cash balance?",
+        "options": [
+            "$27,000",
+            "$5,000",
+            "$9,000",
+            "$2,000"
+        ],
+        "answer": "$5,000"
+    },
+    {
+        "question": "A business has total assets of $150,000 and total liabilities of $90,000. What is its owner's equity?",
+        "options": [
+            "$240,000",
+            "$150,000",
+            "$60,000",
+            "$90,000"
+        ],
+        "answer": "$60,000"
+    },
+    {
+        "question": "A business purchases equipment using cash. Assuming no transaction costs or immediate valuation changes, what is the immediate effect on total assets?",
+        "options": [
+            "Total assets generally remain unchanged because cash is exchanged for equipment of equal value",
+            "Total assets immediately double",
+            "Total assets immediately become zero",
+            "Total liabilities must increase by the purchase amount"
+        ],
+        "answer": "Total assets generally remain unchanged because cash is exchanged for equipment of equal value"
+    },
+    {
+        "question": "A business purchases inventory on credit. What is the immediate effect of the purchase, assuming the inventory is recorded at its purchase cost?",
+        "options": [
+            "Assets and liabilities both decrease",
+            "Assets decrease and equity increases",
+            "Revenue immediately increases by the purchase amount",
+            "Inventory assets and accounts payable both increase"
+        ],
+        "answer": "Inventory assets and accounts payable both increase"
+    },
+    {
+        "question": "A business reduces its average inventory while maintaining the same level of sales and cost of goods sold. What may this indicate?",
+        "options": [
+            "The business must have stopped selling products",
+            "The business may be using inventory more efficiently, provided stockouts do not increase",
+            "The business's revenue must have fallen to zero",
+            "The business no longer needs suppliers"
+        ],
+        "answer": "The business may be using inventory more efficiently, provided stockouts do not increase"
+    },
+    {
+        "question": "A marketing campaign costs $1,000 and generates $4,000 in revenue. If the only campaign cost is $1,000, what is the return on investment based on revenue minus campaign cost?",
+        "options": [
+            "25%",
+            "300%",
+            "400%",
+            "500%"
+        ],
+        "answer": "300%"
+    },
+    {
+        "question": "A company has 200 customers at the start of a period. During the period, 30 leave, and no other customer-count changes occur. What is its customer retention rate?",
+        "options": [
+            "85%",
+            "15%",
+            "70%",
+            "115%"
+        ],
+        "answer": "85%"
+    },
+    {
+        "question": "A company has 500 customers at the beginning of a period. It loses 40 existing customers during the period and acquires 70 new customers. How many customers does it have at the end?",
+        "options": [
+            "430",
+            "500",
+            "540",
+            "530"
+        ],
+        "answer": "530"
+    },
+    {
+        "question": "A business sells a product for $80 that costs $48 to produce. What is the gross profit margin per unit as a percentage of selling price?",
+        "options": [
+            "32%",
+            "40%",
+            "60%",
+            "66.7%"
+        ],
+        "answer": "40%"
+    },
+    {
+        "question": "A company reduces its average order processing time from 10 minutes to 8 minutes. What is the percentage reduction in processing time?",
+        "options": [
+            "2%",
+            "20%",
+            "25%",
+            "80%"
+        ],
+        "answer": "20%"
+    },
+    {
+        "question": "A business sells 600 products in one month and 750 in the next month. What is the percentage increase in units sold?",
+        "options": [
+            "25%",
+            "15%",
+            "20%",
+            "150%"
+        ],
+        "answer": "25%"
+    },
+    {
+        "question": "A store's average transaction value is $40, and it completes 300 transactions. What is its total sales revenue?",
+        "options": [
+            "$7,500",
+            "$12,000",
+            "$340",
+            "$30,000"
+        ],
+        "answer": "$12,000"
+    },
+    {
+        "question": "A business has a contribution margin of $12 per unit and fixed costs of $6,000. What is its break-even sales volume in units?",
+        "options": [
+            "250 units",
+            "500 units",
+            "720 units",
+            "6,012 units"
+        ],
+        "answer": "500 units"
+    },
+    {
+        "question": "A company spends $3,000 on advertising and gains 150 new customers. What is the advertising cost per acquired customer?",
+        "options": [
+            "$15",
+            "$25",
+            "$20",
+            "$45"
+        ],
+        "answer": "$20"
+    },
+    {
+        "question": "A business's revenue increases from $100,000 to $120,000. What is its percentage revenue growth?",
+        "options": [
+            "20%",
+            "12%",
+            "16.7%",
+            "120%"
+        ],
+        "answer": "20%"
+    },
+    {
+        "question": "A business has $40,000 in current assets and $25,000 in current liabilities. What is its working capital?",
+        "options": [
+            "$65,000",
+            "$25,000",
+            "$40,000",
+            "$15,000"
+        ],
+        "answer": "$15,000"
+    },
+    {
+        "question": "A company generates $90,000 in revenue and has a gross profit of $36,000. What is its cost of goods sold?",
+        "options": [
+            "$36,000",
+            "$54,000",
+            "$90,000",
+            "$126,000"
+        ],
+        "answer": "$54,000"
+    },
+    {
+        "question": "A company earns $10,000 in operating income on $100,000 in revenue. What is its operating profit margin?",
+        "options": [
+            "1%",
+            "5%",
+            "10%",
+            "90%"
+        ],
+        "answer": "10%"
+    },
+    {
+        "question": "A business has $24,000 in fixed costs. Its selling price is $60 per unit, and its variable cost is $40 per unit. What sales volume is required to earn an operating profit of $12,000?",
+        "options": [
+            "1,800 units",
+            "600 units",
+            "1,200 units",
+            "2,400 units"
+        ],
+        "answer": "1,800 units"
+    },
+    {
+        "question": "A product sells for $100, and its variable cost is $65. What is its contribution margin ratio?",
+        "options": [
+            "35%",
+            "65%",
+            "100%",
+            "153.8%"
+        ],
+        "answer": "35%"
+    },
+    {
+        "question": "A business has monthly fixed costs of $4,500, sells a product for $30, and incurs a variable cost of $15 per unit. What is the break-even sales volume?",
+        "options": [
+            "150 units",
+            "300 units",
+            "450 units",
+            "600 units"
+        ],
+        "answer": "300 units"
+    },
+    {
+        "question": "A business's total expenses are $72,000, including $18,000 in fixed costs. What are its total variable costs?",
+        "options": [
+            "$18,000",
+            "$72,000",
+            "$54,000",
+            "$90,000"
+        ],
+        "answer": "$54,000"
+    },
+    {
+        "question": "A company has a beginning cash balance of $12,000, cash inflows of $15,000, and cash outflows of $19,000. What is its ending cash balance?",
+        "options": [
+            "$8,000",
+            "$16,000",
+            "$27,000",
+            "$46,000"
+        ],
+        "answer": "$8,000"
+    },
+    {
+        "question": "A business has total assets of $250,000 and owner's equity of $100,000. What are its total liabilities?",
+        "options": [
+            "$100,000",
+            "$150,000",
+            "$250,000",
+            "$350,000"
+        ],
+        "answer": "$150,000"
+    },
+    {
+        "question": "A store's monthly sales revenue is $30,000. Its cost of goods sold is $18,000, and its operating expenses are $7,000. What is its operating profit before interest and taxes?",
+        "options": [
+            "$18,000",
+            "$7,000",
+            "$30,000",
+            "$5,000"
+        ],
+        "answer": "$5,000"
+    },
+    {
+        "question": "A business wants to increase profit while maintaining the same sales volume. Which action could directly help achieve this goal, assuming revenue and other costs remain unchanged?",
+        "options": [
+            "Increase avoidable operating expenses",
+            "Purchase inventory that cannot be sold",
+            "Reduce unnecessary costs without compromising essential quality",
+            "Stop monitoring financial performance"
+        ],
+        "answer": "Reduce unnecessary costs without compromising essential quality"
+    },
+    {
+        "question": "A company's advertising campaign increases website traffic, but sales remain unchanged. What should the marketing team investigate?",
+        "options": [
+            "The conversion process, audience relevance, and barriers to purchasing",
+            "Only the company's annual rent",
+            "Whether every employee should receive a different job title",
+            "Whether the company should stop recording website traffic"
+        ],
+        "answer": "The conversion process, audience relevance, and barriers to purchasing"
+    },
+    {
+        "question": "A business has a growing customer base but declining satisfaction ratings. Which action is most appropriate?",
+        "options": [
+            "Ignore satisfaction ratings because the customer base is growing",
+            "Investigate service capacity, product quality, customer feedback, and fulfillment performance",
+            "Immediately stop accepting all new customers permanently",
+            "Increase advertising spending without evaluating operations"
+        ],
+        "answer": "Investigate service capacity, product quality, customer feedback, and fulfillment performance"
+    },
+    {
+        "question": "A business wants to introduce an environmentally friendly product. Which approach best supports a credible launch?",
+        "options": [
+            "Make broad environmental claims without evidence",
+            "Assume all customers have identical preferences",
+            "Avoid evaluating production and sourcing costs",
+            "Research customer demand, verify environmental claims, and assess operational and financial feasibility"
+        ],
+        "answer": "Research customer demand, verify environmental claims, and assess operational and financial feasibility"
+    },
+    {
+        "question": "A business receives an opportunity to enter a new market, but the market has different regulations and customer expectations. What should management do?",
+        "options": [
+            "Assume existing practices will work everywhere",
+            "Ignore local customer preferences",
+            "Research market conditions, applicable regulations, competition, and operational requirements",
+            "Expand immediately without a financial forecast"
+        ],
+        "answer": "Research market conditions, applicable regulations, competition, and operational requirements"
+    },
+    {
+        "question": "A company is deciding whether to automate a repetitive task. Which factor should it evaluate?",
+        "options": [
+            "Only the purchase price of the technology",
+            "Total implementation costs, expected benefits, reliability, employee impacts, and return on investment",
+            "Whether competitors use a different logo",
+            "Whether automation removes the need for every employee"
+        ],
+        "answer": "Total implementation costs, expected benefits, reliability, employee impacts, and return on investment"
+    },
+    {
+        "question": "A company is experiencing high employee turnover. Which action is most likely to help identify the underlying causes?",
+        "options": [
+            "Stop conducting exit interviews",
+            "Assume all departing employees have identical reasons",
+            "Increase workloads without reviewing employee feedback",
+            "Analyze turnover data, conduct appropriate exit interviews, and review workplace conditions"
+        ],
+        "answer": "Analyze turnover data, conduct appropriate exit interviews, and review workplace conditions"
+    },
+    {
+        "question": "A business must choose between launching a product quickly and spending more time testing it. What is the best decision-making approach?",
+        "options": [
+            "Assess customer needs, the consequences of defects, competitive timing, and the costs and benefits of additional testing",
+            "Always launch immediately regardless of risk",
+            "Always delay every product launch indefinitely",
+            "Ignore the quality standards expected by customers"
+        ],
+        "answer": "Assess customer needs, the consequences of defects, competitive timing, and the costs and benefits of additional testing"
+    },
+    {
+        "question": "A manager has limited funds and must choose between repairing essential equipment and redesigning the company logo. Which action should generally receive priority?",
+        "options": [
+            "Redesigning the logo because visual appearance always matters most",
+            "Splitting the budget equally regardless of operational need",
+            "Repairing essential equipment if its failure threatens safety, operations, or revenue",
+            "Postponing both decisions without assessing consequences"
+        ],
+        "answer": "Repairing essential equipment if its failure threatens safety, operations, or revenue"
+    },
+    {
+        "question": "A small business owner wants to improve decision quality. Which practice is most effective?",
+        "options": [
+            "Relying exclusively on intuition for every major decision",
+            "Combining relevant evidence, stakeholder input, explicit criteria, and evaluation of outcomes",
+            "Avoiding written objectives",
+            "Changing strategies daily without reviewing results"
+        ],
+        "answer": "Combining relevant evidence, stakeholder input, explicit criteria, and evaluation of outcomes"
+    }
+]
